@@ -30,6 +30,7 @@ for i, letter in enumerate(os.listdir('LSJ_data')):
 
                 previous_sense_levels = ['A', 'I', '1', 'a']
 
+                id = word.attrib['id']
                 key = word.attrib['key']
                 senses = word.findall("sense")
                 for sense in senses:
@@ -51,7 +52,7 @@ for i, letter in enumerate(os.listdir('LSJ_data')):
                             translation = element.text
                             if bib_key != "":
                                 file.write(
-                                    key + '\t' + "\t".join(sense_levels) + "\t" + translation + "\t" + bib_key + "\n")
+                                    id[1:] + '\t' + key + '\t' + "\t".join(sense_levels) + "\t" + translation + "\t" + bib_key + "\n")
                             translation_counter += 1
 
                         if element.tag == 'bibl':  # bibliography without citations
@@ -68,7 +69,7 @@ for i, letter in enumerate(os.listdir('LSJ_data')):
 
                             if translation_counter > 0:
                                 file.write(
-                                    key + '\t' + "\t".join(sense_levels) + "\t" + translation + "\t" + bib_key + "\n")
+                                    id[1:] + '\t' + key + '\t' + "\t".join(sense_levels) + "\t" + translation + "\t" + bib_key + "\n")
 
                         if element.tag == 'cit':  # bibliography for citations
                             book = element.find('bibl')
@@ -85,4 +86,4 @@ for i, letter in enumerate(os.listdir('LSJ_data')):
 
                                 if translation_counter > 0:
                                     file.write(
-                                        key + '\t' + "\t".join(sense_levels) + "\t" + translation + "\t" + bib_key + "\n")
+                                        id[1:] + '\t' + key + '\t' + "\t".join(sense_levels) + "\t" + translation + "\t" + bib_key + "\n")
