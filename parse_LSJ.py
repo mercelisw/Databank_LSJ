@@ -1,14 +1,13 @@
 import os
 import xml.etree.ElementTree as ET
 
-          # TEI.2 -> (teiHeader) text -> (front) body -> div0 -> (head) entryFree
+# TEI.2 -> (teiHeader) text -> (front) body -> div0 -> (head) entryFree
 
 for i, letter in enumerate(os.listdir('LSJ_data')):
 
-    title = 'LSJ_{}.csv'.format(i+1)
+    title = 'LSJ_{}.csv'.format(i + 1)
 
     with open('LSJ_output/' + title, "w+", encoding='UTF-8') as file:
-
 
         my_tree = ET.parse("LSJ_data/" + letter)
 
@@ -16,18 +15,18 @@ for i, letter in enumerate(os.listdir('LSJ_data')):
 
         if i == 0:
 
-            words = my_root[1][1][0][1:]        # TEI.2 -> (teiHeader) text -> (front) body -> div0 -> (head) entryFree
+            words = my_root[1][1][0][1:]  # TEI.2 -> (teiHeader) text -> (front) body -> div0 -> (head) entryFree
 
         else:
 
-            words = my_root[1][0][0][1:]        # TEI.2 -> (teiHeader) text -> body -> div0 -> (head) entryFree
+            words = my_root[1][0][0][1:]  # TEI.2 -> (teiHeader) text -> body -> div0 -> (head) entryFree
 
         for j, word in enumerate(words):
             if word.tag != 'entryFree':
                 continue
             else:
-                if j%1000 == 0:
-                    print("book {}/{}, word {}/{}".format(i+1, len((os.listdir("LSJ_data"))), j, len(words)))
+                if j % 1000 == 0:
+                    print("book {}/{}, word {}/{}".format(i + 1, len((os.listdir("LSJ_data"))), j, len(words)))
 
                 previous_sense_levels = ['A', 'I', '1', 'a']
 
@@ -55,10 +54,9 @@ for i, letter in enumerate(os.listdir('LSJ_data')):
                                     key + '\t' + "\t".join(sense_levels) + "\t" + translation + "\t" + bib_key + "\n")
                             translation_counter += 1
 
-                        if element.tag == 'bibl':           # bibliography without citations
+                        if element.tag == 'bibl':  # bibliography without citations
 
                             bib_key = ""
-
 
                             if element.text is not None:
                                 if 'n' in element.attrib:
@@ -66,14 +64,14 @@ for i, letter in enumerate(os.listdir('LSJ_data')):
                                 else:
                                     bib_key += element.text
 
-                            file.write(key + '\t' + "\t".join(sense_levels) + "\t" + translation + "\t" + bib_key + "\n")
+                            file.write(
+                                key + '\t' + "\t".join(sense_levels) + "\t" + translation + "\t" + bib_key + "\n")
 
-                        if element.tag == 'cit':            # bibliography for citations
+                        if element.tag == 'cit':  # bibliography for citations
                             book = element.find('bibl')
                             bib_key = ""
 
                             if book is not None:
-
 
                                 if 'n' in book.attrib:
                                     bib_key += book.attrib['n']
