@@ -63,10 +63,12 @@ for i, letter in enumerate(os.listdir('LSJ_data')):
                                     bib_key += element.attrib['n']
                                 else:
                                     for child in element[:]:
-                                        bib_key += child.text
+                                        if child.text is not None:
+                                            bib_key += child.text
 
-                            file.write(
-                                key + '\t' + "\t".join(sense_levels) + "\t" + translation + "\t" + bib_key + "\n")
+                            if translation_counter > 0:
+                                file.write(
+                                    key + '\t' + "\t".join(sense_levels) + "\t" + translation + "\t" + bib_key + "\n")
 
                         if element.tag == 'cit':  # bibliography for citations
                             book = element.find('bibl')
@@ -78,7 +80,9 @@ for i, letter in enumerate(os.listdir('LSJ_data')):
                                     bib_key += book.attrib['n']
                                 else:
                                     for child in book[:]:
-                                        bib_key += child.text
+                                        if child.text is not None:
+                                            bib_key += child.text
 
-                                file.write(
-                                    key + '\t' + "\t".join(sense_levels) + "\t" + translation + "\t" + bib_key + "\n")
+                                if translation_counter > 0:
+                                    file.write(
+                                        key + '\t' + "\t".join(sense_levels) + "\t" + translation + "\t" + bib_key + "\n")
