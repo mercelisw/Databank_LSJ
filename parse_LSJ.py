@@ -31,8 +31,7 @@ for i, letter in enumerate(os.listdir('LSJ_data')):
 
                 previous_sense_levels = ['A', 'I', '1', 'a']
 
-                orthography = word.find("orth").text.strip(':,;')
-
+                key = word.attrib['key']
                 senses = word.findall("sense")
                 for sense in senses:
                     default = ['A', 'I', '1', 'a']
@@ -53,7 +52,7 @@ for i, letter in enumerate(os.listdir('LSJ_data')):
                             translation = element.text
                             if reference != "":
                                 file.write(
-                                    orthography + '\t' + "\t".join(sense_levels) + "\t" + translation + "\t" + reference + "\n")
+                                    key + '\t' + "\t".join(sense_levels) + "\t" + translation + "\t" + reference + "\n")
                             translation_counter += 1
 
                         if element.tag == 'bibl':           # bibliography without citations
@@ -64,7 +63,7 @@ for i, letter in enumerate(os.listdir('LSJ_data')):
                                 if bibl.text is not None:
                                     reference += bibl.text
 
-                            file.write(orthography + '\t' + "\t".join(sense_levels) + "\t" + translation + "\t" + reference + "\n")
+                            file.write(key + '\t' + "\t".join(sense_levels) + "\t" + translation + "\t" + reference + "\n")
 
                         if element.tag == 'cit':            # bibliography for citations
                             book = element.find('bibl')
@@ -76,4 +75,4 @@ for i, letter in enumerate(os.listdir('LSJ_data')):
                                     reference += bibl.text
 
                                 file.write(
-                                    orthography + '\t' + "\t".join(sense_levels) + "\t" + translation + "\t" + reference + "\n")
+                                    key + '\t' + "\t".join(sense_levels) + "\t" + translation + "\t" + reference + "\n")
