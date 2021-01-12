@@ -32,6 +32,7 @@
 ἤ1	A	I	3	a	or else, otherwise	urn:cts:greekLit:tlg0007.tlg007:24
 ἤ1	A	I	3	a	or else, otherwise	
               
+              
 ἤ1	A	I	3	a	or else, otherwise	urn:cts:greekLit:tlg2001.tlg021:260a
 ἤ1	A	II	1	a		
               
@@ -68,11 +69,11 @@
 ἤ1	A	II	2	a		urn:cts:greekLit:tlg0085.tlg006.perseus-grc1:890
 ἤ1	A	II	2	a		urn:cts:greekLit:tlg0085.tlg005.perseus-grc1:478
 ἤ1	A	II	2	a		urn:cts:greekLit:tlg0011.tlg007.perseus-grc1:80
-ἤ1	A	II	2	a		
-                
+ἤ1	A	II	2	a		Id.Pers.148
 ἤ1	A	II	2	a		
               
 ἤ1	A	II	2	a		
+              
               
 ἤ1	A	II	2	a		urn:cts:greekLit:tlg0006.tlg012.perseus-grc1:897
 ἤ1	A	II	2	a		urn:cts:greekLit:tlg0011.tlg003.perseus-grc1:177
@@ -85,8 +86,7 @@
 ἤ1	B	I	1	a	than, as	urn:cts:greekLit:tlg0059.tlg023:481c
 ἤ1	B	I	1	a	than, as	urn:cts:greekLit:tlg0059.tlg003.perseus-grc1:44a
 ἤ1	B	I	1	a	than, as	urn:cts:greekLit:tlg0059.tlg011.perseus-grc1:173a
-ἤ1	B	I	1	a	than, as	
-                
+ἤ1	B	I	1	a	than, as	Tab.Heracl.1.121
 ἤ1	B	I	1	a	than, as	urn:cts:greekLit:tlg0016.tlg001.perseus-grc1:1:79
 ἤ1	B	I	1	a	than, as	urn:cts:greekLit:tlg0016.tlg001.perseus-grc1:8:4
 ἤ1	B	I	1	a	than, as	urn:cts:greekLit:tlg0059.tlg004.perseus-grc1:85b
@@ -130,7 +130,9 @@
 ἤ2	A	I	2	a	hi	urn:cts:greekLit:tlg0019.tlg009.perseus-grc1:271
 ἤ3	A	I	1	a	if,	
               
+              
 ἤ3	A	I	2	a	when, after	
+              
               
 ἤ3	A	I	2	a	when, after	
               
@@ -175,6 +177,7 @@
 ἦ1	A	I	2	a		urn:cts:greekLit:tlg0082.tlg004:307:19
 ἦ1	A	I	2	a		urn:cts:greekLit:tlg0082.tlg004:1:520
 ἦ1	A	I	2	a		
+              
               
 ἦ1	A	I	2	a		urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:1:169
 ἦ1	A	I	2	a		urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:156
@@ -259,22 +262,23 @@
 ἦ1	A	II	2	a	whether . .	urn:cts:greekLit:tlg0012.tlg002.perseus-grc1:16:138
 ἦ1	A	II	2	a	whether . .	
               
+              
 ἦ1	A	II	2	a	whether . .	urn:cts:greekLit:tlg0201.tlg001:34
-ἦ1	A	II	2	a	whether . .	
-                
+ἦ1	A	II	2	a	whether . .	IG12(3).170.12
 ἦ1	A	II	2	a	whether . .	
               
 ἧ	A	I	1	a	where,	
               
+              
 ἧ	A	I	1	a	where,	
+              
               
 ᾗ	A	I	1	a	which way, where, whither	urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:13:53
 ᾗ	A	I	1	a	which way, where, whither	urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:15:46
 ᾗ	A	I	1	a	which way, where, whither	urn:cts:greekLit:tlg0011.tlg005.perseus-grc1:1435
 ᾗ	A	I	1	a	which way, where, whither	urn:cts:greekLit:tlg0085.tlg006.perseus-grc1:308
 ᾗ	A	I	1	a	which way, where, whither	urn:cts:greekLit:tlg0059.tlg004.perseus-grc1:82d
-ᾗ	A	I	1	a	which way, where, whither	
-                
+ᾗ	A	I	1	a	which way, where, whither	SIG56.28
 ᾗ	A	II	1	a	how, as	urn:cts:greekLit:tlg0085.tlg006.perseus-grc1:558
 ᾗ	A	II	1	a	how, as	urn:cts:greekLit:tlg0011.tlg007.perseus-grc1:1603
 ᾗ	A	II	1	a	how, as	urn:cts:greekLit:tlg0003.tlg001.perseus-grc1:8:71
@@ -284,8 +288,7 @@
 ᾗ	A	II	2	a	wherefore	urn:cts:greekLit:tlg0003.tlg001.perseus-grc1:2:2
 ᾗ	A	II	3	a	in so far as	urn:cts:greekLit:tlg0032.tlg002.perseus-grc1:2:1:18
 ᾗ	A	II	3	a	in so far as	urn:cts:greekLit:tlg0059.tlg024:72b
-ᾗ	A	II	3	a	in so far as	
-                
+ᾗ	A	II	3	a	in so far as	Phld.Rh.2.265S.
 ᾗ	A	II	3	a	in so far as	urn:cts:greekLit:tlg0086.tlg010.perseus-grc1:1096b:2
 ᾗ	A	III	1	a	as	urn:cts:greekLit:tlg0032.tlg006.perseus-grc1:1:2:4
 ᾗ	A	III	1	a	as	urn:cts:greekLit:tlg0032.tlg006.perseus-grc1:1:3:15
@@ -314,17 +317,16 @@
 ἡβάσκω	A	I	2	a		
               
 ἡβάσκω	A	I	2	a		urn:cts:greekLit:tlg0006.tlg002.perseus-grc1:1085
-ἡβάσκω	A	I	2	a		
-                
+ἡβάσκω	A	I	2	a		AP6.30
 ἡβάσκω	A	I	2	a		
               
-ἡβάσκω	A	I	2	a		
-                
+ἡβάσκω	A	I	2	a		Philostr.Her.Praef.
 ἡβάσκω	A	I	3	a	reach	urn:cts:greekLit:tlg4000.tlg001:1:11
 ἡβάσκω	A	I	3	a	reach	urn:cts:greekLit:tlg1600.tlg001:2:7
 ἡβάω	A	I	1	a		urn:cts:greekLit:tlg0019.tlg004.perseus-grc1:357
 ἡβάω	A	I	1	a		urn:cts:greekLit:tlg0032.tlg007.perseus-grc1:6:1:12
 ἡβάω	A	I	1	a		
+              
               
 ἡβάω	A	I	1	a		urn:cts:greekLit:tlg0012.tlg002.perseus-grc1:1:41
 ἡβάω	A	I	1	a		urn:cts:greekLit:tlg0020.tlg002.perseus-grc1:132
@@ -332,14 +334,13 @@
 ἡβάω	A	I	1	a		urn:cts:greekLit:tlg0016.tlg001.perseus-grc1:3:53
 ἡβάω	A	I	1	a	attain	urn:cts:greekLit:tlg0016.tlg001.perseus-grc1:3:53
 ἡβάω	A	I	1	a	attain	urn:cts:greekLit:tlg0020.tlg002.perseus-grc1:132
-ἡβάω	A	I	1	a	attain	
-                
+ἡβάω	A	I	1	a	attain	Hp.
 ἡβάω	A	I	1	a	attain	
               
-ἡβάω	A	I	1	a	attain	
-                
+ἡβάω	A	I	1	a	attain	Pl.Ap.
 ἡβάω	A	I	1	a	attain	urn:cts:greekLit:tlg0020.tlg002.perseus-grc1:698
 ἡβάω	A	I	1	a	attain	
+              
               
 ἡβάω	A	I	1	a	attain	urn:cts:greekLit:tlg0019.tlg009.perseus-grc1:1055
 ἡβάω	A	I	1	a	attain	urn:cts:greekLit:tlg0003.tlg001.perseus-grc1:4:132
@@ -362,8 +363,7 @@
 ἡβάω	A	I	3	a	to be fresh, vigorous	urn:cts:greekLit:tlg0023.tlg001.perseus-grc1:1:474
 ἡβάω	A	I	3	a	to be fresh, vigorous	urn:cts:greekLit:tlg0023.tlg001.perseus-grc1:2:252
 ἡβάω	A	I	4	a	to have the outward signs of puberty	urn:cts:greekLit:tlg0086.tlg012:746b:23
-ἡβάω	A	I	4	a	to have the outward signs of puberty	
-                
+ἡβάω	A	I	4	a	to have the outward signs of puberty	AP12.31
 ἡβάω	A	I	4	a	to have the outward signs of puberty	
               
 ἥβη	A	I	1	a	youthful prime, youth	urn:cts:greekLit:tlg0012.tlg002.perseus-grc1:10:279
@@ -387,6 +387,7 @@
 ἥβη	A	I	1	b	strength and vigour of youth	urn:cts:greekLit:tlg0011.tlg004.perseus-grc1:741
 ἥβη	A	I	1	b	strength and vigour of youth	urn:cts:greekLit:tlg0006.tlg010.perseus-grc1:477
 ἥβη	A	I	1	c	the time before manhood	
+              
               
 ἥβη	A	I	1	c	the time before manhood	urn:cts:greekLit:tlg4099.tlg001:359:17
 ἥβη	A	I	1	c	the time before manhood	
@@ -424,6 +425,7 @@
 ἥβησις	A	I	1	a	pubescence	urn:cts:greekLit:tlg0565.tlg001:1:24
 ἡβητήρ	A	I	1	a		
               
+              
 ἡβητήρ	A	I	1	a		
               
 ἡβητήρ	A	I	1	a		urn:cts:greekLit:tlg4063.tlg001:6:76
@@ -431,6 +433,7 @@
               
 ἡβητήρ	A	I	1	a		urn:cts:greekLit:tlg4081.tlg001.perseus-grc1:71
 ἡβητηρία	A	I	1	a	the age of	
+              
               
 ἡβητήριον	A	I	1	a	a place where young people meet	urn:cts:greekLit:tlg0007.tlg045:40
 ἡβητήριον	A	I	1	a	a place where young people meet	urn:cts:greekLit:tlg0007.tlg045:53
@@ -445,8 +448,10 @@
 ἡβητικός	A	I	1	a	youthful	urn:cts:greekLit:tlg0032.tlg010:4:7
 ἡβητικός	A	I	1	a	youthful	
               
+              
 ἡβήτωρ	A	I	1	a		urn:cts:greekLit:tlg1486.tlg001:78
 ἡβικός	A	I	1	a		
+              
               
 ἡβικός	A	I	1	a		urn:cts:greekLit:tlg0724.tlg002:2:373
 ἡβικός	A	I	1	a		
@@ -467,7 +472,9 @@
 ἡγεμόνευμα	A	I	1	a	leading	urn:cts:greekLit:tlg0006.tlg015.perseus-grc1:1492
 ἡγεμονεύς	A	I	1	a	governor,	
               
+              
 ἡγεμονεύς	A	I	1	a	governor,	
+              
               
 ἡγεμονεύω	A	I	1	a	lead the way	urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:16:92
 ἡγεμονεύω	A	I	1	a	lead the way	urn:cts:greekLit:tlg0012.tlg002.perseus-grc1:3:386
@@ -507,10 +514,10 @@
 ἡγεμονεύω	A	II	1	a	lead	urn:cts:greekLit:tlg0012.tlg002.perseus-grc1:1
 ἡγεμονεύω	A	II	1	a	lead	
               
-ἡγεμονεύω	A	III	1	a	to be governor	
-                
+ἡγεμονεύω	A	III	1	a	to be governor	Eu. Luc.2.2
 ἡγεμονεύω	A	III	1	a	to be governor	Perseus:abo:pap,P.Tebt.:302:7
 ἡγεμονεύω	A	III	1	a	to be governor	
+              
               
 ἡγεμονέω	A	I	1	a	have authority	urn:cts:greekLit:tlg0059.tlg031:41c
 ἡγεμονέω	A	I	1	a	have authority	urn:cts:greekLit:tlg0059.tlg031:70c
@@ -518,6 +525,7 @@
 ἡγεμόνη	A	I	1	a	queen	urn:cts:greekLit:tlg0533.tlg002:227
 ἡγεμόνη	A	I	1	a	queen	urn:cts:greekLit:tlg0651.tlg001:4:5
 ἡγεμόνη	A	I	1	a	queen	
+              
               
 ἡγεμόνη	A	I	1	a	queen	
               
@@ -547,15 +555,17 @@
 ἡγεμονία	A	II	2	a	political supremacy	urn:cts:greekLit:tlg0086.tlg035.perseus-grc1:1288a:9
 ἡγεμονία	A	II	2	b	imperium	urn:cts:greekLit:tlg0007.tlg031:36
 ἡγεμονία	A	II	2	b	imperium	urn:cts:greekLit:tlg0385.tlg001:60:17
-ἡγεμονία	A	II	2	b	imperium	
-                
+ἡγεμονία	A	II	2	b	imperium	Mon.Anc.Gr.15.1
 ἡγεμονία	A	II	2	b	imperium	urn:cts:greekLit:tlg1204.tlg001:39:7
 ἡγεμονία	A	II	2	b	imperium	urn:cts:greekLit:tlg0007.tlg036:30
 ἡγεμονία	A	II	2	b	imperium	
               
+              
 ἡγεμονία	A	II	2	b	imperium	
               
+              
 ἡγεμονία	A	III	1	a	military unit, regiment,	
+              
               
 ἡγεμονία	A	III	1	a	military unit, regiment,	Perseus:abo:pap,P.Rein.:9:13
 ἡγεμονία	A	III	1	a	military unit, regiment,	urn:cts:greekLit:tlg0007.tlg011:23
@@ -566,13 +576,14 @@
 ἡγεμονία	A	V	1	a	a principality	urn:cts:greekLit:tlg0015.tlg001:7:5:2
 ἡγεμονία	A	V	1	a	a principality	
               
+              
 ἡγεμονία	A	V	1	a	a principality	
+              
               
 ἡγεμονίδης	A	I	1	a		urn:cts:greekLit:tlg0527.tlg024:13:24
 ἡγεμονικός	A	I	1	a	of	urn:cts:greekLit:tlg0032.tlg002.perseus-grc1:2:3:14
 ἡγεμονικός	A	I	1	a	of	urn:cts:greekLit:tlg0032.tlg007.perseus-grc1:2:2:25
-ἡγεμονικός	A	I	1	a	of	
-                
+ἡγεμονικός	A	I	1	a	of	Gp.4.13.4
 ἡγεμονικός	A	I	1	a	of	urn:cts:greekLit:tlg1764.tlg001:38:13
 ἡγεμονικός	A	II	1	a	capable of command, authoritative	urn:cts:greekLit:tlg0032.tlg004.perseus-grc1:8:16
 ἡγεμονικός	A	II	1	a	capable of command, authoritative	urn:cts:greekLit:tlg1596.tlg001:11
@@ -584,9 +595,11 @@
 ἡγεμονικός	A	II	1	a	capable of command, authoritative	urn:cts:greekLit:tlg0086.tlg035.perseus-grc1:1327b:5
 ἡγεμονικός	A	II	1	a	capable of command, authoritative	
               
+              
 ἡγεμονικός	A	II	1	a	capable of command, authoritative	urn:cts:greekLit:tlg0363.tlg007:34
 ἡγεμονικός	A	II	1	a	capable of command, authoritative	urn:cts:greekLit:tlg0059.tlg022:352b
 ἡγεμονικός	A	II	1	a	capable of command, authoritative	
+              
               
 ἡγεμονικός	A	II	1	a	capable of command, authoritative	urn:cts:greekLit:tlg1264.tlg001:2:186
 ἡγεμονικός	A	II	1	a	capable of command, authoritative	urn:cts:greekLit:tlg1264.tlg001:192
@@ -602,9 +615,11 @@
 ἡγεμόνιος	A	I	1	a	guiding	urn:cts:greekLit:tlg0019.tlg011.perseus-grc1:1159
 ἡγεμόνιος	A	I	1	a	guiding	
               
+              
 ἡγεμόνιος	A	I	1	a	guiding	urn:cts:greekLit:tlg0654.tlg002:16
 ἡγεμονίς	A	I	1	a	imperial	urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:8:6:10
 ἡγεμονίς	A	I	1	a	imperial	
+              
               
 ἡγεμονίς	A	I	1	a	imperial	urn:cts:greekLit:tlg0551.tlg017.perseus-grc1:2:65
 ἡγεμονίς	A	I	1	a	imperial	urn:cts:greekLit:tlg0018.tlg001:2:5
@@ -659,17 +674,16 @@
 ἡγεμών	A	II	1	a	leader, commander, chief	urn:cts:greekLit:tlg0032.tlg003.perseus-grc1:38
 ἡγεμών	A	II	1	a	leader, commander, chief	urn:cts:greekLit:tlg0086.tlg014:573b:24
 ἡγεμών	A	II	1	a	leader, commander, chief	urn:cts:greekLit:tlg0086.tlg014:575b:1
-ἡγεμών	A	II	1	a	leader, commander, chief	
-                
+ἡγεμών	A	II	1	a	leader, commander, chief	SIG144.36
 ἡγεμών	A	II	1	a	leader, commander, chief	urn:cts:greekLit:tlg0032.tlg001.perseus-grc1:6:4:29
 ἡγεμών	A	II	1	b	leader	urn:cts:greekLit:tlg0542.tlg001:4:106
-ἡγεμών	A	II	1	b	leader	
-                
+ἡγεμών	A	II	1	b	leader	IG7.3196
 ἡγεμών	A	II	1	b	leader	
               
 ἡγεμών	A	II	1	c	a Roman Emperor	urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:4:3:2
 ἡγεμών	A	II	1	c	a Roman Emperor	urn:cts:greekLit:tlg0007.tlg055:2
 ἡγεμών	A	II	1	c	a Roman Emperor	
+              
               
 ἡγεμών	A	II	1	c	a Roman Emperor	
               
@@ -677,6 +691,7 @@
 ἡγεμών	A	II	1	c	a Roman Emperor	urn:cts:greekLit:tlg0031.tlg001.perseus-grc1:27:2
 ἡγεμών	A	II	1	c	a Roman Emperor	urn:cts:greekLit:tlg0031.tlg005.perseus-grc1:23:24
 ἡγεμών	A	II	1	c	a Roman Emperor	
+              
               
 ἡγεμών	A	II	1	c	a Roman Emperor	Perseus:abo:pap,P.Oxy.:39:6
 ἡγεμών	A	II	1	c	a Roman Emperor	Perseus:abo:pap,P.Oxy.:25:13
@@ -690,6 +705,7 @@
 ἡγεμών	A	III	1	a		urn:cts:greekLit:tlg0081.tlg006:47
 ἡγεμών	A	IV	1	a	coping-tiles	
               
+              
 ἡγεμών	A	IV	1	a	coping-tiles	
               
 ἡγεμών	A	IV	1	a	coping-tiles	
@@ -698,8 +714,8 @@
               
 ἡγεμών	A	V	1	a		
               
-ἡγέομαι	A	I	1	a		
-                
+              
+ἡγέομαι	A	I	1	a		Hymn.Curet.4
 ἡγέομαι	A	I	1	a		
               
 ἡγέομαι	A	I	1	a		urn:cts:greekLit:tlg0016.tlg001.perseus-grc1:2:115
@@ -735,6 +751,7 @@
 ἡγέομαι	A	I	1	e	drive	urn:cts:greekLit:tlg1600.tlg001:2:23
 ἡγέομαι	A	I	1	f	to be antecedent	
               
+              
 ἡγέομαι	A	I	1	f	to be antecedent	
               
 ἡγέομαι	A	I	1	f	to be antecedent	urn:cts:greekLit:tlg0544.tlg002:8:110
@@ -746,7 +763,10 @@
 ἡγέομαι	A	I	2	a	to be	urn:cts:greekLit:tlg0012.tlg002.perseus-grc1:23:134
 ἡγέομαι	A	I	2	a	to be	
               
+              
 ἡγέομαι	A	I	2	a	to be	
+              
+              
               
 ἡγέομαι	A	I	2	a	to be	urn:cts:greekLit:tlg0059.tlg034.perseus-grc1:730c
 ἡγέομαι	A	I	2	a	to be	urn:cts:greekLit:tlg0032.tlg007.perseus-grc1:8:7:1
@@ -784,15 +804,17 @@
 ἡγέομαι	A	II	2	a	rule, have dominion	urn:cts:greekLit:tlg0016.tlg001.perseus-grc1:9:1
 ἡγέομαι	A	II	2	a	rule, have dominion	urn:cts:greekLit:tlg0011.tlg006.perseus-grc1:386
 ἡγέομαι	A	II	2	a	rule, have dominion	urn:cts:greekLit:tlg0085.tlg005.perseus-grc1:1363
+ἡγέομαι	A	II	2	a	rule, have dominion	Act.Ap.15.22
 ἡγέομαι	A	II	2	a	rule, have dominion	
-                
-ἡγέομαι	A	II	2	a	rule, have dominion	
+              
+              
               
 ἡγέομαι	A	II	3	a	president	Perseus:abo:pap,P.Grenf.:2:67:3
 ἡγέομαι	A	II	3	a	president	Perseus:abo:pap,P.Grenf.:43:9
 ἡγέομαι	A	II	3	a	president	Perseus:abo:pap,P.Lond.:2:281:2
 ἡγέομαι	A	II	3	a	president	Perseus:abo:pap,P.Fay.:110:26
 ἡγέομαι	A	II	3	b	praeses provinciae,	
+              
               
 ἡγέομαι	A	II	3	b	praeses provinciae,	urn:cts:greekLit:tlg0062.tlg038:44
 ἡγέομαι	A	II	3	c	officials	Perseus:abo:pap,P.Oxy.:294:19
@@ -834,8 +856,7 @@
 ἡγέομαι	A	III	4	a	think	urn:cts:greekLit:tlg0027.tlg001.perseus-grc1:23
 ἡγέομαι	A	III	4	a	think	urn:cts:greekLit:tlg0014.tlg001.perseus-grc1:20
 ἡγέομαι	A	III	4	a	think	urn:cts:greekLit:tlg0003.tlg001.perseus-grc1:2:42
-ἡγέομαι	A	III	4	a	think	
-                
+ἡγέομαι	A	III	4	a	think	Inscr.Magn.114
 ἡγέομαι	A	III	4	a	think	urn:cts:greekLit:tlg0059.tlg022:346b
 ἡγέομαι	A	IV	1	a		urn:cts:greekLit:tlg0014.tlg043.perseus-grc1:66
 ἡγέομαι	A	IV	1	a	being led	urn:cts:greekLit:tlg0014.tlg043.perseus-grc1:66
@@ -852,11 +873,9 @@
 ἠγερέθομαι	A	I	1	a	gather together, assemble	urn:cts:greekLit:tlg0023.tlg001.perseus-grc1:3:360
 ἡγεσία	A	I	1	a		
               
-ἡγέτης	A	I	1	a	leader	
-                
+ἡγέτης	A	I	1	a	leader	Epigr.Gr.1035.13
 ἡγέτης	A	I	1	a	leader	urn:cts:greekLit:tlg0579.tlg001:52:7
-ἡγέτης	A	I	1	a	leader	
-                
+ἡγέτης	A	I	1	a	leader	AP6.167
 ἡγέτης	A	I	1	a	leader	
               
 ἡγέτης	A	I	1	a	leader	urn:cts:greekLit:tlg4024.tlg001:7:425
@@ -870,10 +889,9 @@
 ἡγηλατέω	A	I	1	a		urn:cts:greekLit:tlg2001.tlg004:56c
 ἥγημα	A	I	1	a	that which guides,	
               
-ἥγημα	A	II	1	a		
-                
-ἥγημα	A	II	1	a	thought, purpose	
-                
+              
+ἥγημα	A	II	1	a		111
+ἥγημα	A	II	1	a	thought, purpose	111
 ἥγημα	A	II	1	a	thought, purpose	urn:cts:greekLit:tlg0527.tlg053:17:3
 ἡγησίπολις	A	I	1	a	leader of the state	urn:cts:greekLit:tlg0004.tlg001.perseus-grc1:2:131
 ἥγησις	A	I	1	a	command	urn:cts:greekLit:tlg0527.tlg009:5:15
@@ -886,6 +904,7 @@
 ἡγητήρ	A	I	1	a	a guide	urn:cts:greekLit:tlg0011.tlg007.perseus-grc1:1521
 ἡγητήρ	A	I	1	a	a guide	
               
+              
 ἡγητήρ	A	I	2	a	pilot-fish	urn:cts:greekLit:tlg0023.tlg001.perseus-grc1:5:70
 ἡγητήρ	A	I	3	a	a leader	urn:cts:greekLit:tlg0033.tlg002.perseus-grc1:1:69
 ἡγητηρία	A	I	1	a	mass of dried figs, borne in procession at the Attic	urn:cts:greekLit:tlg0008.tlg001.perseus-grc1:3:74d
@@ -897,11 +916,13 @@
 ἡγητής	A	I	1	a	a guide	urn:cts:greekLit:tlg0085.tlg001.perseus-grc1:239
 ἡγητικός	A	I	1	a	authoritative, leading	
               
+              
 ἡγητικός	A	I	1	a	authoritative, leading	urn:cts:greekLit:tlg4036.tlg008:p.483
 ἡγητικός	A	I	1	a	authoritative, leading	
               
 ἡγητικός	A	I	1	a	authoritative, leading	urn:cts:greekLit:tlg1764.tlg001:15:16
 ἡγήτωρ	A	I	1	a	f	
+              
               
 ἡγήτωρ	A	I	1	a	f	urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:3:153
 ἡγήτωρ	A	I	1	a	f	urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:10:181
@@ -909,9 +930,11 @@
 ἡγήτωρ	A	I	1	a	f	urn:cts:greekLit:tlg0013.tlg004.perseus-grc1:14
 ἡγήτωρ	A	II	1	a		
               
+              
 ἡγήτωρ	A	II	1	a		
               
 ἡγιασμένως	A	I	1	a	in holy manner	
+              
               
 ἡγιασμένως	A	I	1	a	in holy manner	
               
@@ -924,14 +947,15 @@
 ἡγούμενος	A	I	1	a		urn:cts:greekLit:tlg4099.tlg001:11:3
 ἤγουν	A	I	1	a	that is to say, or rather	urn:cts:greekLit:tlg4083.tlg001:50:15
 ἤγουν	A	I	1	a	that is to say, or rather	urn:cts:greekLit:tlg2580.tlg002:4:23
-ἤγουν	A	I	1	a	that is to say, or rather	
-                
+ἤγουν	A	I	1	a	that is to say, or rather	Hp.Acut.
 ἤγουν	A	I	1	a	that is to say, or rather	urn:cts:greekLit:tlg0627.tlg004.perseus-grc1:49
 ἤγουν	A	I	1	a	that is to say, or rather	urn:cts:greekLit:tlg0627.tlg004.perseus-grc1:ii 491
 ἤγουν	A	I	1	a	that is to say, or rather	urn:cts:greekLit:tlg0032.tlg003.perseus-grc1:19:11
 ἤγουν	A	I	1	a	that is to say, or rather	
               
+              
 ἤγουν	A	I	1	a	that is to say, or rather	
+              
               
 ἡδανός	A	I	1	a		urn:cts:greekLit:tlg4083.tlg001:974:53
 ἠδέ	A	I	1	a	and	urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:7:302
@@ -954,8 +978,7 @@
 ἠδέ	A	II	1	a	and	urn:cts:greekLit:tlg0012.tlg002.perseus-grc1:1:240
 ἠδέ	A	II	1	a	and	urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:1:455
 ἠδέ	A	II	1	a	and	urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:2:118
-ἠδέ	A	II	1	a	and	
-                
+ἠδέ	A	II	1	a	and	AP9.788.9
 ἠδέ	A	II	1	a	and	urn:cts:greekLit:tlg0085.tlg002.perseus-grc1:16
 ἠδέ	A	II	1	a	and	urn:cts:greekLit:tlg0085.tlg002.perseus-grc1:289
 ἠδέ	A	II	1	a	and	urn:cts:greekLit:tlg0085.tlg006.perseus-grc1:1025
@@ -969,6 +992,7 @@
 ἠδέ	A	II	1	a	and	
               
 ἠδέ	A	II	1	a	and	
+              
               
 ἠδέ	A	II	1	a	and	urn:cts:greekLit:tlg0719.tlg004.perseus-grc1:2:7
 ἠδέ	A	II	1	a	and	urn:cts:greekLit:tlg0719.tlg004.perseus-grc1:1:3
@@ -992,10 +1016,10 @@
 ἤδη1	A	I	2	a	forthwith, immediately	urn:cts:greekLit:tlg0019.tlg008.perseus-grc1:655
 ἤδη1	A	I	2	a	forthwith, immediately	
               
-ἤδη1	A	I	2	a	forthwith, immediately	
               
 ἤδη1	A	I	2	a	forthwith, immediately	
-                
+              
+ἤδη1	A	I	2	a	forthwith, immediately	PMag.Osl.1.319
 ἤδη1	A	I	3	a	actually, now	urn:cts:greekLit:tlg0012.tlg002.perseus-grc1:20:90
 ἤδη1	A	I	3	a	actually, now	urn:cts:greekLit:tlg0011.tlg007.perseus-grc1:614
 ἤδη1	A	I	3	a	actually, now	urn:cts:greekLit:tlg0006.tlg008.perseus-grc1:551
@@ -1016,6 +1040,7 @@
 ἤδη1	A	I	4	d	only then, then and not before	urn:cts:greekLit:tlg0085.tlg003.perseus-grc1:911
 ἤδη1	A	I	4	d	only then, then and not before	urn:cts:greekLit:tlg0010.tlg021.perseus-grc1:25
 ἤδη1	A	I	4	d	only then, then and not before	
+              
               
 ἤδη1	A	I	4	d	only then, then and not before	urn:cts:greekLit:tlg0026.tlg003.perseus-grc1:140
 ἤδη1	A	I	4	d	only then, then and not before	urn:cts:greekLit:tlg0003.tlg001.perseus-grc1:1:78
@@ -1083,12 +1108,13 @@
 ἥδομαι	A	I	7	a		urn:cts:greekLit:tlg0019.tlg005.perseus-grc1:291
 ἥδομαι	A	I	7	a		
               
+              
 ἥδομαι	A	I	7	a	glad, delighted.	
+              
               
 ἥδομαι	A	I	7	a	glad, delighted.	Eur. Fr. 754
 ἥδομαι	A	I	7	a	glad, delighted.	urn:cts:greekLit:tlg0019.tlg006.perseus-grc1:236
-ἥδομαι	A	I	7	a	glad, delighted.	
-                
+ἥδομαι	A	I	7	a	glad, delighted.	Plu.2.1025e
 ἥδομαι	A	I	7	a	glad, delighted.	
               
 ἥδομαι	A	I	7	a	glad, delighted.	urn:cts:greekLit:tlg0016.tlg001.perseus-grc1:8:10
@@ -1098,8 +1124,7 @@
 ἥδομαι	A	I	7	a	glad, delighted.	urn:cts:greekLit:tlg0059.tlg019:187c
 ἥδομαι	A	I	7	a	glad, delighted.	urn:cts:greekLit:tlg0537.tlg001:4
 ἥδομαι	A	II	1	a	please, delight	urn:cts:greekLit:tlg0237.tlg001:148
-ἥδομαι	A	II	1	a	please, delight	
-                
+ἥδομαι	A	II	1	a	please, delight	Muson.Fr.18
 ἥδομαι	A	II	1	a	please, delight	
               
 ἥδομαι	A	II	1	a	please, delight	urn:cts:greekLit:tlg0541.tlg047:38
@@ -1108,7 +1133,10 @@
 ἥδομαι	A	II	1	a	please, delight	urn:cts:greekLit:tlg0658.tlg001:10:32
 ἥδομαι	A	II	1	a	please, delight	
               
+              
 ἥδομαι	A	II	1	a	please, delight	
+              
+              
               
 ἥδομαι	A	II	1	a	please, delight	urn:cts:greekLit:tlg0059.tlg038:366a
 ἥδομαι	A	II	1	a	please, delight	
@@ -1175,6 +1203,7 @@
 ἡδονή	A	II	1	a	taste, flavour	urn:cts:greekLit:tlg1319.tlg001:5
 ἡδονή	A	II	1	a	taste, flavour	
               
+              
 ἡδονή	A	II	1	a	taste, flavour	urn:cts:greekLit:tlg0086.tlg030:660b:9
 ἡδονή	A	II	1	a	taste, flavour	urn:cts:greekLit:tlg0093.tlg001:4:4:7
 ἡδονή	A	II	1	a	taste, flavour	urn:cts:greekLit:tlg0527.tlg004:11:8
@@ -1213,19 +1242,19 @@
 ἡδύβιος	A	II	1	a	living pleasantly	urn:cts:greekLit:tlg0363.tlg007:18:29
 ἡδύβιος	A	II	1	a	living pleasantly	urn:cts:greekLit:tlg0019.tlg004.perseus-grc1:504
 ἡδυβόης	A	I	1	a	sweet-sounding	urn:cts:greekLit:tlg0006.tlg017.perseus-grc1:127
-ἡδυβόης	A	I	1	a	sweet-sounding	
-                
-ἡδυβόης	A	I	1	a	sweet-sounding	
-                
-ἡδύγαμος	A	I	1	a	sweetening marriage	
-                
+ἡδυβόης	A	I	1	a	sweet-sounding	AP9.396
+ἡδυβόης	A	I	1	a	sweet-sounding	APl.4.231
+ἡδύγαμος	A	I	1	a	sweetening marriage	AP5.242
 ἡδύγαμος	A	I	1	a	sweetening marriage	
               
 ἡδυγέλως	A	I	1	a	sweetly laughing,	
               
+              
 ἡδυγέλως	A	I	1	a	sweetly laughing,	
+              
               
 ἡδυγλωσσία	A	I	1	a	sweetness of tongue,	
+              
               
 ἡδύγλωσσος	A	I	1	a	sweet-tongued	urn:cts:greekLit:tlg0033.tlg001.perseus-grc1:13:100
 ἡδυγνώμων	A	I	1	a	of pleasant mind	urn:cts:greekLit:tlg0032.tlg004.perseus-grc1:8:30
@@ -1234,6 +1263,7 @@
 ἡδυεπής	A	I	1	a	sweet-speaking	urn:cts:greekLit:tlg0033.tlg003.perseus-grc1:7:21
 ἡδυεπής	A	I	1	a	sweet-speaking	
               
+              
 ἡδυεπής	A	I	1	a	sweet-speaking	urn:cts:greekLit:tlg0033.tlg001.perseus-grc1:10(11).93
 ἡδυεπής	A	I	1	a	sweet-speaking	urn:cts:greekLit:tlg0033.tlg003.perseus-grc1:1:4
 ἡδυεπής	A	I	1	a	sweet-speaking	urn:cts:greekLit:tlg0011.tlg004.perseus-grc1:151
@@ -1241,19 +1271,16 @@
 ἡδυεπής	A	I	1	a	sweet-speaking	urn:cts:greekLit:tlg0020.tlg001.perseus-grc1:1021
 ἡδυεπής	A	I	1	a	sweet-speaking	urn:cts:greekLit:tlg2045.tlg001.perseus-grc1:10:390
 ἡδύθροος	A	I	1	a	sweet-strained	urn:cts:greekLit:tlg0006.tlg012.perseus-grc1:703
-ἡδύθροος	A	I	1	a	sweet-strained	
-                
-ἡδύθροος	A	I	1	a	sweet-strained	
-                
+ἡδύθροος	A	I	1	a	sweet-strained	AP9.524.8
+ἡδύθροος	A	I	1	a	sweet-strained	Pae.Delph.13
 ἡδύκαρπος	A	I	1	a	with sweet fruit	urn:cts:greekLit:tlg2329.tlg001:178J
 ἡδύκαρπος	A	I	1	a	with sweet fruit	urn:cts:greekLit:tlg0093.tlg001:4:4:5
 ἡδυκρέως	A	I	1	a	of sweet flesh	urn:cts:greekLit:tlg0086.tlg014:564a:3
 ἡδυκρέως	A	I	1	a	of sweet flesh	urn:cts:greekLit:tlg0086.tlg012:786a:15
-ἡδυλάλος	A	I	1	a		
-                
+ἡδυλάλος	A	I	1	a		IG12(7).95.4
+Ἡδύλειος	A	I	1	a	of	IG11(2).154
 Ἡδύλειος	A	I	1	a	of	
-                
-Ἡδύλειος	A	I	1	a	of	
+              
               
 ἡδυλίζω	A	I	1	a	flatter, wheedle	urn:cts:greekLit:tlg0541.tlg001:28
 ἡδυλισμός	A	I	1	a	flattering	urn:cts:greekLit:tlg4083.tlg001:1417:21
@@ -1264,11 +1291,11 @@
 ἡδύλογος	A	I	1	a	sweetspeaking, sweet-voiced	urn:cts:greekLit:tlg0009.tlg001:1787
 ἡδύλογος	A	I	1	a	sweetspeaking, sweet-voiced	
               
+              
 ἡδύλογος	A	I	1	a	sweetspeaking, sweet-voiced	urn:cts:greekLit:tlg0434.tlg001:238
 ἡδύλογος	A	I	1	a	sweetspeaking, sweet-voiced	urn:cts:greekLit:tlg0434.tlg001:67:4
 ἡδύλογος	A	I	1	a	sweetspeaking, sweet-voiced	urn:cts:greekLit:tlg0033.tlg001.perseus-grc1:6:96
-ἡδύλογος	A	I	1	a	sweetspeaking, sweet-voiced	
-                
+ἡδύλογος	A	I	1	a	sweetspeaking, sweet-voiced	AP5.136
 ἡδύλογος	A	I	1	a	sweetspeaking, sweet-voiced	
               
 ἡδύλογος	A	I	1	a	sweetspeaking, sweet-voiced	urn:cts:greekLit:tlg1492.tlg001:7:159
@@ -1278,22 +1305,22 @@
 ἡδύλογος	A	I	2	a	flattering, fawning	urn:cts:greekLit:tlg0008.tlg001.perseus-grc1:4:165b
 ἡδύλογος	A	I	2	a	flattering, fawning	urn:cts:greekLit:tlg0008.tlg001.perseus-grc1:1
 ἡδύλογος	A	I	2	a	flattering, fawning	urn:cts:greekLit:tlg0008.tlg001.perseus-grc1:2
-ἡδυλύρης	A	I	1	a	singing sweetly to the lyre	
-                
+ἡδυλύρης	A	I	1	a	singing sweetly to the lyre	AP11.370
 ἡδυλύρης	A	I	1	a	singing sweetly to the lyre	
               
 ἡδυλύρης	A	I	1	a	singing sweetly to the lyre	
+              
               
 ἡδυμανής	A	I	1	a	full of sweet frenzy	urn:cts:greekLit:tlg2045.tlg001.perseus-grc1:7:269
 ἡδυμέλεια	A	I	1	a	sweetness of melody	urn:cts:greekLit:tlg1764.tlg001:3:20
 ἡδυμελής	A	I	1	a	sweet-singing	urn:cts:greekLit:tlg0237.tlg001:67
 ἡδυμελής	A	I	1	a	sweet-singing	
               
+              
 ἡδυμελής	A	I	1	a	sweet-singing	urn:cts:greekLit:tlg0033.tlg003.perseus-grc1:2:25
 ἡδυμελής	A	I	1	a	sweet-singing	urn:cts:greekLit:tlg0011.tlg008.perseus-grc1:238
 ἡδυμελής	A	I	1	a	sweet-singing	urn:cts:greekLit:tlg2045.tlg001.perseus-grc1:29:287
-ἡδυμελίφθογγος	A	I	1	a	of honey-sweet voice	
-                
+ἡδυμελίφθογγος	A	I	1	a	of honey-sweet voice	AP9.571
 ἡδυμιγής	A	I	1	a	sweetly-mixed	
               
 ἡδυμιγής	A	I	1	a	sweetly-mixed	
@@ -1312,8 +1339,7 @@
 ἥδυμος	A	I	1	a	sweet, pleasant	urn:cts:greekLit:tlg0579.tlg011:261
 ἥδυμος	A	I	1	a	sweet, pleasant	urn:cts:greekLit:tlg0291.tlg001:137
 ἡδυντέον	A	I	1	a	one must season	urn:cts:greekLit:tlg0402.tlg001:186:4
-ἡδυντήρ	A	I	1	a	seasoning	
-                
+ἡδυντήρ	A	I	1	a	seasoning	Eratosth.
 ἡδυντήρ	A	I	1	a	seasoning	
               
 ἡδυντήρ	A	I	1	a	seasoning	urn:cts:greekLit:tlg0542.tlg001:6:71
@@ -1325,22 +1351,17 @@
 ἡδύνω	A	I	1	a		urn:cts:greekLit:tlg0059.tlg006.perseus-grc1:175e
 ἡδύνω	A	I	1	a		urn:cts:greekLit:tlg0447.tlg001:24
 ἡδύνω	A	I	1	a		urn:cts:greekLit:tlg0410.tlg001:90
-ἡδύνω	A	I	1	a		
-                
-ἡδύνω	A	I	1	a		
-                
-ἡδύνω	A	I	1	a	season	
-                
+ἡδύνω	A	I	1	a		Pl.
+ἡδύνω	A	I	1	a		Phot.
+ἡδύνω	A	I	1	a	season	Phot.
 ἡδύνω	A	I	1	a	season	urn:cts:greekLit:tlg0521.tlg001:164
-ἡδύνω	A	I	1	a	season	
-                
+ἡδύνω	A	I	1	a	season	Pl.Tht.
 ἡδύνω	A	I	1	a	season	urn:cts:greekLit:tlg0032.tlg004.perseus-grc1:4:8
 ἡδύνω	A	I	1	a	season	urn:cts:greekLit:tlg0093.tlg010:9
 ἡδύνω	A	I	1	a	season	urn:cts:greekLit:tlg0093.tlg010:10
 ἡδύνω	A	I	1	a	season	urn:cts:greekLit:tlg0093.tlg010:11
 ἡδύνω	A	I	1	a	season	urn:cts:greekLit:tlg0086.tlg026:359a:34
-ἡδύνω	A	II	1	a		
-                
+ἡδύνω	A	II	1	a		Pl.Tht.
 ἡδύνω	A	II	1	a		urn:cts:greekLit:tlg0086.tlg034.perseus-grc1:1460b:2
 ἡδύνω	A	II	1	a		urn:cts:greekLit:tlg0059.tlg030.perseus-grc1:607a
 ἡδύνω	A	II	1	a		urn:cts:greekLit:tlg0086.tlg034.perseus-grc1:1449b:28
@@ -1355,6 +1376,7 @@
 ἡδυοινία	A	I	1	a	sweetness of wine	urn:cts:greekLit:tlg0627.tlg023:4:34
 ἡδυοινία	A	I	1	a	sweetness of wine	
               
+              
 ἡδύοινος	A	I	1	a	producing sweet wine	urn:cts:greekLit:tlg0032.tlg006.perseus-grc1:6:4:6
 ἡδύοινος	A	I	1	a	producing sweet wine	urn:cts:greekLit:tlg0093.tlg002:3:15:1
 ἡδύοινος	A	I	2	a	containing sweet wine	urn:cts:greekLit:tlg0414.tlg001:6
@@ -1365,7 +1387,9 @@
 ἡδύοσμος	A	II	1	a	green mint, Mentha viridis	urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:8:3:14
 ἡδύοσμος	A	II	1	a	green mint, Mentha viridis	
               
+              
 ἡδύοσμος	A	II	1	a	green mint, Mentha viridis	
+              
               
 ἡδύοσμος	A	II	1	a	green mint, Mentha viridis	
               
@@ -1375,6 +1399,7 @@
 ἡδυπάθεια	A	I	1	a	pleasant living, luxury	urn:cts:greekLit:tlg0627.tlg055:17
 ἡδυπάθεια	A	I	1	a	pleasant living, luxury	
               
+              
 ἡδυπάθεια	A	I	1	a	pleasant living, luxury	urn:cts:greekLit:tlg0565.tlg001:1:34
 ἡδυπάθεια	A	I	1	a	pleasant living, luxury	urn:cts:greekLit:tlg0062.tlg066:10:8
 ἡδυπάθεια	A	I	1	a	pleasant living, luxury	urn:cts:greekLit:tlg0008.tlg001.perseus-grc1:4:165e
@@ -1383,8 +1408,7 @@
 ἡδυπαθέω	A	I	1	a	live pleasantly, enjoy oneself	urn:cts:greekLit:tlg0032.tlg007.perseus-grc1:1:5:1
 ἡδυπαθέω	A	I	1	a	live pleasantly, enjoy oneself	urn:cts:greekLit:tlg2003.tlg012:342b
 ἡδυπαθέω	A	I	1	a	live pleasantly, enjoy oneself	urn:cts:greekLit:tlg0032.tlg003.perseus-grc1:5:2
-ἡδυπάθημα	A	I	1	a	enjoyment	
-                
+ἡδυπάθημα	A	I	1	a	enjoyment	AP9.496
 ἡδυπάθημα	A	I	1	a	enjoyment	
               
 ἡδυπαθής	A	I	1	a	living pleasantly, enjoying oneself, luxurious	urn:cts:greekLit:tlg0410.tlg001:91
@@ -1397,18 +1421,18 @@
 ἡδυπνοί̈ς	A	I	1	a	ox-tongue, Helminthia echioides	urn:cts:greekLit:tlg0033.tlg004.perseus-grc1:2:25
 ἡδυπνοί̈ς	A	I	1	a	ox-tongue, Helminthia echioides	urn:cts:greekLit:tlg0011.tlg005.perseus-grc1:480
 ἡδυπνοί̈ς	A	I	2	a	sweet-smelling, fragrant	urn:cts:greekLit:tlg0510.tlg001:24
-ἡδυπνοί̈ς	A	I	2	a	sweet-smelling, fragrant	
-                
+ἡδυπνοί̈ς	A	I	2	a	sweet-smelling, fragrant	AP9.564
 ἡδυπνοί̈ς	A	I	2	a	sweet-smelling, fragrant	
               
+ἡδυπνοί̈ς	A	I	2	a	sweet-smelling, fragrant	IG14.607e
 ἡδυπνοί̈ς	A	I	2	a	sweet-smelling, fragrant	
-                
-ἡδυπνοί̈ς	A	I	2	a	sweet-smelling, fragrant	
+              
               
 ἡδυπνοί̈ς	A	I	3	a		
               
 ἡδύπολις	A	I	1	a	dear to the people	urn:cts:greekLit:tlg0011.tlg004.perseus-grc1:510
 ἡδυπότης	A	I	1	a	fond of drinking	
+              
               
 ἡδυπότης	A	I	1	a	fond of drinking	
               
@@ -1418,27 +1442,30 @@
 ἡδυπότις	A	I	1	a	something that makes drink taste pleasant	urn:cts:greekLit:tlg0179.tlg001:5
 ἡδυπότις	A	I	1	a	something that makes drink taste pleasant	
               
+              
 ἡδυπότις	A	I	1	a	something that makes drink taste pleasant	
+              
               
 ἡδυπότις	A	I	1	a	something that makes drink taste pleasant	
               
 ἡδυπότις	A	I	1	a	something that makes drink taste pleasant	urn:cts:greekLit:tlg0008.tlg001.perseus-grc1:11:469c
 ἡδυπότις	A	I	1	a	something that makes drink taste pleasant	
               
+              
 ἡδυπότις	A	I	1	a	something that makes drink taste pleasant	
               
 ἡδυπότις	A	I	1	a	something that makes drink taste pleasant	
+              
               
 ἡδυπότις	A	I	1	a	something that makes drink taste pleasant	urn:cts:greekLit:tlg0435.tlg001:14
 ἡδυπότις	A	I	1	a	something that makes drink taste pleasant	
               
+              
 ἡδύποτος	A	I	1	a	sweet to drink	urn:cts:greekLit:tlg0012.tlg002.perseus-grc1:2:340
 ἡδύποτος	A	I	1	a	sweet to drink	urn:cts:greekLit:tlg0012.tlg002.perseus-grc1:3:391
-ἡδύποτος	A	I	1	a	sweet to drink	
-                
+ἡδύποτος	A	I	1	a	sweet to drink	Philol.72.547
 ἡδυπρόσωπος	A	I	1	a	of sweet countenance	urn:cts:greekLit:tlg1486.tlg001:102
-ἡδύς	A	I	1	a		
-                
+ἡδύς	A	I	1	a		IG7.2788.3
 ἡδύς	A	I	1	a		urn:cts:greekLit:tlg0005.tlg001.perseus-grc1:20:44
 ἡδύς	A	I	1	a		urn:cts:greekLit:tlg0005.tlg001.perseus-grc1:[8]
 ἡδύς	A	I	1	a		urn:cts:greekLit:tlg0035.tlg001:3:82
@@ -1447,10 +1474,12 @@
 ἡδύς	A	I	1	a		urn:cts:greekLit:tlg1605.tlg001:195
 ἡδύς	A	I	1	a		
               
+              
 ἡδύς	A	I	1	a		
               
 ἡδύς	A	I	1	a		urn:cts:greekLit:tlg1589.tlg001:11:298:7
 ἡδύς	A	I	1	a		
+              
               
 ἡδύς	A	I	1	a	pleasant	urn:cts:greekLit:tlg0012.tlg002.perseus-grc1:20:391
 ἡδύς	A	I	1	a	pleasant	urn:cts:greekLit:tlg0012.tlg002.perseus-grc1:3:51
@@ -1524,6 +1553,7 @@
 ἡδύς	A	III	2	a	svādús	urn:cts:greekLit:tlg0006.tlg001.perseus-grc1:251
 ἡδύσαρον	A	I	1	a	axe-weed, Bonaveria Securidaca	
               
+              
 ἥδυσμα	A	I	1	a	relish, seasoning, sauce	urn:cts:greekLit:tlg0019.tlg002.perseus-grc1:678
 ἥδυσμα	A	I	1	a	relish, seasoning, sauce	urn:cts:greekLit:tlg0019.tlg004.perseus-grc1:496
 ἥδυσμα	A	I	1	a	relish, seasoning, sauce	urn:cts:greekLit:tlg0059.tlg030.perseus-grc1:332d
@@ -1536,7 +1566,9 @@
 ἥδυσμα	A	I	1	a	relish, seasoning, sauce	urn:cts:greekLit:tlg0627.tlg036:2:202
 ἥδυσμα	A	I	1	a	relish, seasoning, sauce	
               
+              
 ἥδυσμα	A	I	1	a	relish, seasoning, sauce	
+              
               
 ἡδυσματοθήκη	A	I	1	a	spice-box	urn:cts:greekLit:tlg0542.tlg001:10:93
 ἡδυσματόληρος	A	I	1	a	absurdly dainty	urn:cts:greekLit:tlg1175.tlg001:45:18
@@ -1547,31 +1579,33 @@
 ἡδύτης	A	I	1	a	sweetness	urn:cts:greekLit:tlg0019.tlg006.perseus-grc1:222
 ἡδυτόκος	A	I	1	a	producing sweets	urn:cts:greekLit:tlg2045.tlg001.perseus-grc1:3:150
 ἡδυφαής	A	I	1	a	sweet-shining	urn:cts:greekLit:tlg0084.tlg001:317
-ἡδυφαής	A	I	1	a	sweet-shining	
-                
+ἡδυφαής	A	I	1	a	sweet-shining	AP6.295
 ἡδυφαής	A	I	1	a	sweet-shining	
               
 ἡδυφάρυγξ	A	I	1	a	sweet to the throat	urn:cts:greekLit:tlg1601.tlg001:2:18
-ἡδύφθογγος	A	I	1	a	sweet-voiced	
-                
+ἡδύφθογγος	A	I	1	a	sweet-voiced	Hsch.
 ἡδύφρων	A	I	1	a	sweet-minded,	
+              
               
 ἡδυφωνία	A	I	1	a	sweetness of sound	urn:cts:greekLit:tlg0614.tlg001:9:3
 ἡδυφωνία	A	I	1	a	sweetness of sound	urn:cts:greekLit:tlg0640.tlg001:3:12
 ἡδύφωνος	A	I	1	a	sweet-voiced	
+              
               
 ἡδύφωνος	A	I	1	a	sweet-voiced	
               
 ἡδύφωνος	A	I	1	a	sweet-voiced	urn:cts:greekLit:tlg4000.tlg001:1:10
 ἡδυχαρής	A	I	1	a	sweetly joyous,	
               
+              
+ἡδύχροος	A	I	1	a	of sweet complexion	IG14.2040.7
 ἡδύχροος	A	I	1	a	of sweet complexion	
-                
-ἡδύχροος	A	I	1	a	of sweet complexion	
+              
               
 ἡδύχροος	A	I	1	a	of sweet complexion	
               
 ἡδύχροος	A	I	1	a	of sweet complexion	
+              
               
 ἡδύχροος	A	I	1	a	of sweet complexion	urn:cts:greekLit:tlg0744.tlg001:7:3
 ἡδύχροος	A	I	1	a	of sweet complexion	urn:cts:latinLit:phi0474.phi049.perseus-lat1:3:19:46
@@ -1605,14 +1639,12 @@
 ἠέριος	A	II	2	a	high in air	urn:cts:greekLit:tlg0024.tlg001.perseus-grc1:1:380
 ἠέριος	A	II	2	a	high in air	urn:cts:greekLit:tlg0023.tlg001.perseus-grc1:3:203
 ἠέριος	A	II	2	a	high in air	urn:cts:greekLit:tlg0023.tlg001.perseus-grc1:1:430
-ἠέριος	A	II	2	a	high in air	
-                
+ἠέριος	A	II	2	a	high in air	AP6.180
 ἠέριος	A	II	2	a	high in air	
               
 ἠέριος	A	II	2	a	high in air	urn:cts:greekLit:tlg2045.tlg001.perseus-grc1:7:315
 ἠέριος	A	II	3	a	airy, air-like	urn:cts:greekLit:tlg0627.tlg031:1:10
-ἠεροδίνης	A	I	1	a	wheeling in mid air	
-                
+ἠεροδίνης	A	I	1	a	wheeling in mid air	AP9.223
 ἠεροειδής	A	I	1	a	misty, cloudy, dark	
               
 ἠεροειδής	A	I	1	a	misty, cloudy, dark	urn:cts:greekLit:tlg0012.tlg002.perseus-grc1:2:263
@@ -1633,6 +1665,7 @@
 ἠερόεις	A	I	1	a	cloudy, murky	urn:cts:greekLit:tlg0022.tlg001:257
 ἠερόεις	A	II	1	a		urn:cts:greekLit:tlg0024.tlg001.perseus-grc1:3:183
 ἠέροθεν	A	I	1	a	from air,	
+              
               
 ἠέροθεν	A	I	1	a	from air,	
               
@@ -1658,6 +1691,7 @@
 ἠθαλέος	A	I	1	a	accustomed	urn:cts:greekLit:tlg0024.tlg001.perseus-grc1:88
 ἠθαλέος	A	I	1	a	accustomed	
               
+              
 ἠθάς	A	I	1	a		urn:cts:greekLit:tlg0539.tlg001:11
 ἠθάς	A	I	1	a	accustomed to	urn:cts:greekLit:tlg0539.tlg001:11
 ἠθάς	A	I	1	a	accustomed to	urn:cts:greekLit:tlg0011.tlg005.perseus-grc1:372
@@ -1669,10 +1703,8 @@
 ἠθάς	A	I	2	a	inured, accustomed	urn:cts:greekLit:tlg0019.tlg006.perseus-grc1:271
 ἠθάς	A	I	2	a	inured, accustomed	urn:cts:greekLit:tlg0007.tlg033:28
 ἠθάς	A	I	2	a	inured, accustomed	urn:cts:greekLit:tlg0545.tlg001:14:1
-ἠθάς	A	II	1	a	usual, customary	
-                
-ἠθάς	A	II	1	a	usual, customary	
-                
+ἠθάς	A	II	1	a	usual, customary	APl.5.354
+ἠθάς	A	II	1	a	usual, customary	AP9.264
 ἠθάς	A	II	1	a	usual, customary	
               
 ἠθάς	A	II	1	a	usual, customary	
@@ -1695,8 +1727,7 @@
 ἤθημα	A	I	1	a	that which is sifted	
               
 ἤθημα	A	I	1	a	that which is sifted	urn:cts:greekLit:tlg0722.tlg001:4:7:26
-ἤθησις	A	I	1	a	riddling	
-                
+ἤθησις	A	I	1	a	riddling	IG4.1485.124
 ἤθησις	A	I	1	a	riddling	urn:cts:greekLit:tlg0086.tlg036:870b:18
 ἠθητικός	A	I	1	a	capable of being strained	urn:cts:greekLit:tlg0093.tlg002:6:16:6
 ἠθικεύομαι	A	I	1	a	speak ethically	urn:cts:greekLit:tlg2596.tlg001:1:1
@@ -1706,9 +1737,10 @@
 ἠθικός	A	I	1	a	moral	urn:cts:greekLit:tlg0086.tlg010.perseus-grc1:1103a:5
 ἠθικός	A	I	1	a	moral	urn:cts:greekLit:tlg0086.tlg035.perseus-grc1:1295a:36
 ἠθικός	A	I	1	a	moral	urn:cts:greekLit:tlg0161.tlg001:4a
+ἠθικός	A	I	1	a	moral	Phld.Herc.1251.13
 ἠθικός	A	I	1	a	moral	
-                
-ἠθικός	A	I	1	a	moral	
+              
+              
               
 ἠθικός	A	I	1	a	moral	urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:1:1:18
 ἠθικός	A	I	1	a	moral	urn:cts:greekLit:tlg0018.tlg001:1:370
@@ -1729,11 +1761,13 @@
 ἠθικός	A	II	1	a	showing moral character, expressive thereof	urn:cts:greekLit:tlg0613.tlg001:297
 ἠθικός	A	II	2	a	tactful	
               
+              
 ἠθικός	A	II	2	a	tactful	urn:cts:greekLit:tlg0007.tlg047:52
 ἤθισις	A	I	1	a		
               
 ἠθμοειδής	A	I	1	a	like a strainer, perforated	urn:cts:greekLit:tlg0559.tlg001:1:8
 ἠθμοειδής	A	I	1	a	like a strainer, perforated	
+              
               
 ἠθμοειδής	A	I	1	a	like a strainer, perforated	urn:cts:greekLit:tlg0719.tlg002.perseus-grc1:2:3
 ἠθμοειδής	A	II	1	a	ethmoid	urn:cts:greekLit:tlg0057.tlg017:11:12
@@ -1743,6 +1777,7 @@
 ἠθμοειδής	A	II	1	a	ethmoid	urn:cts:greekLit:tlg0564.tlg004:52
 ἡθμός	A	I	1	a	strainer, colander	Eur. Fr. 374
 ἡθμός	A	I	1	a	strainer, colander	
+              
               
 ἡθμός	A	I	1	a	strainer, colander	
               
@@ -1755,22 +1790,28 @@
 ἡθμός	A	II	1	a		urn:cts:greekLit:tlg0434.tlg001:132
 ἡθμός	A	II	1	a		
               
+              
 ἡθμός	A	II	1	a		
               
 ἡθμός	A	III	1	a	sluice	
               
+              
 ἡθμός	A	III	1	a	sluice	
+              
               
 ἠθογραφέω	A	I	1	a	paint	urn:cts:greekLit:tlg2585.tlg001:50
 ἠθόγραφος	A	I	1	a	painter of character	urn:cts:greekLit:tlg0086.tlg034.perseus-grc1:1450a:28
 ἠθολογέω	A	I	1	a	express characteristically	urn:cts:greekLit:tlg0527.tlg026:15:4
 ἠθολογέω	A	I	1	a	express characteristically	
               
-ἠθολογία	A	I	1	a	painting of character	
               
 ἠθολογία	A	I	1	a	painting of character	
               
 ἠθολογία	A	I	1	a	painting of character	
+              
+              
+ἠθολογία	A	I	1	a	painting of character	
+              
               
 ἠθολογία	A	I	1	a	painting of character	urn:cts:latinLit:phi1348.phi004:4
 ἠθόλογος	A	I	1	a	painting character	urn:cts:greekLit:tlg0060.tlg001.perseus-grc3:20:63
@@ -1785,6 +1826,7 @@
 ἠθοποιία	A	I	1	a	formation of character	urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:2:5:26
 ἠθοποιία	A	I	1	a	formation of character	
               
+              
 ἠθοποιία	A	II	1	a	delineation of character	urn:cts:greekLit:tlg1595.tlg290:5:9
 ἠθοποιία	A	II	1	a	delineation of character	urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:14:1:41
 ἠθοποιία	A	II	1	a	delineation of character	urn:cts:greekLit:tlg0081.tlg003:8
@@ -1796,6 +1838,7 @@
 ἠθοποιός	A	I	1	a	forming character	urn:cts:greekLit:tlg0007.tlg010:2
 ἠθοποιός	A	I	1	a	forming character	urn:cts:greekLit:tlg0007.tlg010:1
 ἠθοποιός	A	I	1	a	forming character	
+              
               
 ἦθος	A	I	1	a	an accustomed place	urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:6:511
 ἦθος	A	I	1	a	an accustomed place	urn:cts:greekLit:tlg0012.tlg002.perseus-grc1:14:411
@@ -1839,6 +1882,7 @@
 ἦθος	A	II	2	a	disposition, character	urn:cts:greekLit:tlg1415.tlg001:119
 ἦθος	A	II	2	a	disposition, character	
               
+              
 ἦθος	A	II	2	a	disposition, character	urn:cts:greekLit:tlg0059.tlg030.perseus-grc1:400d
 ἦθος	A	II	2	a	disposition, character	urn:cts:greekLit:tlg0014.tlg061.perseus-grc1:16
 ἦθος	A	II	2	a	disposition, character	urn:cts:greekLit:tlg0086.tlg038.perseus-grc1:1356a:23
@@ -1846,6 +1890,7 @@
 ἦθος	A	II	2	a	disposition, character	urn:cts:greekLit:tlg0059.tlg012:243c
 ἦθος	A	II	2	a	disposition, character	urn:cts:greekLit:tlg0093.tlg009:6:2
 ἦθος	A	II	2	a	disposition, character	
+              
               
 ἦθος	A	II	2	a	disposition, character	urn:cts:greekLit:tlg0059.tlg030.perseus-grc1:402d
 ἦθος	A	II	2	a	disposition, character	urn:cts:greekLit:tlg0086.tlg010.perseus-grc1:1144b:4
@@ -1857,9 +1902,9 @@
 ἦθος	A	II	2	b	bearing	urn:cts:greekLit:tlg0007.tlg060:4
 ἦθος	A	II	2	b	bearing	urn:cts:greekLit:tlg0638.tlg007:25
 ἦθος	A	II	2	c	delineation of character	urn:cts:greekLit:tlg0086.tlg038.perseus-grc1:1395b:13
+ἦθος	A	II	2	c	delineation of character	Phld.Rh.1.200S.
 ἦθος	A	II	2	c	delineation of character	
-                
-ἦθος	A	II	2	c	delineation of character	
+              
               
 ἦθος	A	II	2	c	delineation of character	urn:cts:greekLit:tlg0081.tlg012:22
 ἦθος	A	II	2	c	delineation of character	urn:cts:greekLit:tlg0081.tlg003:19
@@ -1877,12 +1922,9 @@
 ἦθος	A	II	3	a		urn:cts:greekLit:tlg0086.tlg014:615a:18
 ἦθος	A	II	3	a	nature, kind	urn:cts:greekLit:tlg0086.tlg014:615a:18
 ἦθος	A	II	3	a	nature, kind	urn:cts:greekLit:tlg1342.tlg001:17:28
-ἦθος	A	II	3	a	nature, kind	
-                
-ἦθος	A	II	4	a	tactfully	
-                
-ἦθος	A	II	4	a	tactfully	
-                
+ἦθος	A	II	3	a	nature, kind	Gal.7.353
+ἦθος	A	II	4	a	tactfully	11.2
+ἦθος	A	II	4	a	tactfully	Plu.2.73e
 ἦθος	A	II	4	a	tactfully	urn:cts:greekLit:tlg2317.tlg001:p.195A
 ἦθος	A	II	4	a	tactfully	urn:cts:greekLit:tlg0724.tlg002:1:59D
 ἠθροισμένως	A	I	1	a		
@@ -1915,19 +1957,23 @@
 ἠίθεος	A	I	1	a	unmarried youth	urn:cts:greekLit:tlg0007.tlg001:15
 ἠίθεος	A	I	1	a	unmarried youth	
               
+              
 ἠίθεος	A	I	1	a	unmarried youth	
               
 ἠίθεος	A	I	1	a	unmarried youth	urn:cts:greekLit:tlg0086.tlg003.perseus-grc1:56:3
 ἠίθεος	A	I	1	a	unmarried youth	urn:cts:greekLit:tlg0006.tlg015.perseus-grc1:945
 ἠίθεος	A	I	1	a	unmarried youth	urn:cts:greekLit:tlg0059.tlg034.perseus-grc1:840d
 ἠίθεος	A	I	1	a	unmarried youth	urn:cts:greekLit:tlg0007.tlg001:17
-ἠίθεος	A	I	1	a	unmarried youth	
-                
+ἠίθεος	A	I	1	a	unmarried youth	IG3.1151
 ἠίθεος	A	I	2	a	ghosts of those who die unmarried,	
               
-ἠίθεος	A	II	1	a		
               
 ἠίθεος	A	II	1	a		
+              
+              
+              
+ἠίθεος	A	II	1	a		
+              
               
 ἠίθεος	A	II	1	a		urn:cts:greekLit:tlg0461.tlg001:332
 ἠίθεος	A	III	1	a		urn:cts:greekLit:tlg2034.tlg005:33
@@ -1962,6 +2008,7 @@
 ἠϊών	A	I	2	a	banks	urn:cts:greekLit:tlg0033.tlg004.perseus-grc1:1:33
 ἠϊών	A	I	2	a	banks	
               
+              
 ἠϊών	A	I	2	a	banks	urn:cts:greekLit:tlg0001.tlg001.perseus-grc1:2:659
 ἠϊών	A	I	2	a	banks	urn:cts:greekLit:tlg0001.tlg001.perseus-grc1:4:130
 ἠϊών	A	I	2	a	banks	urn:cts:greekLit:tlg0081.tlg001:4:27
@@ -1983,6 +2030,7 @@
 ἦκα	A	III	1	a	softly, smoothly	urn:cts:greekLit:tlg0020.tlg001.perseus-grc1:547
 ἦκα	A	III	1	a	softly, smoothly	urn:cts:greekLit:tlg0024.tlg001.perseus-grc1:3:39
 ἦκα	A	IV	1	a	by little and little,	
+              
               
 ἦκα	A	IV	1	a	by little and little,	urn:cts:greekLit:tlg0023.tlg001.perseus-grc1:2:67
 ἦκα	A	IV	1	a	by little and little,	
@@ -2030,6 +2078,7 @@
 ἥκω	A	I	1	a		urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:2:11:5
 ἥκω	A	I	1	a		
               
+              
 ἥκω	A	I	1	a		
               
 ἥκω	A	I	1	a		urn:cts:greekLit:tlg0638.tlg001:3:24
@@ -2037,7 +2086,9 @@
 ἥκω	A	I	1	a		Perseus:abo:pap,UPZ:72:9
 ἥκω	A	I	1	a		
               
+              
 ἥκω	A	I	1	a		
+              
               
 ἥκω	A	I	1	a		Perseus:abo:pap,P.Grenf.:2:36:18
 ἥκω	A	I	1	a		urn:cts:greekLit:tlg0527.tlg014:20:14
@@ -2068,8 +2119,7 @@
 ἥκω	A	I	1	a	to have come, be present	urn:cts:greekLit:tlg0003.tlg001.perseus-grc1:1:137
 ἥκω	A	I	1	a	to have come, be present	urn:cts:greekLit:tlg0085.tlg006.perseus-grc1:659
 ἥκω	A	I	1	a	to have come, be present	urn:cts:greekLit:tlg0011.tlg008.perseus-grc1:770
-ἥκω	A	I	1	a	to have come, be present	
-                
+ἥκω	A	I	1	a	to have come, be present	OGI186.6
 ἥκω	A	I	1	a	to have come, be present	urn:cts:greekLit:tlg0031.tlg004.perseus-grc1:6:37
 ἥκω	A	I	1	a	to have come, be present	urn:cts:greekLit:tlg0011.tlg007.perseus-grc1:734
 ἥκω	A	I	1	a	to have come, be present	urn:cts:greekLit:tlg0059.tlg030.perseus-grc1:336b
@@ -2103,8 +2153,7 @@
 ἥκω	A	I	2	a	to have reached a point	urn:cts:greekLit:tlg0552.tlg003:9
 ἥκω	A	I	2	b		urn:cts:greekLit:tlg0085.tlg001.perseus-grc1:475
 ἥκω	A	I	2	b		urn:cts:greekLit:tlg0011.tlg007.perseus-grc1:905
-ἥκω	A	I	2	b		
-                
+ἥκω	A	I	2	b		A.
 ἥκω	A	I	2	c		urn:cts:greekLit:tlg0059.tlg021:294e
 ἥκω	A	I	2	c	to be	urn:cts:greekLit:tlg0059.tlg021:294e
 ἥκω	A	I	2	c	to be	urn:cts:greekLit:tlg0016.tlg001.perseus-grc1:1:30
@@ -2170,6 +2219,7 @@
 ἥκω	A	II	4	a	it has come	urn:cts:greekLit:tlg0011.tlg007.perseus-grc1:738
 ἥκω	A	II	4	a	it has come	
               
+              
 ἥκω	A	II	4	a	it has come	urn:cts:greekLit:tlg0006.tlg002.perseus-grc1:291
 ἥκω	A	II	5	a	commonly	urn:cts:greekLit:tlg0543.tlg001.perseus-grc1:24:9:11
 ἠλαιθερής	A	I	1	a		urn:cts:greekLit:tlg4099.tlg001:425:9
@@ -2177,6 +2227,7 @@
               
 ἠλαίνω	A	I	1	a	wander, stray, flit about	urn:cts:greekLit:tlg0005.tlg001.perseus-grc1:7:23
 ἠλαίνω	A	I	1	a	wander, stray, flit about	
+              
               
 ἠλαίνω	A	I	1	a	wander, stray, flit about	urn:cts:greekLit:tlg0533.tlg002:251
 ἠλάκατα	A	I	1	a	wool on the distaff	urn:cts:greekLit:tlg0012.tlg002.perseus-grc1:6:53
@@ -2195,6 +2246,7 @@
 ἠλακάτη	A	I	1	a	distaff	urn:cts:greekLit:tlg0059.tlg030.perseus-grc1:616c
 ἠλακάτη	A	I	1	a	distaff	
               
+              
 ἠλακάτη	A	II	1	a	one joint of a reed	urn:cts:greekLit:tlg0093.tlg001:2:2:1
 ἠλακάτη	A	II	1	a	one joint of a reed	
               
@@ -2212,6 +2264,7 @@
 ἠλακατῆνες	A	I	1	a	tunny	urn:cts:greekLit:tlg1514.tlg001:2:923
 ἡλάριον	A	I	1	a	small nail,	
               
+              
 ἡλάριον	A	I	1	a	small nail,	
               
 ἠλασκάζω	A	I	1	a		urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:18:281
@@ -2225,11 +2278,15 @@
 Ἠλειακός	A	I	1	a	of	urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:9:1:8
 Ἠλειακός	A	I	1	a	of	
               
+              
+              
 Ἠλειακός	A	I	1	a	of	
               
 Ἠλειακός	A	I	1	a	of	
               
 ἠλέκτρινος	A	I	1	a	made of	
+              
+              
               
 ἠλέκτρινος	A	I	1	a	made of	urn:cts:greekLit:tlg0658.tlg001:3:3
 ἠλέκτρινος	A	II	1	a	shining like it	urn:cts:greekLit:tlg0533.tlg002:29
@@ -2262,16 +2319,18 @@
 ἠλέκτωρ	A	I	1	a	the beaming sun	urn:cts:greekLit:tlg4093.tlg001:1:301H
 ἠλέκτωρ	A	I	1	a	the beaming sun	
               
+              
 ἠλέκτωρ	A	I	1	a	the beaming sun	urn:cts:greekLit:tlg0221.tlg001:110
 ἠλέματος	A	I	1	a	idle, vain	urn:cts:greekLit:tlg0009.tlg001:15:5
 ἠλέματος	A	I	1	a	idle, vain	
+              
+              
               
 ἠλέματος	A	I	1	a	idle, vain	urn:cts:greekLit:tlg0005.tlg001.perseus-grc1:15:4
 ἠλέματος	A	I	1	a	idle, vain	urn:cts:greekLit:tlg0005.tlg001.perseus-grc1:34:3
 ἠλέματος	A	I	1	a	idle, vain	urn:cts:greekLit:tlg0005.tlg001.perseus-grc1:66:4
 ἠλέματος	A	I	1	a	idle, vain	urn:cts:greekLit:tlg1691.tlg001:2
-ἠλέματος	A	I	1	a	idle, vain	
-                
+ἠλέματος	A	I	1	a	idle, vain	AP6.75
 ἠλέματος	A	I	1	a	idle, vain	
               
 ἠλέματος	A	I	1	a	idle, vain	
@@ -2285,8 +2344,10 @@
 ἠλεός	A	I	1	a	distraught, crazed	urn:cts:greekLit:tlg0533.tlg001:173
 ἠλεός	A	I	1	a	distraught, crazed	
               
+              
 ἠλεός	A	I	1	a	distraught, crazed	urn:cts:greekLit:tlg0533.tlg001:3:1:66
 ἠλεός	A	I	1	a	distraught, crazed	
+              
               
 ἠλεός	A	I	1	a	distraught, crazed	
               
@@ -2316,12 +2377,12 @@
 ἡλιάζω	A	I	1	a	bake in the sun	urn:cts:greekLit:tlg0086.tlg014:611b:14
 ἡλιάζω	A	I	1	a	bake in the sun	Perseus:abo:pap,BGU:1551:1
 ἡλιάζω	A	I	1	a	bake in the sun	http://www.trismegistos.org/text/8874
-ἡλιάζω	A	I	1	a	bake in the sun	
-                
+ἡλιάζω	A	I	1	a	bake in the sun	Anon.Incred.17
 ἡλιάζω	A	II	1	a		urn:cts:greekLit:tlg0527.tlg012:21:14
 ἡλιαία	A	I	1	a	public place	urn:cts:greekLit:tlg0019.tlg002.perseus-grc1:897
 ἡλιαία	A	I	1	a	public place	urn:cts:greekLit:tlg0028.tlg006.perseus-grc1:21
 ἡλιαία	A	I	1	a	public place	
+              
               
 ἡλιαία	A	I	1	a	public place	
               
@@ -2333,7 +2394,10 @@
 Ἡλιαῖα	A	I	1	a	festival of Helios	urn:cts:greekLit:tlg2003.tlg001:4:156c
 ἡλιακός	A	I	1	a	of the sun, solar	
               
+              
 ἡλιακός	A	I	1	a	of the sun, solar	
+              
+              
               
 ἡλιακός	A	I	1	a	of the sun, solar	urn:cts:greekLit:tlg0060.tlg001.perseus-grc3:1:98
 ἡλιακός	A	I	1	a	of the sun, solar	urn:cts:greekLit:tlg1272.tlg001:1:4
@@ -2342,7 +2406,14 @@
 ἡλιακός	A	I	1	a	of the sun, solar	urn:cts:greekLit:tlg1383.tlg001:8:47
 ἡλιακός	A	I	1	a	of the sun, solar	
               
+              
 ἡλιακός	A	I	1	a	of the sun, solar	
+              
+              
+ἡλιακός	A	I	1	a	of the sun, solar	
+              
+ἡλιακός	A	I	1	a	of the sun, solar	
+              
               
 ἡλιακός	A	I	1	a	of the sun, solar	
               
@@ -2350,9 +2421,6 @@
               
 ἡλιακός	A	I	1	a	of the sun, solar	
               
-ἡλιακός	A	I	1	a	of the sun, solar	
-              
-ἡλιακός	A	I	1	a	of the sun, solar	
               
 ἡλιακός	A	I	1	a	of the sun, solar	urn:cts:greekLit:tlg0007.tlg048:59
 ἡλιακός	A	I	1	a	of the sun, solar	urn:cts:greekLit:tlg4036.tlg008:p.631S
@@ -2368,12 +2436,15 @@
               
 ἡλίασις1	A	I	1	a	exposure to the sun	
               
+              
 ἡλίασις1	A	I	1	a	exposure to the sun	urn:cts:greekLit:tlg0385.tlg001:59:7
 ἡλίασις1	A	I	1	a	exposure to the sun	
+              
               
 ἡλίασις2	A	I	1	a	sitting in the	urn:cts:greekLit:tlg0014.tlg024.perseus-grc1:150
 ἡλιαστήριον	A	I	1	a	place for sunning oneself	urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:17:1:44
 ἡλιαστήριον	A	I	1	a	place for sunning oneself	
+              
               
 ἡλιαστήριον	A	I	1	a	place for sunning oneself	Perseus:abo:pap,P.Ryl.:206:48
 ἡλιαστήριον	A	I	1	a	place for sunning oneself	Perseus:abo:pap,P.Oxy.:1631:17
@@ -2383,6 +2454,7 @@
 ἡλιαστής	A	I	1	a		urn:cts:greekLit:tlg0019.tlg002.perseus-grc1:255
 ἡλιαστής	A	I	1	a		
               
+              
 ἡλιαστής	A	II	1	a	fuller	
               
 ἡλιαστικός	A	I	1	a	of, for	urn:cts:greekLit:tlg0019.tlg004.perseus-grc1:195
@@ -2391,8 +2463,8 @@
 ἡλιαστικός	A	I	1	a	of, for	urn:cts:greekLit:tlg0030.tlg003.perseus-grc1:40
 ἡλιαυγής	A	I	1	a	gleaming like the sun,	
               
-ἡλιάω	A	I	1	a	to be like the sun	
-                
+              
+ἡλιάω	A	I	1	a	to be like the sun	Anacreont.16.5
 ἡλιάω	A	I	1	a	to be like the sun	urn:cts:greekLit:tlg0658.tlg001:3:4
 ἡλιάω	A	I	1	a	to be like the sun	urn:cts:greekLit:tlg0638.tlg001:7:42
 ἡλιάω	A	II	1	a	expose to the sun	urn:cts:greekLit:tlg0086.tlg036:926b:38
@@ -2435,15 +2507,18 @@
 ἠλίβατος	A	III	1	a	huge, enormous	urn:cts:greekLit:tlg2046.tlg001.perseus-grc1:11:312
 ἠλίβατος	A	III	1	a	huge, enormous	
               
+              
 ἠλίβατος	A	III	1	a	huge, enormous	
               
 ἠλίβατος	A	III	1	a	huge, enormous	
               
 Ἡλίεια	A	I	1	a	festival of the Sun	
+              
               
 Ἡλίεια	A	I	1	a	festival of the Sun	urn:cts:greekLit:tlg0008.tlg001.perseus-grc1:13:561e
 Ἡλίεια	A	I	1	a	festival of the Sun	urn:cts:greekLit:tlg0284.tlg001.perseus-grc1:25(43).32
 Ἡλίεια	A	I	1	a	festival of the Sun	
+              
               
 ἤλιθα	A	I	1	a	very much, exceedingly	urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:11:677
 ἤλιθα	A	I	1	a	very much, exceedingly	urn:cts:greekLit:tlg0012.tlg002.perseus-grc1:5:483
@@ -2482,12 +2557,15 @@
 ἠλιθιότης	A	I	1	a	folly, silliness	urn:cts:greekLit:tlg0059.tlg030.perseus-grc1:560d
 ἠλιθιότης	A	I	1	a	folly, silliness	
               
+              
+              
 ἠλιθιότης	A	I	1	a	folly, silliness	
               
 ἠλιθιότης	A	I	1	a	folly, silliness	urn:cts:greekLit:tlg2001.tlg001:11d
 ἠλιθιόω	A	I	1	a	make foolish, distract	urn:cts:greekLit:tlg0085.tlg003.perseus-grc1:1061
 ἠλιθιώδης	A	I	1	a	like a fool	urn:cts:greekLit:tlg0638.tlg003:2:1:10
 ἠλιθιώνη	A	I	1	a	one who makes foolish	
+              
               
 ἠλιθοποιός	A	I	1	a		urn:cts:greekLit:tlg0012.tlg002.perseus-grc1:14:464
 ἡλικία	A	I	1	a	time of life, age	urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:22:419
@@ -2525,6 +2603,7 @@
 ἡλικία	A	I	2	a	prime of life, manhood	urn:cts:greekLit:tlg0003.tlg001.perseus-grc1:2:36
 ἡλικία	A	I	2	a	prime of life, manhood	
               
+              
 ἡλικία	A	I	2	a	prime of life, manhood	urn:cts:greekLit:tlg0627.tlg016:2:30
 ἡλικία	A	I	2	a	prime of life, manhood	urn:cts:greekLit:tlg0014.tlg059.perseus-grc1:22
 ἡλικία	A	I	2	a	prime of life, manhood	urn:cts:greekLit:tlg0059.tlg030.perseus-grc1:461b
@@ -2555,10 +2634,13 @@
 ἡλικία	A	V	1	a	stature	urn:cts:greekLit:tlg0031.tlg001.perseus-grc1:6:27
 ἡλικία	A	V	1	a	stature	
               
+              
+              
 ἡλικία	A	V	1	a	stature	urn:cts:greekLit:tlg0062.tlg041:28
 ἡλικιάζομαι	A	I	1	a	assume this	
               
 ἡλικιάζομαι	A	I	1	a	assume this	
+              
               
 ἡλικιώτης	A	I	1	a	equal in age, comrade	urn:cts:greekLit:tlg0016.tlg001.perseus-grc1:5:71
 ἡλικιώτης	A	I	1	a	equal in age, comrade	urn:cts:greekLit:tlg0019.tlg003.perseus-grc1:1006
@@ -2568,6 +2650,7 @@
 ἡλικιώτης	A	I	1	a	equal in age, comrade	urn:cts:greekLit:tlg0059.tlg011.perseus-grc1:183c
 ἡλικιώτης	A	I	1	a	equal in age, comrade	urn:cts:greekLit:tlg2051.tlg001:12:4
 ἡλικιώτης	A	I	1	a	equal in age, comrade	
+              
               
 ἡλικιώτης	A	I	1	a	equal in age, comrade	urn:cts:greekLit:tlg0062.tlg067:15:2
 ἡλικιώτης	A	I	1	a	equal in age, comrade	urn:cts:greekLit:tlg0007.tlg012:13
@@ -2584,6 +2667,7 @@
 ἡλίκος	A	I	2	a	as old as	urn:cts:greekLit:tlg0011.tlg004.perseus-grc1:15
 ἡλίκος	A	I	3	a	how big, how great	urn:cts:greekLit:tlg0093.tlg009:23:2
 ἡλίκος	A	I	3	a	how big, how great	
+              
               
 ἡλίκος	A	I	3	a	how big, how great	urn:cts:greekLit:tlg0014.tlg006.perseus-grc1:6
 ἡλίκος	A	I	3	a	how big, how great	urn:cts:greekLit:tlg0059.tlg018:154b
@@ -2622,6 +2706,7 @@
 ἡλιοειδής	A	I	1	a	like the sun, bright and beaming	urn:cts:greekLit:tlg0059.tlg030.perseus-grc1:509a
 ἡλιοειδής	A	I	1	a	like the sun, bright and beaming	
               
+              
 ἡλιοειδής	A	I	1	a	like the sun, bright and beaming	urn:cts:greekLit:tlg2000.tlg001:1:6:9
 ἡλιοειδής	A	I	1	a	like the sun, bright and beaming	urn:cts:greekLit:tlg0086.tlg051:42
 ἡλιοειδής	A	I	1	a	like the sun, bright and beaming	urn:cts:greekLit:tlg2034.tlg008:29
@@ -2631,12 +2716,17 @@
               
 ἡλιοθερέω	A	I	1	a	to sun oneself	
               
+              
 ἡλιοθερής	A	I	1	a	warmed in the sun,	
+              
               
 ἡλιοκαής	A	I	1	a	sunburnt	urn:cts:greekLit:tlg0062.tlg046:2
 ἡλιοκαής	A	I	1	a	sunburnt	
               
+              
 ἡλιοκαής	A	I	1	a	sunburnt	
+              
+              
               
 ἡλιοκαί̈α	A	I	1	a	sun-burning, exposure to the sun	urn:cts:greekLit:tlg0004.tlg001.perseus-grc1:7:1
 ἡλιοκαί̈α	A	I	1	a	sun-burning, exposure to the sun	urn:cts:greekLit:tlg0715.tlg001:3:6
@@ -2645,11 +2735,15 @@
 ἡλιοκαλλίς	A	I	1	a		urn:cts:latinLit:phi0978.phi001:24:165
 ἡλιοκάμινος	A	I	1	a	a room exposed to the sun	
               
+              
+              
 ἡλιοκάμινος	A	I	1	a	a room exposed to the sun	
+              
               
 ἡλιοκάνθαρος	A	I	1	a	the dung-beetle	urn:cts:greekLit:tlg0744.tlg002:7
 ἡλιόκαυστος	A	I	1	a		urn:cts:greekLit:tlg0005.tlg001.perseus-grc1:10:27
 ἡλιόκαυστος	A	I	1	a		
+              
               
 ἡλιοκαυτέω	A	I	1	a	to be sunburnt	
               
@@ -2661,29 +2755,30 @@
 ἡλιομανής	A	I	1	a	sun-mad, mad for love of the sun	urn:cts:greekLit:tlg0019.tlg006.perseus-grc1:1096
 ἡλιομαντεία	A	I	1	a	magical invocation of the sun,	
               
+              
 ἡλιόμορφος	A	I	1	a	sun-shaped	urn:cts:greekLit:tlg0382.tlg001:1
 ἡλιόομαι	A	I	1	a	live in the sun, be exposed to the sun	urn:cts:greekLit:tlg0059.tlg030.perseus-grc1:556d
 ἡλιόομαι	A	I	1	a	live in the sun, be exposed to the sun	urn:cts:greekLit:tlg0093.tlg002:3:4:1
 ἡλιόομαι	A	I	1	a	live in the sun, be exposed to the sun	urn:cts:greekLit:tlg0093.tlg001:1:10:3
 ἡλιόομαι	A	I	1	a	live in the sun, be exposed to the sun	urn:cts:greekLit:tlg0032.tlg003.perseus-grc1:19:18
-ἡλιόομαι	A	I	1	a	live in the sun, be exposed to the sun	
-                
+ἡλιόομαι	A	I	1	a	live in the sun, be exposed to the sun	Ath.Med.
 ἡλιόομαι	A	I	1	a	live in the sun, be exposed to the sun	urn:cts:greekLit:tlg0722.tlg001:9:5:1
-ἡλιόομαι	A	I	2	a	to be sun-struck	
-                
+ἡλιόομαι	A	I	2	a	to be sun-struck	Hp.
 ἡλιόομαι	A	I	2	a	to be sun-struck	
               
 ἡλιόομαι	A	I	2	a	to be sun-struck	
+              
+              
               
 ἡλιόομαι	A	I	3	a	to be illuminated by the sunlight	urn:cts:greekLit:tlg0086.tlg002:419b:31
 ἡλιόομαι	A	I	3	a	to be illuminated by the sunlight	urn:cts:greekLit:tlg0086.tlg036:913a:22
 ἡλιόομαι	A	I	3	a	to be illuminated by the sunlight	urn:cts:greekLit:tlg0718.tlg001:102
 ἡλιόομαι	A	I	3	a	to be illuminated by the sunlight	
               
-ἡλιόπεπτος	A	I	1	a	ripened in the sun	
-                
+ἡλιόπεπτος	A	I	1	a	ripened in the sun	Hippiatr.58
 ἡλιοπλήξ	A	I	1	a	sunburnt	urn:cts:greekLit:tlg0533.tlg001:1:219
 ἡλιόπους	A	I	1	a		
+              
               
 ἥλιος	A	I	1	a	sun	urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:7:421
 ἥλιος	A	I	1	a	sun	urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:18:61
@@ -2695,6 +2790,7 @@
 ἥλιος	A	I	1	a	sun	urn:cts:greekLit:tlg0007.tlg036:30
 ἥλιος	A	I	1	a	sun	urn:cts:greekLit:tlg0658.tlg001:7:21
 ἥλιος	A	I	1	a	sun	
+              
               
 ἥλιος	A	I	2	a		urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:12:239
 ἥλιος	A	I	2	a		urn:cts:greekLit:tlg0012.tlg002.perseus-grc1:9:26
@@ -2709,6 +2805,8 @@
 ἥλιος	A	I	3	a	day	urn:cts:greekLit:tlg0006.tlg014.perseus-grc1:652
 ἥλιος	A	I	3	a	day	
               
+              
+              
 ἥλιος	A	I	3	a	day	
               
 ἥλιος	A	I	3	a	day	urn:cts:greekLit:tlg0650.tlg001:10:1
@@ -2720,15 +2818,14 @@
 ἥλιος	A	I	4	a	sunshine, sun's heat	urn:cts:greekLit:tlg0093.tlg010:22
 ἥλιος	A	I	4	a	sunshine, sun's heat	urn:cts:greekLit:tlg0545.tlg001:16:17
 ἥλιος	A	I	4	a	sunshine, sun's heat	urn:cts:greekLit:tlg0003.tlg001.perseus-grc1:7:87
-ἥλιος	A	I	5	a	sunshine, brightness	
-                
+ἥλιος	A	I	5	a	sunshine, brightness	Plu.2.994e
 ἥλιος	A	I	5	a	sunshine, brightness	urn:cts:greekLit:tlg0553.tlg001:2:36
-ἥλιος	A	I	5	a	sunshine, brightness	
-                
+ἥλιος	A	I	5	a	sunshine, brightness	IG14.1188
 ἥλιος	A	I	5	a	sunshine, brightness	
               
 ἥλιος	A	I	5	a	sunshine, brightness	Perseus:abo:pap,UPZ:15:33
 ἥλιος	A	I	5	a	sunshine, brightness	
+              
               
 ἥλιος	A	I	5	a	sunshine, brightness	
               
@@ -2738,16 +2835,20 @@
 ἥλιος	A	II	1	a	Helios, the sun-god	Perseus:abo:pap,P.Oxy.:49:8
 ἥλιος	A	II	1	a	Helios, the sun-god	
               
+              
 ἥλιος	A	II	1	a	Helios, the sun-god	
+              
               
 ἥλιος	A	II	1	a	Helios, the sun-god	urn:cts:greekLit:tlg0553.tlg001:2:36
 ἥλιος	A	II	1	a	Helios, the sun-god	
+              
               
 ἥλιος	A	II	1	a	Helios, the sun-god	Eur. Fr. 781.11
 ἥλιος	A	II	1	a	Helios, the sun-god	urn:cts:greekLit:tlg0612.tlg001:31:11
 ἥλιος	A	II	2	a		urn:cts:greekLit:tlg0059.tlg035.perseus-grc1:987c
 ἥλιος	A	II	2	a		urn:cts:greekLit:tlg0060.tlg001.perseus-grc3:2:30
 ἥλιος	A	II	2	a		
+              
               
 ἥλιος	A	II	2	a		
               
@@ -2761,6 +2862,7 @@
               
 Ἡλιοσκόπιος	A	I	1	a	looking to the sun	
               
+              
 Ἡλιοσκόπιος	A	I	1	a	looking to the sun	
               
 Ἡλιοσκόπιος	A	I	1	a	looking to the sun	urn:cts:greekLit:tlg0722.tlg001:7:26:39
@@ -2772,38 +2874,46 @@
 Ἡλιοτρόπιον	A	I	1	a	heliotrope	urn:cts:greekLit:tlg0093.tlg001:7:3:1
 Ἡλιοτρόπιον	A	I	1	a	heliotrope	
               
+              
 Ἡλιοτρόπιον	A	I	1	a	heliotrope	
+              
               
 Ἡλιοτρόπιον	A	I	1	a	heliotrope	
               
 Ἡλιοτρόπιον	A	I	2	a	Croton tinctorius,	
+              
               
 Ἡλιοτρόπιον	A	II	1	a	sun-dial	
               
 Ἡλιοτρόπιον	A	II	1	a	sun-dial	urn:cts:greekLit:tlg0008.tlg001.perseus-grc1:5:207f
 Ἡλιοτρόπιον	A	II	1	a	sun-dial	
               
+              
 Ἡλιοτρόπιον	A	II	1	a	sun-dial	
+              
               
 Ἡλιοτρόπιον	A	II	1	a	sun-dial	urn:cts:greekLit:tlg0007.tlg060:29
 Ἡλιοτρόπιον	A	II	1	a	sun-dial	urn:cts:greekLit:tlg0019.tlg006.perseus-grc1:998
 Ἡλιοτρόπιον	A	III	1	a	green stone streaked with red, blood-stone	urn:cts:latinLit:phi0978.phi001:37:165
 Ἡλιοτρόπιον	A	III	1	a	green stone streaked with red, blood-stone	
               
+              
 Ἡλιοτρόπιος	A	I	1	a		Perseus:abo:pap,O.Theb.:144:1
 Ἡλιότροπος	A	I	1	a		http://www.trismegistos.org/text/84431
 Ἡλιότροπος	A	I	1	a		
               
+              
 ἡλιοῦχος	A	I	1	a	possessing sun,	
+              
               
 ἡλιοφεγγής	A	I	1	a	shining like the sun	urn:cts:greekLit:tlg0205.tlg001:136
 ἡλιοφυές	A	I	1	a		
               
+              
 ἡλιόφυτον	A	I	1	a		
               
 ἡλίσκος	A	I	1	a	little nail	urn:cts:greekLit:tlg0019.tlg012:314
-ἠλιτενής	A	I	1	a	lofty	
-                
+ἠλιτενής	A	I	1	a	lofty	Suid.
 ἡλίτης	A	I	1	a		urn:cts:greekLit:tlg4066.tlg002:233
 ἡλίτης	A	I	1	a		
               
@@ -2815,32 +2925,39 @@
               
 ἡλῖτις	A	I	1	a	of	
               
+              
 ἡλῖτις	A	I	1	a	of	urn:cts:greekLit:tlg0718.tlg002:58
 ἠλιτοεργός	A	I	1	a	missing the work, failing in one's aim,	
               
-ἠλιτοεργός	A	I	1	a	missing the work, failing in one's aim,	
               
 ἠλιτοεργός	A	I	1	a	missing the work, failing in one's aim,	
+              
+              
+              
+ἠλιτοεργός	A	I	1	a	missing the work, failing in one's aim,	
+              
               
 ἠλιτόμηνος	A	I	1	a	missing the right month	urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:19:118
 ἠλιτόμηνος	A	I	1	a	missing the right month	urn:cts:greekLit:tlg0647.tlg001.perseus-grc1:556
 ἠλιτόμηνος	A	I	1	a	missing the right month	
               
+              
 ἠλιτόμηνος	A	I	1	a	missing the right month	
+              
               
 ἠλιτόμηνος	A	I	1	a	missing the right month	
               
 ἠλιφάρμακος	A	I	1	a	a plant useful to staunch blood	
               
 ἠλιφάρμακος	A	I	1	a	a plant useful to staunch blood	
+              
               
 ἠλιφάρμακος	A	I	1	a	a plant useful to staunch blood	
               
 ἦλιψ	A	I	1	a	a Dorian shoe	urn:cts:greekLit:tlg0005.tlg001.perseus-grc1:4:56
 ἡλιώδης	A	I	1	a		urn:cts:greekLit:tlg0328.tlg001:14:14
 ἡλιώδης	A	I	1	a		urn:cts:greekLit:tlg1600.tlg001:1:6
-ἡλιώδης	A	I	1	a		
-                
+ἡλιώδης	A	I	1	a		Anon.
 ἡλιώδης	A	I	1	a		urn:cts:greekLit:tlg4083.tlg001:432:26
 ἡλιών	A	I	1	a	Städte Pamphyliens und Pisidiens	urn:cts:greekLit:tlg4083.tlg001:2:34
 ἡλιωπός	A	I	1	a	lit by the sun's eye	urn:cts:greekLit:tlg0011.tlg008.perseus-grc1:26
@@ -2852,20 +2969,23 @@
 ἡλίωσις	A	I	1	a	exposure to the sun	urn:cts:greekLit:tlg0544.tlg001:3:16
 ἡλιωτέος	A	I	1	a	needing exposure to the sun	urn:cts:greekLit:tlg0638.tlg007:58
 ἡλιώτης	A	I	1	a	of the sun	urn:cts:greekLit:tlg0011.tlg001.perseus-grc1:697
-ἡλιώτης	A	I	1	a	of the sun	
-                
-ἡλιώτης	A	I	1	a	of the sun	
-                
+ἡλιώτης	A	I	1	a	of the sun	AP7.601
+ἡλιώτης	A	I	1	a	of the sun	Paul.Al.M.3
 ἡλιώτης	A	I	1	a	of the sun	
               
+              
+              
 ἡλιώτης	A	II	1	a	the dawn,	
+              
               
 ἠλληγορημένως	A	I	1	a	allegorically	urn:cts:greekLit:tlg0020.tlg002.perseus-grc1:56
 ἡλόκεντρον	A	I	1	a	spur,	
               
 ἡλοκοπέω	A	I	1	a	clavo	
               
+              
 ἡλοκοπέω	A	I	1	a	clavo	
+              
               
 ἡλοκοπικὴ	A	I	1	a	nail-smith's	Perseus:abo:pap,BGU:1124:11
 ἡλοκόπον	A	I	1	a	forma clavaris,	
@@ -2884,6 +3004,7 @@
 ἧλος	A	I	1	a	nail-head, stud	urn:cts:greekLit:tlg0008.tlg001.perseus-grc1:11:488b
 ἧλος	A	I	1	a	nail-head, stud	
               
+              
 ἧλος	A	I	2	a		
               
 ἧλος	A	I	2	a	nail	
@@ -2895,11 +3016,11 @@
 ἧλος	A	I	2	a	nail	urn:cts:greekLit:tlg0086.tlg035.perseus-grc1:1314a:5
 ἧλος	A	II	1	a	wart, callus	urn:cts:greekLit:tlg0093.tlg005:37
 ἧλος	A	II	1	a	wart, callus	urn:cts:greekLit:tlg0022.tlg001:272
-ἧλος	A	II	1	a	wart, callus	
-                
+ἧλος	A	II	1	a	wart, callus	Dsc.1.104
 ἧλος	A	II	1	a	wart, callus	
               
 ἧλος	A	II	1	a	wart, callus	
+              
               
 ἧλος	A	II	1	a	wart, callus	urn:cts:greekLit:tlg0093.tlg001:4:14:3
 ἦλος1	A	I	1	a	barren spot	
@@ -2908,13 +3029,15 @@
 ἠλοσύνη	A	I	1	a		urn:cts:greekLit:tlg0005.tlg001.perseus-grc1:30:12
 ἡλόω	A	I	1	a	sharpen	
               
-ἡλόω	A	II	1	a	become callous	
-                
+              
+              
+ἡλόω	A	II	1	a	become callous	Gal.17
 ἡλόω	A	II	1	a	become callous	
               
 ἡλόω	A	II	1	a	become callous	
               
 ἠλσάμην	A	I	1	a		
+              
               
 ἠλσάμην	A	I	1	a		urn:cts:greekLit:tlg0260.tlg001:17
 ἠλυγαῖος	A	I	1	a	shadowy, dark	
@@ -2936,16 +3059,18 @@
 Ἠλύσιον	A	I	1	a	the Elysian	urn:cts:greekLit:tlg0007.tlg042:8
 Ἠλύσιον	A	I	1	a	the Elysian	
               
+              
 Ἠλύσιον	A	I	1	a	the Elysian	
               
 Ἠλύσιον	A	I	1	a	the Elysian	
+              
               
 Ἠλύσιον	A	I	1	a	the Elysian	urn:cts:greekLit:tlg0062.tlg017:17
 Ἠλύσιον	A	I	1	a	the Elysian	
               
+              
 Ἠλύσιον	A	II	1	a		urn:cts:greekLit:tlg0586.tlg001:93
-Ἠλύσιος	A	I	1	a		
-                
+Ἠλύσιος	A	I	1	a		IG14.1389i22
 Ἠλύσιος	A	I	1	a		
               
 ἤλυσις	A	I	1	a	step, gait	urn:cts:greekLit:tlg0006.tlg007.perseus-grc1:67
@@ -2957,15 +3082,13 @@
 ἠμαθόεις	A	I	1	a	sandy	urn:cts:greekLit:tlg0020.tlg003.perseus-grc1:360
 ἠμαθόεις	A	I	1	a	sandy	urn:cts:greekLit:tlg0001.tlg001.perseus-grc1:1:932
 ἠμαθόεις	A	I	1	a	sandy	urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:8:3:14
-ἧμαι	A	I	1	a		
-                
+ἧμαι	A	I	1	a		E.Alc.
 ἧμαι	A	I	1	a		urn:cts:greekLit:tlg0013.tlg003.perseus-grc1:456
 ἧμαι	A	I	1	a		urn:cts:greekLit:tlg0533.tlg001:122
 ἧμαι	A	I	1	a		urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:10:100
 ἧμαι	A	I	1	a		urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:3:134
 ἧμαι	A	I	1	a		urn:cts:greekLit:tlg0016.tlg001.perseus-grc1:1:199
-ἧμαι	A	I	1	a		
-                
+ἧμαι	A	I	1	a		Hom.
 ἧμαι	A	I	1	a		urn:cts:greekLit:tlg0085.tlg003.perseus-grc1:916
 ἧμαι	A	I	1	a		urn:cts:greekLit:tlg0579.tlg002:815
 ἧμαι	A	I	1	a		urn:cts:greekLit:tlg0006.tlg018.perseus-grc1:88
@@ -3026,6 +3149,7 @@
 ἦμαρ	A	I	1	a	day	urn:cts:greekLit:tlg0020.tlg002.perseus-grc1:176
 ἦμαρ	A	I	1	a	day	
               
+              
 ἦμαρ	A	I	1	a	day	urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:21:111
 ἦμαρ	A	I	1	a	day	urn:cts:greekLit:tlg0033.tlg002.perseus-grc1:9:113
 ἦμαρ	A	I	1	a	day	urn:cts:greekLit:tlg0012.tlg002.perseus-grc1:17:606
@@ -3052,8 +3176,7 @@
 ἦμαρ	A	II	1	a	day by day, daily	urn:cts:greekLit:tlg0006.tlg015.perseus-grc1:401
 ἦμαρ	A	II	1	a	day by day, daily	urn:cts:greekLit:tlg0005.tlg001.perseus-grc1:17:96
 ἦμαρ	A	II	1	a	day by day, daily	urn:cts:greekLit:tlg0005.tlg001.perseus-grc1:11:69
-ἦμαρ	A	II	1	a	day by day, daily	
-                
+ἦμαρ	A	II	1	a	day by day, daily	AP9.499
 ἦμαρ	A	II	1	a	day by day, daily	urn:cts:greekLit:tlg0011.tlg006.perseus-grc1:798
 ἦμαρ	A	II	1	a	day by day, daily	urn:cts:greekLit:tlg0006.tlg007.perseus-grc1:628
 ἦμαρ	A	II	1	a	day by day, daily	urn:cts:greekLit:tlg0011.tlg007.perseus-grc1:682
@@ -3066,8 +3189,7 @@
 ἦμαρ	A	II	1	a	day by day, daily	urn:cts:greekLit:tlg0033.tlg002.perseus-grc1:11:63
 ἦμαρ	A	II	1	a	day by day, daily	urn:cts:greekLit:tlg0011.tlg007.perseus-grc1:1455
 ἦμαρ	A	II	1	a	day by day, daily	urn:cts:greekLit:tlg0011.tlg003.perseus-grc1:475
-ἦμαρ	A	II	1	a	day by day, daily	
-                
+ἦμαρ	A	II	1	a	day by day, daily	IG5(2).5
 ἦμαρ	A	II	1	a	day by day, daily	
               
 ἡμαρτημένως	A	I	1	a	faultily	urn:cts:greekLit:tlg0059.tlg024:88e
@@ -3078,15 +3200,20 @@
 ἠμάτιος	A	I	1	a	by day	urn:cts:greekLit:tlg0020.tlg001.perseus-grc1:597
 ἠμάτιος	A	I	1	a	by day	
               
+              
 ἠμάτιος	A	I	2	a	day by day, daily	urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:9:72
 ἡμεδαπός	A	I	1	a	of our land	urn:cts:greekLit:tlg0019.tlg005.perseus-grc1:220
 ἡμεδαπός	A	I	1	a	of our land	
+              
               
 ἡμεδαπός	A	I	1	a	of our land	urn:cts:greekLit:tlg0533.tlg001:152
 ἡμεδαπός	A	I	1	a	of our land	urn:cts:greekLit:tlg0059.tlg017:124d
 ἡμεδαπός	A	I	1	a	of our land	
               
+              
+              
 ἡμεδαπός	A	I	1	a	of our land	
+              
               
 ἡμεδαπός	A	I	1	a	of our land	urn:cts:greekLit:tlg0015.tlg001:1:1:4
 ἠμελημένως	A	I	1	a	in a state of neglect	urn:cts:greekLit:tlg0010.tlg025.perseus-grc1:10
@@ -3104,13 +3231,13 @@
 ἠμέν	A	I	1	a	both . .	urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:15:664
 ἠμέν	A	I	1	a	both . .	urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:670
 ἠμέν	A	I	1	a	both . .	urn:cts:greekLit:tlg0020.tlg002.perseus-grc1:339
-ἡμέρα	A	I	1	a		
-                
-ἡμέρα	A	I	1	a		
-                
+ἡμέρα	A	I	1	a		Pi.
+ἡμέρα	A	I	1	a		IG7.235.18
 ἡμέρα	A	I	1	a		
               
+              
 ἡμέρα	A	I	1	a	day	
+              
               
 ἡμέρα	A	I	1	a	day	
               
@@ -3152,9 +3279,9 @@
 ἡμέρα	A	I	5	a	a fixed day	urn:cts:greekLit:tlg0031.tlg022.perseus-grc1:3:12
 ἡμέρα	A	I	5	a	a fixed day	urn:cts:greekLit:tlg0031.tlg001.perseus-grc1:10:15
 ἡμέρα	A	I	5	a	a fixed day	urn:cts:greekLit:tlg0031.tlg007.perseus-grc1:4:3
+ἡμέρα	A	I	5	a	a fixed day	Jahresh.23
 ἡμέρα	A	I	5	a	a fixed day	
-                
-ἡμέρα	A	I	5	a	a fixed day	
+              
               
 ἡμέρα	A	I	6	a	age	urn:cts:greekLit:tlg0031.tlg003.perseus-grc1:1:7
 ἡμέρα	A	I	6	a	age	urn:cts:greekLit:tlg0527.tlg001:47:8
@@ -3163,8 +3290,7 @@
 ἡμέρα	A	II	1	a	within	urn:cts:greekLit:tlg0003.tlg001.perseus-grc1:4:26
 ἡμέρα	A	II	1	a	within	urn:cts:greekLit:tlg0011.tlg005.perseus-grc1:698
 ἡμέρα	A	II	1	a	within	urn:cts:greekLit:tlg0010.tlg011.perseus-grc1:87
-ἡμέρα	A	II	1	a	within	
-                
+ἡμέρα	A	II	1	a	within	IG5(1).213.43
 ἡμέρα	A	II	1	a	within	urn:cts:greekLit:tlg0011.tlg008.perseus-grc1:65
 ἡμέρα	A	II	1	a	within	urn:cts:greekLit:tlg0059.tlg012:240c
 ἡμέρα	A	II	1	a	within	Perseus:abo:pap,UPZ:47:21
@@ -3204,6 +3330,7 @@
 ἡμέρα	A	III	1	a	day	urn:cts:greekLit:tlg0540.tlg020.perseus-grc1:10
 ἡμέρα	A	III	1	a	day	
               
+              
 ἡμέρα	A	III	1	a	day	urn:cts:greekLit:tlg0011.tlg005.perseus-grc1:780
 ἡμέρα	A	III	1	a	day	urn:cts:greekLit:tlg0465.tlg001:5:13
 ἡμέρα	A	III	1	a	day	urn:cts:greekLit:tlg0527.tlg001:39:10
@@ -3221,6 +3348,7 @@
 ἡμέρα	A	III	1	a	day	urn:cts:greekLit:tlg0011.tlg003.perseus-grc1:801
 ἡμέρα	A	III	1	a	day	
               
+              
 ἡμέρα	A	III	1	a	day	
               
 ἡμέρα	A	III	1	a	day	urn:cts:greekLit:tlg0011.tlg008.perseus-grc1:1120:4
@@ -3237,14 +3365,15 @@
 ἡμέρα	A	III	1	a	day	urn:cts:greekLit:tlg0028.tlg005.perseus-grc1:72
 ἡμέρα	A	III	1	a	day	
               
+              
 ἡμέρα	A	III	1	a	day	urn:cts:greekLit:tlg0062.tlg068:24:2
 ἡμέρα	A	III	1	a	day	urn:cts:greekLit:tlg0007.tlg013:15
 ἡμέρα	A	III	1	a	day	urn:cts:greekLit:tlg0074.tlg-02:2:18:13
 ἡμέρα	A	III	1	a	day	urn:cts:greekLit:tlg0447.tlg001:22
 ἡμέρα	A	III	1	a	day	
               
-ἡμέρα	A	III	1	a	day	
-                
+              
+ἡμέρα	A	III	1	a	day	SIG646.2
 ἡμέρα	A	III	1	a	day	urn:cts:greekLit:tlg0032.tlg001.perseus-grc1:2:4:6
 ἡμέρα	A	III	1	a	day	urn:cts:greekLit:tlg0540.tlg001.perseus-grc1:14
 ἡμέρα	A	III	1	a	day	urn:cts:greekLit:tlg0554.tlg001.perseus-grc1:4:2
@@ -3252,9 +3381,10 @@
 ἡμέρα	A	IV	2	a		urn:cts:greekLit:tlg0020.tlg001.perseus-grc1:11
 ἡμεραῖος	A	I	1	a	of the daytime	http://www.trismegistos.org/text/33700
 ἡμεραῖος	A	II	1	a	a day long	urn:cts:greekLit:tlg0065.tlg001:69
-ἠλυγάσια	A	I	1	a		
-                
+ἠλυγάσια	A	I	1	a		Ath.Mitt.49.118
 ἡμέρευσις	A	I	1	a	spending of the day	
+              
+              
               
 ἡμερεύω	A	I	1	a	spend the day	urn:cts:greekLit:tlg0032.tlg001.perseus-grc1:5:4:3
 ἡμερεύω	A	I	1	a	spend the day	urn:cts:greekLit:tlg0014.tlg044.perseus-grc1:4
@@ -3265,31 +3395,29 @@
 ἡμερεύω	A	I	2	a	pass one's days	Eur. Fr. 812.6
 ἡμερεύω	A	I	3	a	work by day,	
               
+              
 ἡμερήσιος	A	I	1	a	of the day	urn:cts:greekLit:tlg0627.tlg036:1:11
 ἡμερήσιος	A	I	1	a	of the day	urn:cts:greekLit:tlg0161.tlg001:212
 ἡμερήσιος	A	I	1	a	of the day	urn:cts:greekLit:tlg0085.tlg005.perseus-grc1:22
-ἡμερήσιος	A	I	1	a	of the day	
-                
+ἡμερήσιος	A	I	1	a	of the day	PMag.Leid.W.2.10
 ἡμερήσιος	A	II	1	a	a day long	urn:cts:greekLit:tlg0016.tlg001.perseus-grc1:4:101
 ἡμερήσιος	A	II	1	a	a day long	urn:cts:greekLit:tlg0059.tlg030.perseus-grc1:616b
 ἡμερήσιος	A	II	1	a	a day long	urn:cts:greekLit:tlg0010.tlg019.perseus-grc1:320
 ἡμερήσιος	A	II	1	a	a day long	urn:cts:greekLit:tlg1734.tlg001:97c
-ἡμερήσιος	A	II	1	a	a day long	
-                
+ἡμερήσιος	A	II	1	a	a day long	Plu.2.111c
 ἡμερήσιος	A	III	1	a	of	Perseus:abo:pap,P.Fay.:91:23
 ἡμερήσιος	A	III	1	a	of	
               
 ἡμερήσιος	A	III	1	a	of	urn:cts:greekLit:tlg9010.tlg001:500
 ἡμερήσιος	A	III	1	a	of	urn:cts:greekLit:tlg0004.tlg001.perseus-grc1:7:181
-ἡμερήσιος	A	III	1	a	of	
-                
+ἡμερήσιος	A	III	1	a	of	POxy.83.12
 ἡμερήσιος	A	III	1	a	of	Perseus:abo:pap,P.Grenf.:2:67:11
-ἡμερήσιος	A	III	2	a		
-                
+ἡμερήσιος	A	III	2	a		Epigr.Gr.1096.1
 ἡμερήσιος	A	III	3	a	day-book	Perseus:abo:pap,BGU:12:32
 ἡμερήσιος	A	III	3	a	day-book	Perseus:abo:pap,BGU:870:3
 ἡμερία	A	I	1	a		urn:cts:greekLit:tlg0011.tlg003.perseus-grc1:208
 ἡμερίδης	A	I	1	a	mild, mellow	
+              
               
 ἡμερίδης	A	I	1	a	mild, mellow	
               
@@ -3308,11 +3436,11 @@
 ἡμέριος	A	I	1	a	lasting but a day	urn:cts:greekLit:tlg0006.tlg015.perseus-grc1:1512
 ἡμέριος	A	I	1	a	lasting but a day	urn:cts:greekLit:tlg0011.tlg003.perseus-grc1:398
 ἡμέριος	A	I	1	a	lasting but a day	urn:cts:greekLit:tlg0011.tlg002.perseus-grc1:789
-ἡμέριος	A	I	1	a	lasting but a day	
-                
+ἡμέριος	A	I	1	a	lasting but a day	Hymn.Is.87
 ἡμέριος	A	I	1	a	lasting but a day	urn:cts:greekLit:tlg0060.tlg001.perseus-grc3:7:12
 ἡμέριος	A	I	1	a	lasting but a day	urn:cts:greekLit:tlg0023.tlg001.perseus-grc1:2:669
 ἡμέριος	A	I	1	a	lasting but a day	
+              
               
 ἡμέριος	A	I	1	a	lasting but a day	
               
@@ -3326,8 +3454,7 @@
 ἡμερίς	A	I	1	a	the cultivated vine	urn:cts:greekLit:tlg0024.tlg001.perseus-grc1:3:458
 ἡμερίς	A	I	1	a	the cultivated vine	urn:cts:greekLit:tlg2003.tlg001:7:221b
 ἡμερίς	A	I	1	a	the cultivated vine	urn:cts:greekLit:tlg0019.tlg001.perseus-grc1:997
-ἡμερίς	A	I	1	a	the cultivated vine	
-                
+ἡμερίς	A	I	1	a	the cultivated vine	Plu.2.15e
 ἡμερίς	A	I	2	a		urn:cts:greekLit:tlg0093.tlg001:3:8:2
 ἡμερόβιος	A	I	1	a	living for a day	urn:cts:greekLit:tlg0093.tlg006:29
 ἡμερόβιος	A	I	1	a	living for a day	urn:cts:latinLit:phi0978.phi001:11:120
@@ -3336,9 +3463,13 @@
 ἡμερόβιος	A	I	1	a	living for a day	urn:cts:greekLit:tlg2034.tlg003:p.270
 ἡμερογράφος	A	I	1	a	one who keeps a diary	
               
+              
+              
 ἡμεροδανειστής	A	I	1	a	one who lends on daily interest	urn:cts:greekLit:tlg0004.tlg001.perseus-grc1:6:99
 ἡμεροδανειστής	A	I	1	a	one who lends on daily interest	urn:cts:greekLit:tlg0004.tlg001.perseus-grc1:100
 ἡμερόδοτος	A	I	1	a	bestowed for a day	
+              
+              
               
 ἡμερόδοτος	A	I	1	a	bestowed for a day	
               
@@ -3347,7 +3478,9 @@
 ἡμέροας	A	I	1	a	long-distance runner, courier	urn:cts:greekLit:tlg0016.tlg001.perseus-grc1:6:105
 ἡμέροας	A	I	1	a	long-distance runner, courier	
               
+              
 ἡμεροδρόμιον	A	I	1	a	astrological calendar	
+              
               
 ἡμεροδρόμος	A	I	1	a	taking a day to traverse	urn:cts:greekLit:tlg0376.tlg001:41
 ἡμεροδρόμος	A	I	2	a		urn:cts:greekLit:tlg0016.tlg001.perseus-grc1:9:12
@@ -3357,6 +3490,7 @@
 ἡμεροδρόμος	A	I	2	a	sun	urn:cts:greekLit:tlg0060.tlg001.perseus-grc3:15:82
 ἡμεροδρόμος	A	I	2	a	sun	
               
+              
 ἡμεροδρόμος	A	I	2	a	sun	
               
 ἡμεροειδής	A	I	1	a	of the form of day	urn:cts:greekLit:tlg0537.tlg003:294
@@ -3364,11 +3498,13 @@
 ἡμεροειδής	A	I	1	a	of the form of day	urn:cts:greekLit:tlg2023.tlg002:21
 ἡμεροθαλλής	A	I	1	a	gently-sprouting,	
               
+              
 ἡμεροθηρικός	A	I	1	a	of	urn:cts:greekLit:tlg0059.tlg007.perseus-grc1:222c
 ἡμεροκαλλές	A	I	1	a	Martagon lily, Lilium Martagon	urn:cts:greekLit:tlg0434.tlg001:98:5
 ἡμεροκαλλές	A	I	1	a	Martagon lily, Lilium Martagon	urn:cts:greekLit:tlg0093.tlg001:6:1:1
 ἡμεροκαλλές	A	I	1	a	Martagon lily, Lilium Martagon	urn:cts:greekLit:tlg0093.tlg001:6:6:11
 ἡμεροκαλλές	A	I	1	a	Martagon lily, Lilium Martagon	
+              
               
 ἡμεροκλέπτης	A	I	1	a	one who robs by day,	
               
@@ -3383,17 +3519,22 @@
 ἡμερολόγιον	A	I	1	a	calendar	urn:cts:greekLit:tlg0007.tlg048:59
 ἡμερολόγιον	A	I	1	a	calendar	
               
+              
+              
 ἡμερολόγιον	A	II	1	a		
               
 ἡμερομαντεία	A	I	1	a	divination by day,	
               
+              
 ἡμερομαχία	A	I	1	a	battle by day	
+              
               
 ἡμερονύκτιον	A	I	1	a	Cat.Cod. Astr.	urn:cts:greekLit:tlg4015.tlg009:8(3).113
 ἡμερονύκτιον	A	I	1	a	Cat.Cod. Astr.	urn:cts:greekLit:tlg4099.tlg001:540:21
 ἡμερόπιτυς	A	I	1	a	cultivated pine	
               
 ἡμεροπόσιον	A	I	1	a	day's portion of wine,	
+              
               
 ἥμερος	A	I	1	a	tame	urn:cts:greekLit:tlg0012.tlg002.perseus-grc1:15:162
 ἥμερος	A	I	1	a	tame	urn:cts:greekLit:tlg0059.tlg012:260b
@@ -3405,8 +3546,7 @@
 ἥμερος	A	I	2	a	cultivated	urn:cts:greekLit:tlg0059.tlg032:115a
 ἥμερος	A	I	2	a	cultivated	urn:cts:greekLit:tlg0059.tlg031:77b
 ἥμερος	A	I	2	a	cultivated	urn:cts:greekLit:tlg0654.tlg002:2
-ἥμερος	A	I	3	a	cultivated, reclaimed	
-                
+ἥμερος	A	I	3	a	cultivated, reclaimed	Hp.
 ἥμερος	A	I	3	a	cultivated, reclaimed	
               
 ἥμερος	A	I	3	a	cultivated, reclaimed	urn:cts:greekLit:tlg0059.tlg034.perseus-grc1:761a
@@ -3415,6 +3555,8 @@
 ἥμερος	A	I	4	a	civilized, gentle	urn:cts:greekLit:tlg0033.tlg002.perseus-grc1:3:6
 ἥμερος	A	I	4	a	civilized, gentle	urn:cts:greekLit:tlg0014.tlg021.perseus-grc1:49
 ἥμερος	A	I	4	a	civilized, gentle	
+              
+              
               
 ἥμερος	A	I	4	a	civilized, gentle	urn:cts:greekLit:tlg0033.tlg003.perseus-grc1:8:3
 ἥμερος	A	I	4	a	civilized, gentle	urn:cts:greekLit:tlg0033.tlg003.perseus-grc1:9:44
@@ -3432,6 +3574,7 @@
 ἥμερος	A	II	1	a		urn:cts:greekLit:tlg0199.tlg001:10:39
 ἥμερος	A	II	1	a		urn:cts:greekLit:tlg0533.tlg002:236
 ἥμερος	A	II	1	a		
+              
               
 ἡμεροσκοπεῖον	A	I	1	a	place for watching by day	urn:cts:greekLit:tlg0058.tlg001.perseus-grc1:6:6
 ἡμεροσκοπεῖον	A	I	1	a	place for watching by day	urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:3:4:6
@@ -3473,12 +3616,13 @@
 ἡμερόω	A	I	1	a		urn:cts:greekLit:tlg0086.tlg014:488a:29
 ἡμερόω	A	I	1	a		
               
+              
 ἡμερόω	A	I	1	a	to be pacified	
+              
               
 ἡμερόω	A	I	1	a	to be pacified	urn:cts:greekLit:tlg0059.tlg030.perseus-grc1:493b
 ἡμερόω	A	I	1	a	to be pacified	urn:cts:greekLit:tlg0059.tlg034.perseus-grc1:906d
-ἡμερόω	A	I	2	a	reclaim, cultivate	
-                
+ἡμερόω	A	I	2	a	reclaim, cultivate	Hp.
 ἡμερόω	A	I	2	a	reclaim, cultivate	
               
 ἡμερόω	A	I	2	a	reclaim, cultivate	urn:cts:greekLit:tlg0093.tlg002:2:14:1
@@ -3496,6 +3640,7 @@
 ἡμερόω	A	I	4	b	tame by conquest, subdue	urn:cts:greekLit:tlg0016.tlg001.perseus-grc1:5:2
 ἡμερόω	A	I	4	b	tame by conquest, subdue	urn:cts:greekLit:tlg0016.tlg001.perseus-grc1:4:118
 ἡμερόω	A	I	4	b	tame by conquest, subdue	
+              
               
 ἡμέρωμα	A	I	1	a	cultivated plant	urn:cts:greekLit:tlg0093.tlg002:5:6:8
 ἡμέρωμα	A	I	1	a	cultivated plant	urn:cts:greekLit:tlg0093.tlg001:1:7:1
@@ -3531,8 +3676,7 @@
 ἠμί	A	I	1	a	say	urn:cts:greekLit:tlg0019.tlg003.perseus-grc1:1145
 ἠμί	A	I	1	a	say	urn:cts:greekLit:tlg0019.tlg009.perseus-grc1:37
 ἠμί	A	I	1	a	say	urn:cts:greekLit:tlg0252.tlg001:1
-ἠμί	A	I	1	a	say	
-                
+ἠμί	A	I	1	a	say	Sapph.97
 ἠμί	A	I	1	a	say	urn:cts:greekLit:tlg0291.tlg001:139
 ἠμί	A	II	1	a		
               
@@ -3549,8 +3693,7 @@
 ἠμί	A	II	1	a	spake	urn:cts:greekLit:tlg0019.tlg004.perseus-grc1:795
 ἠμί	A	II	1	a	spake	urn:cts:greekLit:tlg0059.tlg011.perseus-grc1:205c
 ἠμί	A	II	1	a	spake	urn:cts:greekLit:tlg0059.tlg030.perseus-grc1:327b
-ἠμί	A	II	1	a	spake	
-                
+ἠμί	A	II	1	a	spake	Philostr.
 ἠμί	A	II	1	a	spake	
               
 ἡμιάγρυπνος	A	I	1	a	half-awake	urn:cts:greekLit:tlg4024.tlg001:4:19
@@ -3559,7 +3702,9 @@
 ἡμιαμβικός	A	I	1	a	writer of such verses	urn:cts:greekLit:tlg0022.tlg001:377
 ἡμιαμφόριον	A	I	1	a	half	
               
+              
 ἡμιαμφόριον	A	I	1	a	half	
+              
               
 ἡμιαμφόριον	A	I	1	a	half	urn:cts:greekLit:tlg0526.tlg004.perseus-grc1:2:21:2
 ἡμίανδρος	A	I	1	a	half-man, eunuch	urn:cts:greekLit:tlg0233.tlg001:114
@@ -3577,9 +3722,11 @@
 ἡμιασσάριον	A	I	1	a	half-as	urn:cts:greekLit:tlg0543.tlg001.perseus-grc1:2:15:6
 ἡμιασσάριον	A	I	1	a	half-as	
               
+              
 ἡμιασσάριον	A	I	1	a	half-as	
               
 ἡμιάστατον	A	I	1	a	the half-indefinite	
+              
               
 ἡμιάστατον	A	I	1	a	the half-indefinite	
               
@@ -3589,8 +3736,7 @@
 ἡμιβαφής	A	I	1	a	half-dipped, half-dyed	urn:cts:greekLit:tlg2045.tlg001.perseus-grc1:1:358
 ἡμίβιος	A	I	1	a	half-alive	urn:cts:greekLit:tlg2583.tlg001:2:358
 ἡμιβραχής	A	I	1	a	half-watered	urn:cts:greekLit:tlg0093.tlg002:3:23:1
-ἡμιβραχής	A	I	1	a	half-watered	
-                
+ἡμιβραχής	A	I	1	a	half-watered	AP11.413
 ἡμιβραχής	A	I	1	a	half-watered	
               
 ἡμίβραχυς	A	I	1	a	half of a short	urn:cts:greekLit:tlg0109.tlg001:p.207
@@ -3616,19 +3762,20 @@
               
 ἡμιδαής	A	I	1	a	half-burnt	urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:16:294
 ἡμιδαής	A	I	1	a	half-burnt	urn:cts:greekLit:tlg0001.tlg001.perseus-grc1:4:598
-ἡμιδαής	A	II	1	a	half-divided, half-mangled	
-                
+ἡμιδαής	A	II	1	a	half-divided, half-mangled	AP9.375
 ἡμιδαής	A	II	1	a	half-divided, half-mangled	urn:cts:greekLit:tlg0022.tlg002:55
 ἡμιδάϊκτος	A	I	1	a	half-slain	urn:cts:greekLit:tlg0024.tlg001.perseus-grc1:2:281
 ἡμιδάϊκτος	A	I	1	a	half-slain	urn:cts:greekLit:tlg0023.tlg001.perseus-grc1:5:669
 ἡμιδακτυλιαῖος	A	I	1	a	half a finger long	urn:cts:greekLit:tlg0544.tlg002:10:137
 ἡμιδακτύλιον	A	I	1	a	half-finger's breadth,	
               
+              
 ἡμιδακτύλιον	A	I	1	a	half-finger's breadth,	
               
 ἡμιδακτύλιον	A	I	1	a	half-finger's breadth,	urn:cts:greekLit:tlg0543.tlg001.perseus-grc1:6:23:11
 ἡμιδακτύλιον	A	I	1	a	half-finger's breadth,	urn:cts:greekLit:tlg1599.tlg001:65:3
 ἡμιδακτύλιον	A	I	1	a	half-finger's breadth,	
+              
               
 ἡμιδαμής	A	I	1	a	half-slain	urn:cts:greekLit:tlg0023.tlg001.perseus-grc1:1:716
 ἡμιδαμής	A	I	1	a	half-slain	
@@ -3639,8 +3786,10 @@
 ἡμιδαρεικόν	A	I	1	a	half-daric	urn:cts:greekLit:tlg0032.tlg006.perseus-grc1:1:3:21
 ἡμιδαρεικόν	A	I	1	a	half-daric	
               
+              
 ἡμιδεής	A	I	1	a	wanting half, half-full	urn:cts:greekLit:tlg0032.tlg006.perseus-grc1:1:9:25
 ἡμιδεής	A	I	1	a	wanting half, half-full	
+              
               
 ἡμιδεής	A	I	1	a	wanting half, half-full	
               
@@ -3657,7 +3806,9 @@
 ἡμίδραχμον	A	I	1	a	half-drachma	urn:cts:greekLit:tlg0542.tlg001:6:160
 ἡμίδραχμον	A	I	1	a	half-drachma	
               
+              
 ἡμίδραχμον	A	I	1	a	half-drachma	
+              
               
 ἡμιδωδέκατον	A	I	1	a		
               
@@ -3669,18 +3820,19 @@
 ἡμιέκτεων	A	I	1	a	half	urn:cts:greekLit:tlg0019.tlg003.perseus-grc1:643
 ἡμιέκτεων	A	I	1	a	half	urn:cts:greekLit:tlg0019.tlg003.perseus-grc1:645
 ἡμιέκτεων	A	I	1	a	half	urn:cts:greekLit:tlg0019.tlg003.perseus-grc1:1923:2
-ἡμιέκτεων	A	I	1	a	half	
-                
+ἡμιέκτεων	A	I	1	a	half	IG22.1672.15
 ἡμιέκτεων	A	I	1	a	half	
               
 ἡμιέκτεων	A	I	1	a	half	urn:cts:greekLit:tlg0497.tlg001:174:12
-ἡμιέκτεων	A	I	1	a	half	
-                
+ἡμιέκτεων	A	I	1	a	half	Milet.7.27
 ἡμίεκτον	A	I	1	a	half	urn:cts:greekLit:tlg0014.tlg034.perseus-grc1:37
 ἡμίεκτον	A	I	1	a	half	urn:cts:greekLit:tlg0093.tlg001:2:6:2
 ἡμίεκτον	A	I	1	a	half	
               
+              
 ἡμίεκτον	A	I	1	a	half	
+              
+              
               
 ἡμίεκτον	A	I	1	a	half	
               
@@ -3688,34 +3840,43 @@
 ἡμίεκτον	A	II	1	a		urn:cts:greekLit:tlg0433.tlg001:20
 ἡμίεκτον	A	II	1	a		
               
+              
 ἡμίεκτον	A	II	1	a		
+              
               
 ἡμίεκτον	A	II	1	a		
               
 ἡμιεκφανής	A	I	1	a	half-brilliant	
               
+              
+              
 ἡμιέλλην	A	I	1	a	half-Greek	urn:cts:greekLit:tlg0062.tlg045:64
 ἡμιεπές	A	I	1	a	half-hexameter	urn:cts:greekLit:tlg0062.tlg045:p.73K
 ἡμιεπές	A	I	1	a	half-hexameter	urn:cts:greekLit:tlg0062.tlg045:p.544K
-ἡμιέργαστος	A	I	1	a	half-wrought, half-completed	
-                
+ἡμιέργαστος	A	I	1	a	half-wrought, half-completed	Gal.5.538
 ἡμιέργαστος	A	I	1	a	half-wrought, half-completed	urn:cts:greekLit:tlg0062.tlg048:5
 ἡμιέργαστος	A	I	1	a	half-wrought, half-completed	urn:cts:greekLit:tlg0627.tlg036:1:78
 ἡμιέργαστος	A	I	1	a	half-wrought, half-completed	
               
+              
 ἡμιέργαστος	A	I	1	a	half-wrought, half-completed	
+              
               
 ἡμιέργαστος	A	I	1	a	half-wrought, half-completed	urn:cts:greekLit:tlg0016.tlg001.perseus-grc1:4:124
 ἡμιέργαστος	A	I	1	a	half-wrought, half-completed	urn:cts:greekLit:tlg0003.tlg001.perseus-grc1:7:2
 ἡμιέργαστος	A	I	1	a	half-wrought, half-completed	urn:cts:greekLit:tlg0526.tlg001.perseus-grc1:14:16:2
 ἡμιέργαστος	A	I	1	a	half-wrought, half-completed	
               
+              
 ἡμιέτης	A	I	1	a	of half a year	urn:cts:greekLit:tlg0542.tlg001:1:54
 ἡμίεφθος	A	I	1	a	half-boiled	urn:cts:greekLit:tlg0627.tlg010.perseus-grc1:63
 ἡμίεφθος	A	I	1	a	half-boiled	urn:cts:greekLit:tlg0527.tlg048:51:20
 ἡμίεφθος	A	I	1	a	half-boiled	
               
+              
+              
 ἡμίεφθος	A	I	1	a	half-boiled	
+              
               
 ἡμίεφθος	A	I	1	a	half-boiled	urn:cts:greekLit:tlg0062.tlg066:20:4
 ἡμίεφθος	A	I	1	a	half-boiled	urn:cts:greekLit:tlg0062.tlg019:2
@@ -3723,8 +3884,7 @@
 ζωνον	A	I	1	a	semicinctum,	
               
 ἡμίζως	A	I	1	a	half-alive	urn:cts:greekLit:tlg0087.tlg036:239
-ἡμιθαλής	A	I	1	a	half-green	
-                
+ἡμιθαλής	A	I	1	a	half-green	AP7.465
 ἡμιθαλής	A	I	1	a	half-green	
               
 ἡμιθανής	A	I	1	a	half-dead	urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:2:3:4
@@ -3732,12 +3892,12 @@
 ἡμιθανής	A	I	1	a	half-dead	urn:cts:greekLit:tlg0031.tlg003.perseus-grc1:10:30
 ἡμιθανής	A	I	1	a	half-dead	
               
+              
 ἡμιθανής	A	I	1	a	half-dead	
               
 ἡμιθανής	A	I	1	a	half-dead	Perseus:abo:pap,P.Amh.:2:141:13
 ἡμιθέα	A	I	1	a	demigoddess	urn:cts:greekLit:tlg0533.tlg001:3:1:71
-ἡμιθέα	A	I	1	a	demigoddess	
-                
+ἡμιθέα	A	I	1	a	demigoddess	IG14.1389i57
 ἡμιθέαινα	A	I	1	a	demigoddess	urn:cts:greekLit:tlg0024.tlg001.perseus-grc1:3:245
 ἡμίθεος	A	I	1	a	demigod	urn:cts:greekLit:tlg0020.tlg002.perseus-grc1:160
 ἡμίθεος	A	I	1	a	demigod	urn:cts:greekLit:tlg0013.tlg031.perseus-grc1:19
@@ -3754,8 +3914,8 @@
               
 ἡμίθεος	A	II	1	a	five,	
               
-ἡμίθηλυς	A	I	1	a	half-woman	
-                
+              
+ἡμίθηλυς	A	I	1	a	half-woman	Anacreont.11.2
 ἡμίθηρ	A	I	1	a	half-beast	urn:cts:greekLit:tlg0548.tlg001.perseus-grc1:1:6:3
 ἡμίθηρ	A	I	1	a	half-beast	urn:cts:greekLit:tlg0652.tlg001:4
 ἡμιθῆτα	A	I	1	a	half-theta	urn:cts:greekLit:tlg2135.tlg001:13
@@ -3764,27 +3924,35 @@
 ἡμιθνής	A	I	1	a		urn:cts:greekLit:tlg0543.tlg001.perseus-grc1:14:5:7
 ἡμιθνής	A	I	1	a		
               
+              
 ἡμιθνής	A	I	1	a		urn:cts:greekLit:tlg0026.tlg003.perseus-grc1:159
 ἡμιθνής	A	I	1	a		urn:cts:greekLit:tlg0638.tlg001:2:36
 ἡμίθνητος	A	I	1	a	half-mortal	
               
+              
 ἡμίθνητος	A	I	1	a	half-mortal	
+              
               
 ἡμίθνητος	A	I	2	a	half-dead	urn:cts:greekLit:tlg0527.tlg035:18:18
 ἡμίθραυστος	A	I	1	a	half-broken	urn:cts:greekLit:tlg0006.tlg009.perseus-grc1:1096
 ἡμίθραυστος	A	I	1	a	half-broken	
               
+              
 ἡμίθραυστος	A	I	1	a	half-broken	
+              
               
 ἡμίθραυστος	A	I	1	a	half-broken	
               
 ἡμιθωράκιον	A	I	1	a	front plate of the	
               
+              
 ἡμιθωράκιον	A	I	1	a	front plate of the	
+              
               
 ἡμιϊουδαῖος	A	I	1	a	half-Jew	urn:cts:greekLit:tlg0526.tlg001.perseus-grc1:14:15:2
 ἡμικάδιον	A	I	1	a	half	urn:cts:greekLit:tlg0583.tlg001:155a
 ἡμικάδιον	A	I	1	a	half	
+              
               
 ἡμικάδιον	A	I	1	a	half	
               
@@ -3795,12 +3963,11 @@
               
 ἡμίκακος	A	I	1	a	half a villain	urn:cts:greekLit:tlg2018.tlg001:5:24
 ἡμίκακος	A	I	1	a	half a villain	urn:cts:greekLit:tlg0019.tlg008.perseus-grc1:449
-ἡμικαλάθιον	A	I	1	a	half a basket	
-                
+ἡμικαλάθιον	A	I	1	a	half a basket	IG11(2).161
 ἡμικαλάθιον	A	I	1	a	half a basket	
               
-ἡμικαλάθιον	A	I	1	a	half a basket	
-                
+              
+ἡμικαλάθιον	A	I	1	a	half a basket	Inscr.Magn.116.38
 ἡμίκαυστος	A	I	1	a	half-burnt	urn:cts:greekLit:tlg0545.tlg002:13:2
 ἡμίκαυστος	A	I	1	a	half-burnt	urn:cts:greekLit:tlg0385.tlg001:50:35
 ἡμίκαυστος	A	I	1	a	half-burnt	urn:cts:greekLit:tlg2003.tlg001:1:27d
@@ -3808,17 +3975,21 @@
 ἡμίκενος	A	I	1	a	half-empty	urn:cts:greekLit:tlg0542.tlg001:5:133
 ἡμίκεντρος	A	I	1	a	half-way between cardinal points	
               
+              
 ἡμικεραμία	A	I	1	a	urna,	
               
 ἡμικεραύνιος	A	I	1	a	bandage	
+              
               
 ἡμικεφάλιον	A	I	1	a	sinciput	
               
 ἡμικίριον	A	I	1	a	cloth	
               
+              
 ἡμικλάδευτος	A	I	1	a	half-pruned,	
               
 ἡμίκλαστος	A	I	1	a	half-broken	
+              
               
 ἡμίκλαστος	A	I	1	a	half-broken	
               
@@ -3833,20 +4004,26 @@
 ἡμικλήριον	A	II	1	a	half a	Perseus:abo:pap,P.Enteux.:1:6
 ἡμικλήριον	A	II	1	a	half a	
               
+              
 ἡμικλίβανος	A	I	1	a	half-share in a bakehouse,	
               
-ἡμίκλινον	A	I	1	a	half-sized couch,	
               
 ἡμίκλινον	A	I	1	a	half-sized couch,	
+              
+              
+ἡμίκλινον	A	I	1	a	half-sized couch,	
+              
               
 ἡμικόγγιον	A	I	1	a	half-congius	
               
 ἡμικόγγιον	A	I	1	a	half-congius	
+              
               
 ἡμίκοπος	A	I	1	a	half-mangled	urn:cts:greekLit:tlg0023.tlg001.perseus-grc1:1:716
 ἡμίκοπος	A	I	1	a	half-mangled	
               
 ἡμίκοπος	A	II	1	a	half-carcase,	
+              
               
 ἡμίκοπος	A	II	1	a	half-carcase,	Perseus:abo:pap,PSI:6:683:33
 ἡμικόριον	A	I	1	a	half	
@@ -3856,6 +4033,8 @@
 ἡμικόριον	A	I	1	a	half	
               
 ἡμικόριον	A	I	1	a	half	
+              
+              
               
 ἡμικόσμιον	A	I	1	a	half the universe	urn:cts:greekLit:tlg1272.tlg001:1:9
 ἡμικόσμιον	A	I	1	a	half the universe	urn:cts:greekLit:tlg1272.tlg001:11
@@ -3871,28 +4050,32 @@
 ἡμικοτύλιον	A	I	1	a	half	urn:cts:greekLit:tlg0722.tlg001:4:7:37
 ἡμικοτύλιον	A	I	1	a	half	
               
+              
 ἡμίκουρος	A	I	1	a	half-sheared,	
+              
               
 ἡμίκραιρα	A	I	1	a	half the head	urn:cts:greekLit:tlg0019.tlg008.perseus-grc1:227
 ἡμίκραιρα	A	I	1	a	half the head	urn:cts:greekLit:tlg0403.tlg001:7
 ἡμίκραιρα	A	I	1	a	half the head	urn:cts:greekLit:tlg0437.tlg001:6
-ἡμίκραιρα	A	I	1	a	half the head	
-                
+ἡμίκραιρα	A	I	1	a	half the head	IG22.1356
 ἡμίκραιρα	A	I	2	a		
               
-ἡμικρανία	A	I	1	a	pain on one side of the head	
               
 ἡμικρανία	A	I	1	a	pain on one side of the head	
               
 ἡμικρανία	A	I	1	a	pain on one side of the head	
               
-ἡμικρανικός	A	I	1	a	of	
-                
+              
+ἡμικρανία	A	I	1	a	pain on one side of the head	
+              
+ἡμικρανικός	A	I	1	a	of	Gal.12.594
 ἡμικρανικός	A	I	1	a	of	urn:cts:greekLit:tlg0718.tlg006:49
 ἡμικρανικός	A	I	1	a	of	
               
+              
 ἡμικρανικός	A	I	1	a	of	urn:cts:greekLit:tlg0715.tlg001:3:5
 ἡμικρανικός	A	I	1	a	of	
+              
               
 ἡμίκρανον	A	I	1	a		
               
@@ -3901,10 +4084,13 @@
 ἡμίκρανον	A	I	1	a		urn:cts:greekLit:tlg0402.tlg001:1:12
 ἡμικραής	A	I	1	a	half a Cretan	
               
+              
 ἡμικύαθος	A	I	1	a	half	
+              
               
 ἡμικύαθος	A	I	1	a	half	urn:cts:greekLit:tlg0719.tlg003.perseus-grc1:2:2
 ἡμικύαθος	A	I	1	a	half	
+              
               
 ἡμικύκλιος	A	I	1	a	semicircular	urn:cts:greekLit:tlg0001.tlg001.perseus-grc1:4:1613
 ἡμικύκλιος	A	I	1	a	semicircular	urn:cts:greekLit:tlg1600.tlg001:1:12
@@ -3919,16 +4105,23 @@
 ἡμικύκλιος	A	II	2	a	a place for public entertainment	urn:cts:greekLit:tlg2034.tlg002:9
 ἡμικύκλιος	A	II	3	a	semicircular seat, armchair	
               
+              
+              
 ἡμικύκλιος	A	II	3	a	semicircular seat, armchair	urn:cts:greekLit:tlg0542.tlg001:6:9
 ἡμικύκλιος	A	II	4	a	semicircular dial	
               
-ἡμικύκλιος	A	II	5	a	semicircular statue-base,	
               
 ἡμικύκλιος	A	II	5	a	semicircular statue-base,	
               
-ἡμικύκλιος	A	II	5	a	semicircular statue-base,	
               
 ἡμικύκλιος	A	II	5	a	semicircular statue-base,	
+              
+              
+ἡμικύκλιος	A	II	5	a	semicircular statue-base,	
+              
+              
+ἡμικύκλιος	A	II	5	a	semicircular statue-base,	
+              
               
 ἡμικύκλιος	A	II	6	a	barrel-vault	urn:cts:greekLit:tlg1599.tlg001:87:12
 ἡμικύκλιος	A	II	7	a	theatrical machine	urn:cts:greekLit:tlg0542.tlg001:4:127
@@ -3943,10 +4136,9 @@
 ἡμίκυνες	A	I	1	a	half-dogs	urn:cts:greekLit:tlg0020.tlg007:62
 ἡμίκυνες	A	I	1	a	half-dogs	
               
-ἡμίκυπρον	A	I	1	a		
-                
-ἡμίκυπρον	A	I	1	a	a measure	
-                
+              
+ἡμίκυπρον	A	I	1	a		11.2
+ἡμίκυπρον	A	I	1	a	a measure	11.2
 ἡμίκυπρον	A	I	1	a	a measure	urn:cts:greekLit:tlg0233.tlg001:24
 ἡμίκυπρον	A	I	1	a	a measure	urn:cts:greekLit:tlg0233.tlg001:1
 ἡμίκυπρον	A	I	1	a	a measure	urn:cts:greekLit:tlg0233.tlg001:2
@@ -3955,6 +4147,7 @@
 ἡμικώνιον	A	I	1	a	half-cone	urn:cts:greekLit:tlg1799.tlg009:30
 ἡμίκῳον	A	I	1	a	half a	Perseus:abo:pap,SB:4425 vii 12
 ἡμίλαγος	A	I	1	a	half-hare	
+              
               
 ἡμίλαμπρος	A	I	1	a	at half brilliancy	urn:cts:greekLit:tlg0653.tlg001.perseus-grc1:733
 ἡμιλάσταυρος	A	I	1	a	half a rogue	urn:cts:greekLit:tlg0541.tlg001:1014
@@ -3972,13 +4165,18 @@
               
 ἡμίλιτρον	A	I	2	a	half-pound	
               
+              
 ἡμίλουτος	A	I	1	a	half-washed	urn:cts:greekLit:tlg0434.tlg001:416
 ἡμιλοχία	A	I	1	a	half	
               
 ἡμιλοχία	A	I	1	a	half	
               
+              
+              
 ἡμιλοχία	A	I	1	a	half	urn:cts:greekLit:tlg0546.tlg001:5:2
 ἡμιλοχίτης	A	I	1	a	leader of a	
+              
+              
               
 ἡμιλοχίτης	A	I	1	a	leader of a	urn:cts:greekLit:tlg0546.tlg001:5:2
 ἡμιμαθής	A	I	1	a	half-learned	urn:cts:greekLit:tlg0638.tlg003:2:5:4
@@ -3995,12 +4193,15 @@
 ἡμιμέδιμνον	A	I	1	a	half	urn:cts:greekLit:tlg0066.tlg001:23
 ἡμιμέδιμνον	A	I	1	a	half	
               
+              
 ἡμιμέδιμνον	A	I	1	a	half	urn:cts:greekLit:tlg0542.tlg001:4:168
 ἡμιμεθής	A	I	1	a	half-drunk,	
+              
               
 ἡμιμεθής	A	I	1	a	half-drunk,	
               
 ἡμιμείλιον	A	I	1	a	half a mile	
+              
               
 ἡμιμέριστος	A	I	1	a	divided in half	urn:cts:greekLit:tlg0023.tlg001.perseus-grc1:2:287
 ἡμίμεστος	A	I	1	a	half-full	urn:cts:greekLit:tlg0542.tlg001:5:133
@@ -4014,6 +4215,7 @@
               
 ἡμιμναῖον	A	I	1	a	half-mina,	
               
+              
 ἡμιμναῖον	A	I	1	a	half-mina,	urn:cts:greekLit:tlg0032.tlg002.perseus-grc1:2:5:2
 ἡμιμναῖον	A	I	1	a	half-mina,	urn:cts:greekLit:tlg0059.tlg034.perseus-grc1:774d
 ἡμιμναῖον	A	I	1	a	half-mina,	urn:cts:greekLit:tlg0007.tlg004:12
@@ -4022,20 +4224,26 @@
               
 ἡμιμναῖον	A	I	1	a	half-mina,	
               
+              
 ἡμιμόδιον	A	I	1	a	half a modius,	urn:cts:greekLit:tlg4080.tlg001:7:24:2
 ἡμιμοιριαῖος	A	I	1	a	equal to half a degree	urn:cts:greekLit:tlg1272.tlg001:2:2
 ἡμιμοίριον	A	I	1	a	half a part	urn:cts:greekLit:tlg0627.tlg028.perseus-grc1:12
 ἡμιμοίριον	A	II	1	a	half a degree	urn:cts:greekLit:tlg1272.tlg001:2:1
 ἡμιμοίριον	A	II	1	a	half a degree	
               
+              
+              
 ἡμιμόχθηρος	A	I	1	a	half-evil, half a villain	urn:cts:greekLit:tlg0059.tlg030.perseus-grc1:352c
 ἡμιμόχθηρος	A	I	1	a	half-evil, half a villain	urn:cts:greekLit:tlg0018.tlg001:2:346
 ἡμιμόχθηρος	A	I	1	a	half-evil, half a villain	
               
+              
 ἧμιμν	A	I	1	a	half	urn:cts:greekLit:tlg2135.tlg001:4
 ἡμίνα	A	I	1	a	half,	
               
+              
 ἡμίνα	A	I	1	a	half,	
+              
               
 ἡμίνα	A	I	1	a	half,	
               
@@ -4044,11 +4252,16 @@
 ἡμίνα	A	II	1	a		urn:cts:greekLit:tlg0284.tlg001.perseus-grc1:49(25).32
 ἡμίνα	A	II	1	a		
               
-ἡμίνα	A	II	1	a	hemīna	
               
 ἡμίνα	A	II	1	a	hemīna	
+              
+              
+ἡμίνα	A	II	1	a	hemīna	
+              
+              
               
 ἡμίναυλον	A	I	1	a	half-freight,	
+              
               
 ἡμίναυλον	A	I	1	a	half-freight,	
               
@@ -4063,12 +4276,16 @@
 ἡμίξεστον	A	I	1	a	half	urn:cts:greekLit:tlg0008.tlg001.perseus-grc1:3:121b
 ἡμίξεστον	A	I	1	a	half	
               
+              
 ἡμίξεστον	A	I	1	a	half	
+              
               
 ἡμίξεστον	A	I	1	a	half	urn:cts:greekLit:tlg0019.tlg011.perseus-grc1:436
 ἡμίξηρος	A	I	1	a	half-dry,	
               
+              
 ἡμίξηρος	A	I	1	a	half-dry,	
+              
               
 ἡμίξηρος	A	I	1	a	half-dry,	
               
@@ -4078,13 +4295,13 @@
 ἡμιοβόλιον	A	I	1	a	half-obol weight	urn:cts:greekLit:tlg0715.tlg001:3:29
 ἡμιοβόλιον	A	I	1	a	half-obol weight	
               
+              
 ἡμιοβόλιον	A	I	1	a	half-obol weight	
               
 ἡμιόδιον	A	I	1	a	semita,	
               
 ἡμιολιασμός	A	I	1	a	multiplying by one and a half	urn:cts:greekLit:tlg1147.tlg001:75
-ἡμιολίζω	A	I	1	a	increase by one half	
-                
+ἡμιολίζω	A	I	1	a	increase by one half	Schwyzer418.8
 ἡμιόλιος	A	I	1	a	containing one and a half, half as much	urn:cts:greekLit:tlg0059.tlg006.perseus-grc1:154c
 ἡμιόλιος	A	I	1	a	containing one and a half, half as much	urn:cts:greekLit:tlg0543.tlg001.perseus-grc1:6:32:7
 ἡμιόλιος	A	I	1	a	containing one and a half, half as much	urn:cts:greekLit:tlg0060.tlg001.perseus-grc3:15:44
@@ -4094,6 +4311,7 @@
 ἡμιόλιος	A	I	1	a	containing one and a half, half as much	urn:cts:greekLit:tlg0032.tlg006.perseus-grc1:1:3:21
 ἡμιόλιος	A	I	1	a	containing one and a half, half as much	
               
+              
 ἡμιόλιος	A	I	1	a	containing one and a half, half as much	urn:cts:greekLit:tlg0543.tlg001.perseus-grc1:10:17:12
 ἡμιόλιος	A	II	1	a	in the ratio of one and a half to one	urn:cts:greekLit:tlg0543.tlg001.perseus-grc1:3
 ἡμιόλιος	A	II	1	a	in the ratio of one and a half to one	urn:cts:greekLit:tlg0543.tlg001.perseus-grc1:2
@@ -4101,6 +4319,7 @@
 ἡμιόλιος	A	II	1	a	in the ratio of one and a half to one	urn:cts:greekLit:tlg1596.tlg001:6
 ἡμιόλιος	A	II	1	a	in the ratio of one and a half to one	urn:cts:greekLit:tlg0059.tlg034.perseus-grc1:956d
 ἡμιόλιος	A	II	1	a	in the ratio of one and a half to one	
+              
               
 ἡμιόλιος	A	II	1	a	in the ratio of one and a half to one	urn:cts:greekLit:tlg0358.tlg001:2:20
 ἡμιόλιος	A	II	1	a	in the ratio of one and a half to one	urn:cts:greekLit:tlg4036.tlg010:2:223
@@ -4111,10 +4330,11 @@
 ἡμιόλιος	A	III	1	a	a light vessel with one and a half banks of oars	urn:cts:greekLit:tlg0060.tlg001.perseus-grc3:16:61
 ἡμιόλιος	A	III	1	a	a light vessel with one and a half banks of oars	
               
+              
 ἡμιόλιος	A	III	1	a	a light vessel with one and a half banks of oars	urn:cts:greekLit:tlg0543.tlg001.perseus-grc1:5:101:2
+ἡμιόλιος	A	III	1	a	a light vessel with one and a half banks of oars	Hsch.
 ἡμιόλιος	A	III	1	a	a light vessel with one and a half banks of oars	
-                
-ἡμιόλιος	A	III	1	a	a light vessel with one and a half banks of oars	
+              
               
 ἡμιόλιος	A	III	1	a	a light vessel with one and a half banks of oars	urn:cts:greekLit:tlg0074.tlg001:3:2:5
 ἡμιόλιος	A	III	1	a	a light vessel with one and a half banks of oars	
@@ -4133,9 +4353,12 @@
 ἡμιόνειος	A	II	1	a		urn:cts:greekLit:tlg9010.tlg001:1
 ἡμιόνειος	A	II	1	a		
               
+              
+              
 ηγός	A	I	1	a	muleteer, PLond.ined.	
               
 ηγός	A	I	1	a	muleteer, PLond.ined.	
+              
               
 ηγός	A	I	1	a	muleteer, PLond.ined.	urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:14:2:24
 ἡμιονικός	A	I	1	a		urn:cts:greekLit:tlg0032.tlg006.perseus-grc1:7:5:2
@@ -4146,14 +4369,17 @@
 ἡμιόνιον	A	I	1	a	milt-wort, Asplenium Ceterach	urn:cts:latinLit:phi0978.phi001:27:34
 ἡμιόνιον	A	I	1	a	milt-wort, Asplenium Ceterach	
               
+              
 ἡμιόνιον	A	II	1	a		urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:5:3:6
 ἡμιόνιον	A	III	1	a	bird	
               
 ἡμιόνιον	A	III	1	a	bird	urn:cts:greekLit:tlg0627.tlg033:90
 ἡμιονίτης	A	I	1	a	muleteer,	
               
+              
 ἡμιονῖτις	A	I	1	a	of	urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:5:1:4
 ἡμιονῖτις	A	II	1	a	mule-fern, Scolopendrium Hemionitis	
+              
               
 ἡμιονόκουρος	A	I	1	a	mule-clipper,	
               
@@ -4175,6 +4401,7 @@
 ἡμίοπος	A	I	1	a	with half its holes	urn:cts:greekLit:tlg0085.tlg008:91
 ἡμίοπος	A	II	1	a		
               
+              
 ἡμίοπτος	A	I	1	a	half-roasted	urn:cts:greekLit:tlg0402.tlg001:175
 ἡμίοπτος	A	I	1	a	half-roasted	urn:cts:greekLit:tlg0062.tlg019:2
 ἡμίοπτος	A	I	1	a	half-roasted	urn:cts:greekLit:tlg0658.tlg001:2:19
@@ -4183,10 +4410,12 @@
 ἡμιούγκιον	A	I	1	a	half	urn:cts:greekLit:tlg0521.tlg001:8
 ἡμιούγκιον	A	I	1	a	half	
               
+              
 ἡμιπαγής	A	I	1	a	half-congealed, half-hardened	urn:cts:greekLit:tlg0059.tlg031:59e
 ἡμιπαγής	A	I	1	a	half-congealed, half-hardened	urn:cts:greekLit:tlg0059.tlg031:60d
 ἡμιπαγής	A	I	1	a	half-congealed, half-hardened	urn:cts:greekLit:tlg0086.tlg028:394a:26
 ἡμιπαγής	A	I	1	a	half-congealed, half-hardened	
+              
               
 ἡμιπαγής	A	I	1	a	half-congealed, half-hardened	urn:cts:greekLit:tlg0627.tlg004.perseus-grc1:53
 ἡμιπαγής	A	I	1	a	half-congealed, half-hardened	urn:cts:greekLit:tlg0018.tlg001:1:322
@@ -4198,8 +4427,7 @@
 ἡμιπέ<πε>ιρος	A	I	1	a	half-ripe	
               
 ἡμίπεπτος	A	I	1	a	half-ripened	urn:cts:greekLit:tlg0007.tlg048:69
-ἡμίπεπτος	A	I	1	a	half-ripened	
-                
+ἡμίπεπτος	A	I	1	a	half-ripened	Gal.11.666
 ἡμιπέπων	A	I	1	a	half-ripe	
               
 ἡμιπέπων	A	I	1	a	half-ripe	urn:cts:greekLit:tlg0722.tlg001:5:31:6
@@ -4211,7 +4439,9 @@
 ἡμιπήχειον	A	I	1	a	half-cubit	urn:cts:greekLit:tlg1431.tlg001:p.53H
 ἡμιπηχυαῖος	A	I	1	a	half a cubit long	
               
+              
 ἡμιπηχυαῖος	A	I	1	a	half a cubit long	
+              
               
 ἡμίπηχυς	A	I	1	a	of half a cubit	urn:cts:greekLit:tlg0544.tlg002:10:132
 ἡμίπηχυς	A	I	1	a	of half a cubit	urn:cts:greekLit:tlg0544.tlg002:127
@@ -4229,6 +4459,7 @@
 ἡμιπλίνθιον	A	I	1	a	half-plinth, brick	urn:cts:greekLit:tlg0016.tlg001.perseus-grc1:1:50
 ἡμιπλίνθιον	A	I	1	a	half-plinth, brick	
               
+              
 ἡμίπνικτος	A	I	1	a	half-choked,	
               
 ἡμίπνοος	A	I	1	a	half-breathing, half-alive	urn:cts:greekLit:tlg1220.tlg001:252
@@ -4237,11 +4468,13 @@
 ἡμιποδιαῖος	A	I	1	a	half a foot broad	urn:cts:greekLit:tlg1226.tlg001:45:4
 ἡμιπόδιον	A	I	1	a	half-foot,	
               
+              
 ἡμιπόδιον	A	I	1	a	half-foot,	
               
 ἡμιπόδιον	A	I	1	a	half-foot,	urn:cts:greekLit:tlg0093.tlg001:7:2:7
 ἡμιπόδιον	A	I	1	a	half-foot,	urn:cts:greekLit:tlg0543.tlg001.perseus-grc1:6:23:2
 ἡμιπόδιον	A	I	1	a	half-foot,	
+              
               
 ἡμιποίητος	A	I	1	a	half-made	urn:cts:greekLit:tlg0542.tlg001:6:160
 ἡμίπολον	A	I	1	a	half the sphere	
@@ -4256,7 +4489,9 @@
 ἡμίπυρος	A	I	1	a	half of fire	urn:cts:greekLit:tlg1272.tlg001:2:4
 ἡμίπυρος	A	I	1	a	half of fire	
               
+              
 ἡμιπύρωτος	A	I	1	a	half-burnt,	
+              
               
 ἡμιπύρωτος	A	I	1	a	half-burnt,	
               
@@ -4264,18 +4499,21 @@
 ἡμιρραγής	A	I	1	a	half-broken	urn:cts:greekLit:tlg0284.tlg001.perseus-grc1:25(43).32
 ἡμιρρήνιον	A	I	1	a	half-grown sheep,	
               
+              
 ἡμιρρήνιον	A	I	1	a	half-grown sheep,	
+              
               
 ἡμιρρήνιον	A	I	1	a	half-grown sheep,	
               
 ἡμιρρομβιαῖος	A	I	1	a	like a	
               
-ἡμιρρόμβιον	A	I	1	a		
-                
+              
+ἡμιρρόμβιον	A	I	1	a		11.2b
 ἡμιρρόμβιον	A	I	1	a		
               
 ἡμιρρόμβιον	A	I	1	a		urn:cts:greekLit:tlg0722.tlg001:48:20:13
 ἡμιρρόμβιον	A	I	1	a		
+              
               
 ἡμιρρόμβιον	A	I	1	a		
               
@@ -4292,22 +4530,29 @@
 ἡμισαπής	A	I	1	a	half-putrid	urn:cts:greekLit:tlg0627.tlg023:1:31
 ἡμισαπής	A	I	1	a	half-putrid	
               
+              
 ἡμισελήνιον	A	I	1	a	half the apparent breadth of the moon	
+              
+              
               
 ἡμισεύελπις	A	I	1	a	half-hopeful	urn:cts:greekLit:tlg0062.tlg013:10
 ἡμίσευμα	A	I	1	a	a half	urn:cts:greekLit:tlg0527.tlg004:31:36
-ἡμίσευμα	A	I	1	a	a half	
-                
+ἡμίσευμα	A	I	1	a	a half	Theol.Ar.39
 ἡμίσευμα	A	I	1	a	a half	Perseus:abo:pap,PSI:4:434:4
 ἡμίσευμα	A	I	1	a	a half	
+              
               
 ἡμισευτής	A	I	1	a		
               
 ἡμισεύω	A	I	1	a	halve	urn:cts:greekLit:tlg0527.tlg027:54(55).24
 ἡμισεύω	A	I	1	a	halve	
               
+              
+              
 ἡμισεύω	A	I	2	a	boil down to one half,	urn:cts:greekLit:tlg0738.tlg001:2
 ἡμισιάζω	A	I	1	a	halve	
+              
+              
               
 ἡμισσειάζω	A	I	1	a	*Geom.	
               
@@ -4328,20 +4573,26 @@
 ἡμίσπαστος	A	I	1	a	half pulled down	urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:17:3:12
 ἡμίσπαστος	A	I	1	a	half pulled down	
               
+              
 ἡμίσπαστος	A	I	1	a	half pulled down	
               
 ἡμισπιθαμιαῖος	A	I	1	a	of half a span	urn:cts:greekLit:tlg0627.tlg009.perseus-grc1:29
 ἡμίσπονδος	A	I	1	a	half bound by treaty	urn:cts:greekLit:tlg0542.tlg001:6:30
 ἡμισταδιαῖος	A	I	1	a	of half a stadium	
               
+              
+              
 ἡμιστάδιον	A	I	1	a	half-stadium	urn:cts:greekLit:tlg0543.tlg001.perseus-grc1:3:54:7
 ἡμιστάδιον	A	I	1	a	half-stadium	urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:17:1:48
 ἡμιστάδιον	A	I	1	a	half-stadium	urn:cts:greekLit:tlg1204.tlg001:8:8
 ἡμιστάτηρον	A	I	1	a	half	
               
-ἡμιστάτηρον	A	I	1	a	half	
               
 ἡμιστάτηρον	A	I	1	a	half	
+              
+              
+ἡμιστάτηρον	A	I	1	a	half	
+              
               
 ἡμιστάτηρον	A	I	1	a	half	urn:cts:greekLit:tlg0086.tlg051:529
 ἡμιστάτηρον	A	I	1	a	half	
@@ -4358,6 +4609,7 @@
               
 ἡμισύνθεσις	A	I	1	a	half-set,	
               
+              
 ἥμισυς	A	I	1	a		urn:cts:greekLit:tlg0016.tlg001.perseus-grc1:2:126
 ἥμισυς	A	I	1	a		urn:cts:greekLit:tlg0003.tlg001.perseus-grc1:2:78
 ἥμισυς	A	I	1	a		urn:cts:greekLit:tlg0003.tlg001.perseus-grc1:4:83
@@ -4365,10 +4617,12 @@
 ἥμισυς	A	I	1	a		urn:cts:greekLit:tlg0059.tlg011.perseus-grc1:205e
 ἥμισυς	A	I	1	a		
               
+              
 ἥμισυς	A	I	1	a		urn:cts:greekLit:tlg0014.tlg023.perseus-grc1:213
 ἥμισυς	A	I	1	a		
               
 ἥμισυς	A	I	1	a		
+              
               
 ἥμισυς	A	I	1	a		urn:cts:greekLit:tlg0003.tlg001.perseus-grc1:4:104
 ἥμισυς	A	I	1	a		urn:cts:greekLit:tlg0081.tlg001:4:17
@@ -4384,54 +4638,60 @@
 ἥμισυς	A	I	1	a		urn:cts:greekLit:tlg0014.tlg036.perseus-grc1:36
 ἥμισυς	A	I	1	a		
               
+              
 ἥμισυς	A	I	1	a		urn:cts:greekLit:tlg0093.tlg009:30:16
 ἥμισυς	A	I	1	a		
               
-ἥμισυς	A	I	1	a		
               
 ἥμισυς	A	I	1	a		
               
 ἥμισυς	A	I	1	a		
+              
+ἥμισυς	A	I	1	a		
+              
               
 ἥμισυς	A	I	1	a		urn:cts:greekLit:tlg0016.tlg001.perseus-grc1:5:111
 ἥμισυς	A	I	1	a		urn:cts:greekLit:tlg0062.tlg041:14
 ἥμισυς	A	I	1	a		urn:cts:greekLit:tlg0016.tlg001.perseus-grc1:8:27
-ἥμισυς	A	I	1	a		
-                
+ἥμισυς	A	I	1	a		IG2.1055.16
 ἥμισυς	A	I	1	a		
               
 ἥμισυς	A	I	1	a		urn:cts:greekLit:tlg0059.tlg024:83c
 ἥμισυς	A	I	1	a		
               
+              
 ἥμισυς	A	I	1	a		
+              
               
 ἥμισυς	A	I	1	a		Perseus:abo:pap,P.Eleph.:20:40
 ἥμισυς	A	I	1	a		
               
+              
 ἥμισυς	A	I	1	a		
+              
               
 ἥμισυς	A	I	1	a		Perseus:abo:pap,UPZ:54:6
 ἥμισυς	A	I	1	a		
               
+              
 ἥμισυς	A	I	1	a		
+              
               
 ἥμισυς	A	I	1	a		
               
 ἥμισυς	A	I	1	a		
+              
               
 ἥμισυς	A	I	1	a		Perseus:abo:pap,BGU:183:41
-ἥμισυς	A	I	1	a		
-                
+ἥμισυς	A	I	1	a		SIG56.7
 ἥμισυς	A	I	1	a		
               
 ἥμισυς	A	I	1	a		
               
 ἥμισυς	A	I	1	a		urn:cts:greekLit:tlg2116.tlg001:1009:20
 ἥμισυς	A	I	1	a		urn:cts:greekLit:tlg2116.tlg001:240
-ἥμισυς	A	I	1	a		
-                
-ἥμισυς	A	I	1	a	half	
-                
+ἥμισυς	A	I	1	a		Not.Arch.4.20
+ἥμισυς	A	I	1	a	half	Not.Arch.4.20
 ἥμισυς	A	I	1	a	half	urn:cts:greekLit:tlg0012.tlg002.perseus-grc1:3:155
 ἥμισυς	A	I	1	a	half	urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:21:7
 ἥμισυς	A	I	1	a	half	
@@ -4468,17 +4728,16 @@
 ἥμισυς	A	II	1	a	mid	urn:cts:greekLit:tlg0020.tlg002.perseus-grc1:559
 ἥμισυς	A	II	1	a	mid	
               
+              
 ἥμισυς	A	II	1	a	mid	urn:cts:greekLit:tlg0019.tlg007.perseus-grc1:116
 ἥμισυς	A	II	1	a	mid	urn:cts:greekLit:tlg0527.tlg002:30:15
 ἥμισυς	A	II	1	a	mid	urn:cts:greekLit:tlg0527.tlg004:32:33
 ἥμισυς	A	II	1	a	mid	urn:cts:greekLit:tlg0059.tlg034.perseus-grc1:672e
 ἥμισυς	A	II	1	a	mid	urn:cts:greekLit:tlg0032.tlg006.perseus-grc1:1:9:26
-ἥμισυς	A	II	1	a	mid	
-                
+ἥμισυς	A	II	1	a	mid	IG22.1673.73
 ἥμισυς	A	II	1	a	mid	urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:2:5:39
 ἥμισυς	A	II	1	a	mid	urn:cts:greekLit:tlg0081.tlg001:4:17
-ἥμισυς	A	II	1	a	mid	
-                
+ἥμισυς	A	II	1	a	mid	IG12.373.28
 ἥμισυς	A	II	1	a	mid	urn:cts:greekLit:tlg0007.tlg031:34
 ἥμισυς	A	II	1	a	mid	urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:8:6:21
 ἥμισυς	A	II	1	a	mid	Perseus:abo:pap,P.Tebt.:110:5
@@ -4505,21 +4764,23 @@
 ἡμισφαίριον	A	I	1	a	hemisphere	urn:cts:greekLit:tlg0559.tlg001:1:8
 ἡμισφαίριον	A	I	1	a	hemisphere	urn:cts:greekLit:tlg2034.tlg004:24
 ἡμισφαίριον	A	I	1	a	hemisphere	urn:cts:greekLit:tlg0018.tlg001:2:155
-ἡμίσχετος	A	I	1	a	half-related	
-                
+ἡμίσχετος	A	I	1	a	half-related	3
 ἡμίσχετος	A	I	1	a	half-related	urn:cts:greekLit:tlg4019.tlg006:p.19N
 ἡμίσχετος	A	I	1	a	half-related	urn:cts:greekLit:tlg4066.tlg003:131
 ἡμίσχοινον	A	I	1	a	half a schoenus,	
               
+              
 ἡμίσχοινον	A	I	1	a	half a schoenus,	
               
+              
 ἡμιταινίδιον	A	I	1	a	half a	Perseus:abo:pap,PSI:7:858:9
+ἡμιταλαντιαῖος	A	I	1	a	in which the prize is half a talent	CIG2810.19
 ἡμιταλαντιαῖος	A	I	1	a	in which the prize is half a talent	
-                
-ἡμιταλαντιαῖος	A	I	1	a	in which the prize is half a talent	
+              
               
 ἡμιτάλαντον	A	I	1	a	a halftalent	urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:23:751
 ἡμιτάλαντον	A	I	1	a	a halftalent	
+              
               
 ἡμιτάλαντον	A	I	1	a	a halftalent	urn:cts:greekLit:tlg0017.tlg007.perseus-grc1:44
 ἡμιτάλαντον	A	I	1	a	a halftalent	urn:cts:greekLit:tlg0017.tlg001.perseus-grc1:8
@@ -4536,14 +4797,12 @@
 ἡμιτέλεστος	A	I	1	a	half-finished	urn:cts:greekLit:tlg0081.tlg001:1:59
 ἡμιτέλεστος	A	I	1	a	half-finished	urn:cts:greekLit:tlg0673.tlg001:18
 ἡμιτέλεστος	A	I	1	a	half-finished	urn:cts:greekLit:tlg2045.tlg001.perseus-grc1:1:5
-ἡμιτελέω	A	I	1	a	complete one-half of	
-                
+ἡμιτελέω	A	I	1	a	complete one-half of	Ath.Mitt.25.412
 ἡμιτελής	A	I	1	a	half-finished	urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:2:701
 ἡμιτελής	A	I	1	a	half-finished	urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:7:3:3
 ἡμιτελής	A	I	1	a	half-finished	urn:cts:greekLit:tlg0062.tlg066:19:1
 ἡμιτελής	A	I	1	a	half-finished	urn:cts:greekLit:tlg0066.tlg001:1:1
-ἡμιτελής	A	I	1	a	half-finished	
-                
+ἡμιτελής	A	I	1	a	half-finished	AP7.627
 ἡμιτελής	A	I	1	a	half-finished	
               
 ἡμιτελής	A	I	1	a	half-finished	urn:cts:greekLit:tlg0081.tlg001:2:42
@@ -4555,11 +4814,9 @@
 ἡμιτελής	A	I	1	a	half-finished	urn:cts:greekLit:tlg0032.tlg007.perseus-grc1:3:3:38
 ἡμιτελής	A	I	1	a	half-finished	urn:cts:greekLit:tlg0081.tlg006:23
 ἡμιτελής	A	I	1	a	half-finished	urn:cts:greekLit:tlg0018.tlg001:2:199
-ἡμιτελής	A	I	1	a	half-finished	
-                
+ἡμιτελής	A	I	1	a	half-finished	Longin.
 ἡμιτελής	A	I	1	a	half-finished	urn:cts:greekLit:tlg2034.tlg001:19
-ἡμιτεσσέριον	A	I	1	a		
-                
+ἡμιτεσσέριον	A	I	1	a		Inscr.Prien.362.16
 ἡμιτέταρτον	A	I	1	a	Ann.dell' Inst.	
               
 ἡμιτέταρτον	A	I	2	a		
@@ -4571,6 +4828,7 @@
               
 ἡμιτετράγωνος	A	I	1	a	forming half a square	
               
+              
 ἡμιτετράγωνος	A	I	1	a	forming half a square	urn:cts:greekLit:tlg1734.tlg001:98a
 ἡμιτετράγωνος	A	I	1	a	forming half a square	urn:cts:greekLit:tlg1734.tlg001:98b
 ἡμιτετράγωνος	A	I	1	a	forming half a square	urn:cts:greekLit:tlg4013.tlg002:638:3
@@ -4579,8 +4837,7 @@
 ἡμιτμής	A	I	1	a		urn:cts:greekLit:tlg2583.tlg001:4:6
 ἡμίτμητος	A	I	1	a		urn:cts:greekLit:tlg0023.tlg001.perseus-grc1:2:287
 ἡμιτομίας	A	I	1	a	half an eunuch	urn:cts:greekLit:tlg0005.tlg001.perseus-grc1:3:4
-ἡμίτομος	A	I	1	a	cut in two	
-                
+ἡμίτομος	A	I	1	a	cut in two	IG12.313.98
 ἡμίτομος	A	I	1	a	cut in two	urn:cts:greekLit:tlg0035.tlg001:2:88
 ἡμίτομος	A	I	2	a	half-full, Theol. Ar.	urn:cts:greekLit:tlg0035.tlg001:12
 ἡμίτομος	A	II	1	a	cup	
@@ -4590,18 +4847,25 @@
 ἡμίτομος	A	II	2	a	half	urn:cts:greekLit:tlg0016.tlg001.perseus-grc1:9:37
 ἡμίτομος	A	II	2	a	half	
               
-ἡμίτομος	A	II	2	a	half	
               
 ἡμίτομος	A	II	2	a	half	
+              
+              
+ἡμίτομος	A	II	2	a	half	
+              
               
 ἡμίτομος	A	II	2	a	half	urn:cts:greekLit:tlg0545.tlg001:15:4
 ἡμίτομος	A	II	2	a	half	urn:cts:greekLit:tlg0402.tlg001:261:10
 ἡμίτομος	A	II	2	a	half	
               
+              
 ἡμίτομος	A	II	2	a	half	
+              
+              
               
 ἡμίτομος	A	II	2	b	lozenge-shaped bandage	urn:cts:greekLit:tlg0627.tlg008.perseus-grc1:7
 ἡμίτομος	A	II	2	b	lozenge-shaped bandage	
+              
               
 ἡμιτονιαῖος	A	I	1	a	consisting of a semitone	urn:cts:greekLit:tlg0088.tlg001:p.52M
 ἡμιτονιαῖος	A	I	1	a	consisting of a semitone	urn:cts:greekLit:tlg0088.tlg001:p.53H
@@ -4617,29 +4881,34 @@
 ἡμιτριβής	A	I	1	a	half	Perseus:abo:pap,P.Cair.Zen.:92:5
 ἡμιτριβής	A	I	1	a	half	Perseus:abo:pap,CPR:27:8
 ἡμιτριβής	A	I	1	a	half	urn:cts:greekLit:tlg0019.tlg011.perseus-grc1:729
-ἡμιτριβής	A	II	1	a	blunt	
-                
+ἡμιτριβής	A	II	1	a	blunt	BCH35.43
 ἡμιτριβής	A	II	1	a	blunt	
               
 ἡμιτρίγωνος	A	I	1	a	forming half a triangle	
               
 ἡμιτρίγωνος	A	I	1	a	forming half a triangle	
+              
               
 ἡμιτρίγωνος	A	I	1	a	forming half a triangle	urn:cts:greekLit:tlg1734.tlg001:98a
 ἡμιτρίγωνος	A	I	1	a	forming half a triangle	urn:cts:greekLit:tlg4013.tlg002:561:13
 ἡμιτριταῖος	A	I	1	a	half every three days	urn:cts:greekLit:tlg0627.tlg006.perseus-grc1:1:2
 ἡμιτριταῖος	A	I	1	a	half every three days	
               
+              
 ἡμίτριτον	A	I	1	a	the sixth part	
               
+              
 ἡμίτριψις	A	I	1	a	half-massage	
+              
               
 ἡμίτρωτος	A	I	1	a		urn:cts:greekLit:tlg0023.tlg001.perseus-grc1:1:716
 ἡμιτύβιον	A	I	1	a	linen cloth, towel, napkin	
               
+              
 ἡμιτύβιον	A	I	1	a	linen cloth, towel, napkin	urn:cts:greekLit:tlg0627.tlg010.perseus-grc1:37
 ἡμιτύβιον	A	I	1	a	linen cloth, towel, napkin	urn:cts:greekLit:tlg0019.tlg011.perseus-grc1:729
 ἡμιτύβιον	A	I	1	a	linen cloth, towel, napkin	
+              
               
 ἡμιτύβιον	A	I	1	a	linen cloth, towel, napkin	urn:cts:greekLit:tlg0542.tlg001:7:71
 ἡμιτύβιον	A	I	1	a	linen cloth, towel, napkin	urn:cts:greekLit:tlg0719.tlg004.perseus-grc1:1:3
@@ -4650,8 +4919,7 @@
 ἡμίϋπνος	A	I	1	a	half-asleep,	
               
 ἡμιύ̈φαντος	A	I	1	a	half-woven	urn:cts:greekLit:tlg0058.tlg001.perseus-grc1:29:6
-ἡμιφαής	A	I	1	a	half-shining	
-                
+ἡμιφαής	A	I	1	a	half-shining	AP7.478
 ἡμιφαής	A	I	1	a	half-shining	
               
 ἡμιφάλακρος	A	I	1	a	half-bald	urn:cts:greekLit:tlg1458.tlg001:11:132
@@ -4676,6 +4944,7 @@
 ἡμίφλεκτος	A	I	1	a	half-burnt	urn:cts:greekLit:tlg0627.tlg006.perseus-grc1:2:6:29
 ἡμιφόριον	A	I	1	a	half-subscription	
               
+              
 ἡμιφόρμιον	A	I	1	a	half a	urn:cts:greekLit:tlg0542.tlg001:10:169
 ἡμίφρακτος	A	I	1	a	half-fenced	urn:cts:greekLit:tlg0542.tlg001:6:160
 ἡμιφυής	A	I	1	a	half-grown	urn:cts:greekLit:tlg0541.tlg001:1014
@@ -4687,6 +4956,7 @@
 ἡμίφωνος	A	II	1	a	half able to speak	urn:cts:greekLit:tlg0057.tlg017:6:3
 ἡμίφωνος	A	II	1	a	half able to speak	
               
+              
 ἡμίφωνος	A	II	1	a	half able to speak	urn:cts:greekLit:tlg1764.tlg001:5:24
 ἡμίφωνος	A	II	1	a	half able to speak	urn:cts:greekLit:tlg0724.tlg002:1:184D
 ἡμιφωσώνιον	A	I	1	a	garment	urn:cts:greekLit:tlg0019.tlg012:784
@@ -4697,11 +4967,13 @@
 ἡμιχοινίκιον	A	I	1	a	half	urn:cts:greekLit:tlg0627.tlg033:50
 ἡμιχοινίκιον	A	I	1	a	half	
               
+              
 ἡμιχοινίκιον	A	I	1	a	half	
               
 ἡμιχοινίκιον	A	I	1	a	half	urn:cts:greekLit:tlg0722.tlg001:4:7:18
 ἡμιχοίνικος	A	I	1	a	holding a half	urn:cts:greekLit:tlg0093.tlg001:8:4:5
 ἡμιχοίνικος	A	I	1	a	holding a half	
+              
               
 ἡμιχοῖνιξ	A	I	1	a	half	urn:cts:greekLit:tlg0627.tlg033:50
 ἡμιχοῖνιξ	A	I	1	a	half	urn:cts:greekLit:tlg0627.tlg023:3:17
@@ -4709,14 +4981,16 @@
 ἡμίχοον	A	I	1	a	half	urn:cts:greekLit:tlg0627.tlg032:42
 ἡμίχοον	A	I	1	a	half	
               
+              
 ἡμίχοον	A	I	1	a	half	urn:cts:greekLit:tlg0086.tlg014:627b:3
+ἡμίχοον	A	I	1	a	half	IG11(2).199
 ἡμίχοον	A	I	1	a	half	
-                
-ἡμίχοον	A	I	1	a	half	
+              
               
 ἡμίχοον	A	I	1	a	half	urn:cts:greekLit:tlg0627.tlg023:3:17
 ἡμίχοον	A	I	1	a	half	urn:cts:greekLit:tlg0086.tlg003.perseus-grc1:69:2
 ἡμίχοον	A	I	1	a	half	
+              
               
 ἡμίχοον	A	I	1	a	half	Perseus:abo:pap,P.Amh.:2:93:12
 ἡμιχόριον	A	I	1	a	half-chorus, semi-chorus	urn:cts:greekLit:tlg0542.tlg001:4:107
@@ -4725,36 +4999,40 @@
 ἡμιχρύσους	A	I	1	a	half-stater	urn:cts:greekLit:tlg0405.tlg001:5
 ἡμιχώνη	A	I	1	a	half	
               
+              
 ἡμιχώριον	A	I	1	a	half of an office	
+              
               
 ἡμίχωστος	A	I	1	a	semirutus,	
               
 ἡμιψίλιον	A	I	1	a	of half size	Perseus:abo:pap,PSI:7:858:3
 ἡμιψίλιον	A	I	1	a	of half size	Perseus:abo:pap,PSI:2095
 ἡμίψυκτος	A	I	1	a	half-dried	urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:15:1:18
-ἡμίψυκτος	A	I	1	a	half-dried	
-                
-ἡμίψυκτος	A	I	1	a	half-dried	
-                
+ἡμίψυκτος	A	I	1	a	half-dried	Gp.2.27.9
+ἡμίψυκτος	A	I	1	a	half-dried	Dsc.3.86
 ἡμίψυκτος	A	I	1	a	half-dried	urn:cts:greekLit:tlg0715.tlg001:3:54
 ἡμίψυχος	A	I	1	a	semianimis,	
               
 ἡμιωβελιαῖος	A	I	1	a	costing	
               
+              
 ἡμιωβελιαῖος	A	I	1	a	costing	urn:cts:greekLit:tlg0019.tlg009.perseus-grc1:554
 ἡμιωβελιαῖος	A	I	1	a	costing	urn:cts:greekLit:tlg0032.tlg002.perseus-grc1:1:3:12
 ἡμιωβέλιον	A	I	1	a	half-obol,	
+              
               
 ἡμιωβέλιον	A	I	1	a	half-obol,	urn:cts:greekLit:tlg0461.tlg001:154
 ἡμιωβέλιον	A	I	1	a	half-obol,	urn:cts:greekLit:tlg0673.tlg001:41
 ἡμιωβέλιον	A	I	1	a	half-obol,	urn:cts:greekLit:tlg0086.tlg038.perseus-grc1:1374b:26
 ἡμιωβέλιον	A	I	1	a	half-obol,	
               
-ἡμιωβέλιον	A	I	1	a	half-obol,	
               
 ἡμιωβέλιον	A	I	1	a	half-obol,	
               
 ἡμιωβέλιον	A	I	1	a	half-obol,	
+              
+ἡμιωβέλιον	A	I	1	a	half-obol,	
+              
               
 ἡμιωβέλιον	A	I	1	a	half-obol,	urn:cts:greekLit:tlg0032.tlg006.perseus-grc1:1:5:6
 ἡμιωβέλιον	A	I	1	a	half-obol,	urn:cts:greekLit:tlg0086.tlg051:589
@@ -4762,6 +5040,7 @@
               
 ἡμιωβέλιον	A	I	1	a	half-obol,	urn:cts:greekLit:tlg0093.tlg009:6:9
 ἡμιωβέλιον	A	I	1	a	half-obol,	
+              
               
 ἡμιωρία	A	I	1	a	half-hour	urn:cts:greekLit:tlg4066.tlg003:389
 ἡμιωριαῖος	A	I	1	a	lasting half an hour	urn:cts:greekLit:tlg4015.tlg009:802:15
@@ -4786,6 +5065,7 @@
 ἦμος	A	I	1	a	at which time, when	urn:cts:greekLit:tlg0579.tlg002:120
 ἦμος	A	I	1	a	at which time, when	
               
+              
 ἦμος	A	I	1	a	at which time, when	urn:cts:greekLit:tlg0012.tlg002.perseus-grc1:4:400
 ἦμος	A	I	1	a	at which time, when	urn:cts:greekLit:tlg0627.tlg036:1:23
 ἦμος	A	I	1	a	at which time, when	urn:cts:greekLit:tlg0627.tlg016:2
@@ -4804,12 +5084,10 @@
 ἠμύω	A	I	1	a	bow down, sink	urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:2:148
 ἠμύω	A	I	1	a	bow down, sink	urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:373
 ἠμύω	A	I	1	a	bow down, sink	urn:cts:greekLit:tlg0011.tlg008.perseus-grc1:864
-ἠμύω	A	I	1	a	bow down, sink	
-                
+ἠμύω	A	I	1	a	bow down, sink	AP7.715
 ἠμύω	A	I	1	a	bow down, sink	
               
-ἠμύω	A	II	1	a	cause to fall, ruin	
-                
+ἠμύω	A	II	1	a	cause to fall, ruin	Musae.Fr.22
 ἠμύω	A	II	1	a	cause to fall, ruin	
               
 ἠμύω	A	II	1	a	cause to fall, ruin	urn:cts:greekLit:tlg0001.tlg001.perseus-grc1:3:1400
@@ -4817,10 +5095,13 @@
 ἠμύω	A	II	1	a	cause to fall, ruin	urn:cts:greekLit:tlg0022.tlg002:453
 ἠμύω	A	II	1	a	cause to fall, ruin	
               
+              
 ἠμύω	A	II	1	a	cause to fall, ruin	
               
 ἠμύω	A	II	1	a	cause to fall, ruin	urn:cts:greekLit:tlg1589.tlg001:7:715
 ἠμφισβητημένως	A	I	1	a	in a questionable manner	
+              
+              
               
 ἠμφισβητημένως	A	I	1	a	in a questionable manner	
               
@@ -4836,6 +5117,8 @@
 ἤν2	A	I	1	a	see there!	urn:cts:greekLit:tlg0037.tlg001:1
 ἤν2	A	I	1	a	see there!	
               
+              
+              
 ἤν2	A	I	1	a	see there!	urn:cts:greekLit:tlg0005.tlg001.perseus-grc1:8:26
 ἤν2	A	I	1	a	see there!	urn:cts:greekLit:tlg0006.tlg009.perseus-grc1:867
 ἤν2	A	I	1	a	see there!	urn:cts:greekLit:tlg0019.tlg005.perseus-grc1:327
@@ -4845,8 +5128,7 @@
 ἤν2	A	I	1	a	see there!	urn:cts:greekLit:tlg0005.tlg001.perseus-grc1:1:149
 ἤν2	A	I	1	a	see there!	urn:cts:greekLit:tlg0005.tlg001.perseus-grc1:3:10
 ἠναγκασμένως	A	I	1	a	perforce	urn:cts:greekLit:tlg0081.tlg015:3
-ἠναντιωμένως	A	I	1	a	in opposite ways	
-                
+ἠναντιωμένως	A	I	1	a	in opposite ways	Phld.Mus.p.103
 ἠνεκής	A	I	1	a	bearing onwards	urn:cts:greekLit:tlg0022.tlg002:592
 ἠνεκής	A	I	1	a	bearing onwards	urn:cts:greekLit:tlg1342.tlg001:135:2
 ἠνεκής	A	I	1	a	bearing onwards	urn:cts:greekLit:tlg0653.tlg001.perseus-grc1:445
@@ -4854,6 +5136,7 @@
 ἠνεκής	A	I	1	a	bearing onwards	urn:cts:greekLit:tlg1342.tlg001:17:35
 ἠνεκής	A	I	1	a	bearing onwards	urn:cts:greekLit:tlg0022.tlg002:517
 ἠνέμιον	A	I	1	a		
+              
               
 ἠνεμόεις	A	I	1	a	windy, airy	urn:cts:greekLit:tlg0012.tlg002.perseus-grc1:9:400
 ἠνεμόεις	A	I	1	a	windy, airy	urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:3:305
@@ -4900,9 +5183,12 @@
 ἡνία2	A	I	2	a		urn:cts:greekLit:tlg1600.tlg001:2:18
 ἡνία2	A	I	2	a		
               
+              
 ἡνία2	A	I	2	a		urn:cts:greekLit:tlg0527.tlg023:6:28
 ἡνία2	A	I	3	a	to the left	urn:cts:greekLit:tlg0543.tlg001.perseus-grc1:10:23:2
 ἡνία2	A	I	3	a	to the left	
+              
+              
               
 ἡνία2	A	I	3	a	to the left	urn:cts:greekLit:tlg1620.tlg001:4:3:21
 ἡνία2	A	I	3	a	to the left	urn:cts:greekLit:tlg0007.tlg022:6
@@ -4953,13 +5239,14 @@
 ἡνιοχεία	A	I	1	a	chariot-driving	urn:cts:greekLit:tlg0059.tlg023:516e
 ἡνιοχεία	A	I	1	a	chariot-driving	urn:cts:greekLit:tlg0059.tlg034.perseus-grc1:795a
 ἡνιοχεία	A	I	1	a	chariot-driving	urn:cts:greekLit:tlg0015.tlg001:1:13:8
-ἡνιοχεία	A	I	1	a	chariot-driving	
-                
+ἡνιοχεία	A	I	1	a	chariot-driving	Plu.2.966f
 ἡνιοχεύς	A	I	1	a		urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:5:505
 ἡνιοχεύς	A	I	8	a		urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:312
 ἡνιοχεύς	A	I	8	a		
               
+              
 ἡνιοχεύς	A	I	8	a	the constellation Auriga	
+              
               
 ἡνιοχεύς	A	I	8	a	the constellation Auriga	urn:cts:greekLit:tlg2045.tlg001.perseus-grc1:1:178
 ἡνιοχευτικός	A	I	1	a		urn:cts:greekLit:tlg4098.tlg001:672:29
@@ -4970,6 +5257,7 @@
 ἡνιοχεύω	A	I	1	a	act as charioteer	urn:cts:greekLit:tlg0237.tlg001:4
 ἡνιοχεύω	A	I	1	a	act as charioteer	
               
+              
 ἡνιοχέω	A	I	1	a	hold the reins	urn:cts:greekLit:tlg0032.tlg013.perseus-grc1:7:10
 ἡνιοχέω	A	I	1	a	hold the reins	urn:cts:greekLit:tlg0016.tlg001.perseus-grc1:4:193
 ἡνιοχέω	A	I	1	a	hold the reins	urn:cts:greekLit:tlg0062.tlg068:12:2
@@ -4977,8 +5265,10 @@
 ἡνιοχέω	A	I	1	a	hold the reins	urn:cts:greekLit:tlg0061.tlg002:37
 ἡνιοχέω	A	I	1	a	hold the reins	
               
+              
 ἡνιοχέω	A	I	1	a	hold the reins	urn:cts:greekLit:tlg2200.tlg001:987:5
 ἡνιοχέω	A	I	1	a	hold the reins	
+              
               
 ἡνιοχέω	A	I	1	a	hold the reins	urn:cts:greekLit:tlg0059.tlg012:246b
 ἡνιοχέω	A	I	1	a	hold the reins	urn:cts:greekLit:tlg0059.tlg012:253d
@@ -5004,14 +5294,14 @@
 ἡνίοχος	A	I	2	a	chariot-driver	urn:cts:greekLit:tlg0032.tlg001.perseus-grc1:3:2:21
 ἡνίοχος	A	I	2	a	chariot-driver	
               
+              
 ἡνίοχος	A	I	2	a	chariot-driver	http://www.trismegistos.org/text/78721
 ἡνίοχος	A	I	2	a	chariot-driver	urn:cts:greekLit:tlg0059.tlg032:116e
 ἡνίοχος	A	I	2	b	rider	Thgn. 260
 ἡνίοχος	A	I	3	a	the helmsman	urn:cts:greekLit:tlg0542.tlg001:1:98
 ἡνίοχος	A	I	4	a	one who guides, governs	urn:cts:greekLit:tlg0033.tlg003.perseus-grc1:6:66
 ἡνίοχος	A	I	4	a	one who guides, governs	urn:cts:greekLit:tlg0261.tlg001:149
-ἡνίοχος	A	I	4	a	one who guides, governs	
-                
+ἡνίοχος	A	I	4	a	one who guides, governs	IG2.2263
 ἡνίοχος	A	I	4	a	one who guides, governs	
               
 ἡνίοχος	A	I	4	a	one who guides, governs	
@@ -5020,9 +5310,9 @@
 ἡνίοχος	A	I	4	a	one who guides, governs	urn:cts:greekLit:tlg0059.tlg008.perseus-grc1:266e
 ἡνίοχος	A	I	4	a	one who guides, governs	
               
+              
 ἡνίοχος	A	I	4	a	one who guides, governs	urn:cts:greekLit:tlg0213.tlg001:7:84
-ἡνίοχος	A	I	5	a	guiding	
-                
+ἡνίοχος	A	I	5	a	guiding	Carm.Aur.69
 ἡνίοχος	A	I	5	a	guiding	urn:cts:greekLit:tlg2583.tlg001:5:153
 ἡνίοχος	A	II	1	a	who had to furnish chariots	urn:cts:greekLit:tlg1323.tlg001:196
 ἡνίοχος	A	II	1	a	who had to furnish chariots	
@@ -5059,8 +5349,7 @@
 ἦνοψ	A	I	1	a	gleaming	urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:16:408
 ἦνοψ	A	I	1	a	gleaming	urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:18:349
 ἦνοψ	A	I	1	a	gleaming	urn:cts:greekLit:tlg0012.tlg002.perseus-grc1:10:360
-ἦνοψ	A	I	1	a	gleaming	
-                
+ἦνοψ	A	I	1	a	gleaming	Call.
 ἦνοψ	A	I	1	a	gleaming	urn:cts:greekLit:tlg0147.tlg001:24
 ἦνοψ	A	I	1	a	gleaming	urn:cts:greekLit:tlg0147.tlg001:28
 ἦνοψ	A	I	1	a	gleaming	
@@ -5078,6 +5367,7 @@
 ἤνυστρον	A	I	1	a	fourth stomach of ruminating animals	urn:cts:greekLit:tlg0527.tlg047:2:3
 ἤνυστρον	A	I	1	a	fourth stomach of ruminating animals	
               
+              
 ἡνωμένως	A	I	1	a	in one word	urn:cts:greekLit:tlg4036.tlg008:p.525S
 ἡνωμένως	A	I	1	a	in one word	urn:cts:greekLit:tlg4036.tlg011:p.138
 ἡνωμένως	A	I	1	a	in one word	urn:cts:greekLit:tlg4066.tlg003:1
@@ -5088,7 +5378,9 @@
 ἠξις	A	I	1	a	coming	urn:cts:greekLit:tlg0006.tlg011.perseus-grc1:396a
 ἠξις	A	I	1	a	coming	
               
+              
 ἠοῖος	A	I	1	a	of the morning	
+              
               
 ἠοῖος	A	I	1	a	of the morning	urn:cts:greekLit:tlg0221.tlg001:53:2
 ἠοῖος	A	I	1	a	of the morning	urn:cts:greekLit:tlg0012.tlg002.perseus-grc1:4:447
@@ -5098,8 +5390,7 @@
 ἠοῖος	A	I	2	a	toward the dawn, eastern	urn:cts:greekLit:tlg0016.tlg001.perseus-grc1:4:100
 ἠοῖος	A	I	2	a	toward the dawn, eastern	urn:cts:greekLit:tlg0016.tlg001.perseus-grc1:160
 ἠοῖος	A	I	2	a	toward the dawn, eastern	urn:cts:greekLit:tlg0533.tlg002:280
-ἠόνιος	A	I	1	a	on the shore	
-                
+ἠόνιος	A	I	1	a	on the shore	AP7.383
 ἠόνιος	A	I	1	a	on the shore	
               
 ἠόνιος	A	I	1	a	on the shore	urn:cts:greekLit:tlg1589.tlg001:365
@@ -5110,19 +5401,21 @@
 ἠπανάω	A	I	1	a	to be in want	urn:cts:greekLit:tlg4099.tlg001:433:17
 ἠπανάω	A	I	1	a	to be in want	
               
+              
 ἠπάομαι	A	I	1	a	mend, repair	urn:cts:greekLit:tlg0057.tlg033:25
 ἠπάομαι	A	I	1	a	mend, repair	urn:cts:greekLit:tlg0057.tlg017:3:1
 ἠπάομαι	A	I	1	a	mend, repair	urn:cts:greekLit:tlg0020.tlg007:172
 ἠπάομαι	A	I	1	a	mend, repair	urn:cts:greekLit:tlg0019.tlg012:227
 ἠπάομαι	A	I	1	a	mend, repair	urn:cts:greekLit:tlg0057.tlg033:5
-ἠπάομαι	A	I	1	a	mend, repair	
-                
+ἠπάομαι	A	I	1	a	mend, repair	Aristid.2.307
 ἠπάομαι	A	I	1	a	mend, repair	
               
 ἠπάομαι	A	I	1	a	mend, repair	
+              
               
 ἧπαρ	A	I	1	a	liver	urn:cts:greekLit:tlg0012.tlg002.perseus-grc1:9:301
 ἧπαρ	A	I	1	a	liver	
+              
               
 ἧπαρ	A	I	1	a	liver	urn:cts:greekLit:tlg0019.tlg012:318:5
 ἧπαρ	A	I	1	a	liver	urn:cts:greekLit:tlg0437.tlg001:7
@@ -5143,10 +5436,13 @@
 ἧπαρ	A	I	1	a	liver	urn:cts:greekLit:tlg0011.tlg003.perseus-grc1:938
 ἧπαρ	A	I	1	a	liver	
               
+              
+              
 ἧπαρ	A	I	1	a	liver	urn:cts:greekLit:tlg0533.tlg001:222
 ἧπαρ	A	I	1	a	liver	urn:cts:greekLit:tlg0005.tlg001.perseus-grc1:13:71
 ἧπαρ	A	I	1	a	liver	urn:cts:greekLit:tlg1734.tlg001:100a
 ἧπαρ	A	I	1	a	liver	
+              
               
 ἧπαρ	A	II	1	a	fruitful land	urn:cts:greekLit:tlg0001.tlg001.perseus-grc1:2:1248
 ἧπαρ	A	III	1	a		urn:cts:latinLit:phi0978.phi001:32:149
@@ -5164,60 +5460,55 @@
 ἡπατίας	A	I	1	a		urn:cts:greekLit:tlg0542.tlg001:2:215
 ἡπατίζω	A	I	1	a	to be liver-coloured	
               
+              
 ἡπατίζω	A	I	1	a	to be liver-coloured	urn:cts:greekLit:tlg0718.tlg016:104(94)
 ἡπατίζω	A	I	2	a	suffer from hepatic dropsy	urn:cts:greekLit:tlg0664.tlg001:46
-ἡπατικός	A	I	1	a	of the liver	
-                
+ἡπατικός	A	I	1	a	of the liver	Plu.2.733c
 ἡπατικός	A	I	1	a	of the liver	urn:cts:greekLit:tlg0085.tlg003.perseus-grc1:484
 ἡπατικός	A	II	1	a	suffering from liver-complaint	
+              
               
 ἡπατικός	A	II	1	a	suffering from liver-complaint	
               
 ἡπατικός	A	II	1	a	suffering from liver-complaint	urn:cts:greekLit:tlg0722.tlg001:5:19:7
 ἡπατικός	A	II	1	a	suffering from liver-complaint	Perseus:abo:pap,P.Oxy.:1088:48
-ἡπατικός	A	II	1	a	suffering from liver-complaint	
-                
-ἡπατικός	A	II	2	a	for liver-complaint	
-                
-ἡπατῖτις	A	I	1	a	of	
-                
+ἡπατικός	A	II	1	a	suffering from liver-complaint	Dsc.1.109
+ἡπατικός	A	II	2	a	for liver-complaint	Gal.11.749
+ἡπατῖτις	A	I	1	a	of	Gal.18(1).145
 ἡπατῖτις	A	I	1	a	of	urn:cts:greekLit:tlg0627.tlg048:10
 ἡπατῖτις	A	I	1	a	of	urn:cts:greekLit:tlg1319.tlg001:6
 ἡπατῖτις	A	I	1	a	of	urn:cts:greekLit:tlg0086.tlg014:512a:6
-ἡπατῖτις	A	I	2	a	liver-coloured	
-                
+ἡπατῖτις	A	I	2	a	liver-coloured	Gp.6.6.2
 ἡπατῖτις	A	I	2	a	liver-coloured	urn:cts:greekLit:tlg0744.tlg001:7:6
 ἡπατῖτις	A	I	2	a	liver-coloured	urn:cts:latinLit:phi0978.phi001:37:186
 ἡπατῖτις	A	II	1	a	liver-wort	
               
-ἡπατοειδής	A	I	1	a	liver-like	
-                
+              
+ἡπατοειδής	A	I	1	a	liver-like	Dsc.5.85
 ἡπατοσκοπέω	A	I	1	a	inspect the liver for soothsaying	urn:cts:greekLit:tlg0527.tlg053:21:21
 ἡπατοσκοπέω	A	I	1	a	inspect the liver for soothsaying	urn:cts:greekLit:tlg0527.tlg053:26
 ἡπατοσκοπία	A	I	1	a	inspecting of the liver	urn:cts:greekLit:tlg0015.tlg001:8:3:7
-ἡπατοσκοπικός	A	I	1	a	connected with soothsaying	
-                
+ἡπατοσκοπικός	A	I	1	a	connected with soothsaying	Phleg.Macr.4
 ἡπατοσκοπικός	A	I	1	a	connected with soothsaying	urn:cts:greekLit:tlg2003.tlg017:298b
 ἡπατόσκοπος	A	I	1	a	inspecting the liver, soothsaying	urn:cts:greekLit:tlg0553.tlg001:2:69
 ἡπατόσκοπος	A	I	1	a	inspecting the liver, soothsaying	
               
 ἡπατουργός	A	I	1	a	liver-destroying	
               
+              
 ἡπατοφαγέομαι	A	I	1	a	to have one's liver eaten	urn:cts:greekLit:tlg0544.tlg002:1:286
 ἠπεδανός	A	I	1	a	weakly	urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:8:104
 ἠπεδανός	A	I	1	a	weakly	urn:cts:greekLit:tlg0012.tlg002.perseus-grc1:8:311
 ἠπεδανός	A	I	1	a	weakly	urn:cts:greekLit:tlg0001.tlg001.perseus-grc1:2:800
 ἠπεδανός	A	I	1	a	weakly	urn:cts:greekLit:tlg0001.tlg001.perseus-grc1:3:82
-ἠπεδανός	A	I	1	a	weakly	
-                
+ἠπεδανός	A	I	1	a	weakly	Babr.Fab.Hex.9
 ἠπεδανός	A	I	1	a	weakly	urn:cts:greekLit:tlg2583.tlg001:2:160
 ἠπεδανός	A	I	1	a	weakly	urn:cts:greekLit:tlg0627.tlg036:1:4
 ἠπεδανός	A	I	1	a	weakly	urn:cts:greekLit:tlg0627.tlg036:27
 ἠπεδανός	A	I	1	a	weakly	urn:cts:greekLit:tlg0627.tlg036:78
 ἠπεδανός	A	I	1	a	weakly	urn:cts:greekLit:tlg0627.tlg036:4
 ἠπεδανός	A	I	1	a	weakly	urn:cts:greekLit:tlg0221.tlg001:134
-ἠπεδανός	A	I	2	a	void of	
-                
+ἠπεδανός	A	I	2	a	void of	AP9.521
 ἠπεδανός	A	II	1	a	weakening	urn:cts:greekLit:tlg0579.tlg003:382
 ἠπεδανός	A	II	1	a	weakening	urn:cts:greekLit:tlg0579.tlg011:142
 ἠπεδανός	A	II	1	a	weakening	urn:cts:greekLit:tlg4099.tlg001:433:26
@@ -5257,6 +5548,7 @@
 ἤπειρος	A	III	1	a	a continent	urn:cts:greekLit:tlg0035.tlg001:2:8
 ἤπειρος	A	III	1	a	a continent	
               
+              
 ἤπειρος	A	III	1	a	a continent	
               
 ἤπειρος	A	III	1	a	a continent	urn:cts:greekLit:tlg2200.tlg001:783:3
@@ -5265,12 +5557,13 @@
 ἤπειρος	A	IV	1	a	plain	urn:cts:greekLit:tlg0001.tlg001.perseus-grc1:2:976
 ἤπειρος	A	V	1	a	land above inundationlevel,	
               
+              
 ἤπειρος	A	V	1	a	land above inundationlevel,	Perseus:abo:pap,P.Lond.:3:1201:2
 ἤπειρος	A	V	1	a	land above inundationlevel,	
               
+              
 ἠπειρόω	A	I	1	a	to make into mainland	urn:cts:greekLit:tlg0086.tlg028:400a:28
-ἠπειρόω	A	I	1	a	to make into mainland	
-                
+ἠπειρόω	A	I	1	a	to make into mainland	AP9.670
 ἠπειρόω	A	I	1	a	to make into mainland	urn:cts:greekLit:tlg0003.tlg001.perseus-grc1:2:102
 ἠπειρόω	A	I	1	a	to make into mainland	urn:cts:greekLit:tlg0018.tlg001:2:511
 ἠπειρώτης	A	I	1	a	landsman	urn:cts:greekLit:tlg0062.tlg028:19
@@ -5290,12 +5583,12 @@
 ἠπειρώτης	A	III	2	a	an Epirote	urn:cts:greekLit:tlg0086.tlg051:494
 ἠπειρωτικός	A	I	1	a	continental	urn:cts:greekLit:tlg0032.tlg001.perseus-grc1:6:1:12
 ἠπειρωτικός	A	I	1	a	continental	urn:cts:greekLit:tlg0086.tlg035.perseus-grc1:1338b:22
-ἠπειρωτικός	A	I	2	a	of a landsman	
-                
+ἠπειρωτικός	A	I	2	a	of a landsman	Max.
 ἠπειρωτικός	A	I	2	a	of a landsman	urn:cts:greekLit:tlg1487.tlg001:19:7
 ἠπειρωτικός	A	I	2	a	of a landsman	urn:cts:greekLit:tlg1487.tlg001:8:9
 ἠπειρωτικός	A	II	1	a	of Epirus	urn:cts:greekLit:tlg0003.tlg001.perseus-grc1:3:102
 ἠπειρωτικός	A	II	1	a	of Epirus	
+              
               
 ἧπερ	A	I	1	a	in the same way as	
               
@@ -5304,6 +5597,7 @@
               
 ἠπεροπεύς	A	I	1	a		urn:cts:greekLit:tlg0012.tlg002.perseus-grc1:11:364
 ἠπεροπεύς	A	I	1	a		
+              
               
 ἠπεροπεύς	A	I	1	a		urn:cts:greekLit:tlg0001.tlg001.perseus-grc1:3:617
 ἠπεροπευτής	A	I	1	a	a cheat, deceiver	urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:3:39
@@ -5325,6 +5619,7 @@
 ἠπητής	A	I	1	a	repairer, mender	urn:cts:greekLit:tlg0032.tlg007.perseus-grc1:1:6:16
 ἠπητής	A	I	1	a	repairer, mender	
               
+              
 ἠπητής	A	I	1	a	repairer, mender	Perseus:abo:pap,SB:3939
 ἠπητής	A	I	1	a	repairer, mender	Perseus:abo:pap,SB:3962
 ἠπητής	A	I	1	a	repairer, mender	Perseus:abo:pap,UPZ:91:16
@@ -5333,6 +5628,7 @@
               
 ἠπητήριον	A	I	1	a	needle	urn:cts:greekLit:tlg1323.tlg001:29
 ἤπητρον	A	I	1	a	mender's wages,	
+              
               
 ἤπητρον	A	I	1	a	mender's wages,	http://www.trismegistos.org/text/3756
 ἠπιαίνω	A	I	1	a	mitigate	urn:cts:greekLit:tlg0086.tlg028:397b:1
@@ -5344,12 +5640,13 @@
 ἠπίαλος	A	I	1	a	ague	Thgn. 174
 ἠπίαλος	A	I	1	a	ague	
               
+              
 ἠπίαλος	A	I	1	a	ague	urn:cts:greekLit:tlg0627.tlg038:34
 ἠπίαλος	A	I	1	a	ague	
               
+              
 ἠπίαλος	A	I	1	a	ague	urn:cts:greekLit:tlg0019.tlg012:332
-ἠπίαλος	A	I	1	a	ague	
-                
+ἠπίαλος	A	I	1	a	ague	Hp.
 ἠπίαλος	A	I	1	a	ague	
               
 ἠπίαλος	A	I	1	a	ague	
@@ -5362,16 +5659,15 @@
 ἠπιαλώδης	A	I	1	a	like the	urn:cts:greekLit:tlg0627.tlg006.perseus-grc1:4:20
 ἠπιάω	A	I	1	a		
               
-ἠπιοδίνητος	A	I	1	a	softly-rolling	
-                
+ἠπιοδίνητος	A	I	1	a	softly-rolling	AP5.249
 ἠπιόδωρος	A	I	1	a	soothing by gifts, bountiful, fond	urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:6:251
 ἠπιόδωρος	A	I	1	a	soothing by gifts, bountiful, fond	urn:cts:greekLit:tlg0292.tlg001:26
 ἠπιόδωρος	A	I	1	a	soothing by gifts, bountiful, fond	urn:cts:greekLit:tlg0023.tlg001.perseus-grc1:4:7
 ἠπιοδώτης	A	I	1	a	giver of	
               
-ἠπιοδώτης	A	I	1	a	giver of	
-                
+ἠπιοδώτης	A	I	1	a	giver of	37
 ἠπιόθυμος	A	I	1	a	gentle of mood,	
+              
               
 ἠπιόθυμος	A	I	1	a	gentle of mood,	urn:cts:greekLit:tlg0579.tlg001:59:15
 ἡπίολος	A	I	1	a	moth	urn:cts:greekLit:tlg0086.tlg014:605b:14
@@ -5420,6 +5716,8 @@
 ἤπιος	A	II	1	a	soothing, assuaging	urn:cts:greekLit:tlg0565.tlg001:2:44
 ἤπιος	A	II	1	a	soothing, assuaging	
               
+              
+              
 ἤπιος	A	II	2	a	favourable	urn:cts:greekLit:tlg0020.tlg002.perseus-grc1:787
 ἤπιος	A	III	1	a		urn:cts:greekLit:tlg0016.tlg001.perseus-grc1:7:105
 ἤπιος	A	III	1	a		urn:cts:greekLit:tlg0016.tlg001.perseus-grc1:143
@@ -5428,8 +5726,7 @@
 ἤπιος	A	III	1	a		urn:cts:greekLit:tlg0541.tlg009:495
 ἤπιος	A	III	1	a		urn:cts:greekLit:tlg0014.tlg056.perseus-grc1:44
 ἤπιος	A	III	1	a		urn:cts:greekLit:tlg1595.tlg080:65
-ἤπιος	A	III	1	a		
-                
+ἤπιος	A	III	1	a		Hsch.
 ἠπιότης	A	I	1	a	gentleness	urn:cts:greekLit:tlg0537.tlg003:462
 ἠπιότης	A	I	1	a	gentleness	
               
@@ -5440,15 +5737,14 @@
 ἠπιότης	A	I	1	a	gentleness	urn:cts:greekLit:tlg0018.tlg001:2:267
 ἠπιόφρων	A	I	1	a	gentle-minded	urn:cts:greekLit:tlg1342.tlg001:35:13
 ἠπιόφρων	A	I	1	a	gentle-minded	urn:cts:greekLit:tlg0199.tlg001:12:78
-ἠπιόφρων	A	I	1	a	gentle-minded	
-                
+ἠπιόφρων	A	I	1	a	gentle-minded	IG3.171
 ἠπιόχειρ	A	I	1	a	with soothing hand,	
+              
               
 ἠπιόχειρ	A	I	1	a	with soothing hand,	urn:cts:greekLit:tlg0579.tlg001:23:8
 ἠπιόχειρ	A	I	1	a	with soothing hand,	urn:cts:greekLit:tlg0579.tlg001:84:8
 ἠπιόω	A	I	1	a	feel easier	urn:cts:greekLit:tlg0627.tlg006.perseus-grc1:5:20
-ἠπιόω	A	I	1	a	feel easier	
-                
+ἠπιόω	A	I	1	a	feel easier	Phld.Mus.p.33
 ἠπιόω	A	I	1	a	feel easier	urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:1:146
 ἡπλωμένως	A	I	1	a		
               
@@ -5468,8 +5764,7 @@
 ἦπου	A	II	1	a	surely . . ?	urn:cts:greekLit:tlg0012.tlg002.perseus-grc1:13:234
 ἦπου	A	II	1	a	surely . . ?	urn:cts:greekLit:tlg0085.tlg003.perseus-grc1:521
 ἦπου	A	II	1	a	surely . . ?	urn:cts:greekLit:tlg0019.tlg011.perseus-grc1:970
-ἠπύη	A	I	1	a		
-                
+ἠπύη	A	I	1	a		Hsch.
 ἠπύτᾰ	A	I	1	a	calling, crying	urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:7:384
 ἠπύτᾰ	A	I	1	a	calling, crying	urn:cts:greekLit:tlg2046.tlg001.perseus-grc1:6:170
 ἠπύτᾰ	A	I	1	a	calling, crying	urn:cts:greekLit:tlg0024.tlg001.perseus-grc1:2:136
@@ -5499,6 +5794,7 @@
 ἤρα1	A	II	1	a		urn:cts:greekLit:tlg0019.tlg001.perseus-grc1:913
 ἠρα1	A	II	1	a		
               
+              
 ἠρα1	A	II	1	a		urn:cts:greekLit:tlg0383.tlg001:94
 ἠρα1	A	II	1	a		urn:cts:greekLit:tlg0291.tlg001:61
 ἠρα1	A	II	1	a		urn:cts:greekLit:tlg0033.tlg002.perseus-grc1:9:37
@@ -5525,12 +5821,14 @@
 ἠρα2	A	II	1	a	for the sake of, on account of, for	urn:cts:greekLit:tlg0208.tlg001:18
 ἠρα2	A	II	1	a	for the sake of, on account of, for	
               
+              
 ἠρα2	A	II	1	a	for the sake of, on account of, for	
               
 ἠρα2	A	II	1	a	for the sake of, on account of, for	
               
 ἠρα2	A	II	1	a	for the sake of, on account of, for	urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:1:572
 ἠρα2	A	II	1	a	for the sake of, on account of, for	
+              
               
 ἠρα2	A	II	1	a	for the sake of, on account of, for	urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:14:132
 ἠρα2	A	II	1	a	for the sake of, on account of, for	
@@ -5539,13 +5837,16 @@
               
 Ἥρα	A	I	2	a		
               
+              
 Ἥρα	A	I	2	a		
+              
               
 Ἥρα	A	I	3	a		
               
 Ἥρα	A	I	3	a	nine,	
               
 Ἥρα	A	I	3	a	nine,	
+              
               
 Ἥρα	A	I	4	a		urn:cts:greekLit:tlg0086.tlg028:392a:28
 Ἥρα	A	I	4	a		urn:cts:greekLit:tlg1734.tlg001:96e
@@ -5555,20 +5856,22 @@
 Ἡραῖος	A	I	1	a	of Hera	urn:cts:greekLit:tlg0178.tlg001:60
 Ἡραῖος	A	I	1	a	of Hera	
               
-Ἡραῖος	A	I	1	a	of Hera	
-                
+Ἡραῖος	A	I	1	a	of Hera	SIG1064.9
 Ἡραῖος	A	I	1	a	of Hera	urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:2:24:2
-Ἡραῖος	A	I	1	a	of Hera	
-                
+Ἡραῖος	A	I	1	a	of Hera	IG12.840.21
 Ἡραῖος	A	II	1	a		
+              
               
 Ἡραῖος	A	II	1	a		
               
 Ἡραῖος	A	II	1	a		
               
-Ἡραῖος	A	II	1	a		
               
 Ἡραῖος	A	II	1	a		
+              
+              
+Ἡραῖος	A	II	1	a		
+              
               
 ἠραιωμένως	A	I	1	a		urn:cts:greekLit:tlg0023.tlg001.perseus-grc1:1:547
 Ἡρακλέης	A	I	1	a		urn:cts:greekLit:tlg0019.tlg003.perseus-grc1:1050
@@ -5590,6 +5893,7 @@
 Ἡρακλέης	A	I	1	a		urn:cts:greekLit:tlg0016.tlg001.perseus-grc1:2:42
 Ἡρακλέης	A	I	1	a		urn:cts:greekLit:tlg0033.tlg001.perseus-grc1:10(11).16
 Ἡρακλέης	A	I	1	a		
+              
               
 Ἡρακλέης	A	I	1	a		
               
@@ -5614,6 +5918,7 @@
 Ἡρακλέης	A	I	1	a		urn:cts:greekLit:tlg0579.tlg001:12:1
 Ἡρακλέης	A	I	1	a		
               
+              
 Ἡρακλέης	A	I	1	a		urn:cts:greekLit:tlg2200.tlg001:255
 Ἡρακλέης	A	I	1	a		urn:cts:greekLit:tlg0059.tlg006.perseus-grc1:169b
 Ἡρακλέης	A	I	1	a		urn:cts:greekLit:tlg0059.tlg006.perseus-grc1:1:424
@@ -5636,6 +5941,7 @@
               
 Ἡρακλέης	A	I	2	a	Mu..	
               
+              
 Ἡρακλέης	A	I	2	a	Mu..	
               
 Ἡρακλέης	A	I	2	a	Mu..	urn:cts:greekLit:tlg0006.tlg004.perseus-grc1:123
@@ -5651,13 +5957,16 @@
 Ἡράκλειος	A	II	2	a	his festival	urn:cts:greekLit:tlg0019.tlg009.perseus-grc1:651
 Ἡράκλειος	A	II	2	a	his festival	
               
+              
 Ἡράκλειος	A	II	2	a	his festival	urn:cts:greekLit:tlg0014.tlg019.perseus-grc1:86
 Ἡράκλειος	A	II	3	a	frothy poppy, Silene viscosa	urn:cts:greekLit:tlg0093.tlg001:9:12:5
 Ἡράκλειος	A	II	3	a	frothy poppy, Silene viscosa	urn:cts:greekLit:tlg0093.tlg001:9:15:5
 Ἡράκλειος	A	II	3	a	frothy poppy, Silene viscosa	
               
+              
 Ἡράκλειος	A	III	1	a	epilepsy	urn:cts:greekLit:tlg0627.tlg036:1:7
 Ἡράκλειος	A	III	1	a	epilepsy	
+              
               
 Ἡράκλειος	A	III	1	a	epilepsy	urn:cts:greekLit:tlg0719.tlg002.perseus-grc1:2:13
 Ἡράκλειος	A	IV	1	a	hot	urn:cts:greekLit:tlg0019.tlg003.perseus-grc1:1051
@@ -5672,7 +5981,9 @@
 Ἡράκλειος	A	V	2	a	opopanax	urn:cts:greekLit:tlg0722.tlg001:14:62:1
 Ἡράκλειος	A	VI	1	a		
               
+              
 Ἡράκλειος	A	VI	1	a		
+              
               
 Ἡρακλείτειος	A	I	1	a	of Heraclitus	urn:cts:greekLit:tlg0059.tlg030.perseus-grc1:498b
 Ἡρακλείτειος	A	I	1	a	of Heraclitus	urn:cts:greekLit:tlg0059.tlg006.perseus-grc1:179e
@@ -5682,11 +5993,11 @@
 Ἡρακλεώτης	A	I	1	a	a man of Heraclea	urn:cts:greekLit:tlg0086.tlg035.perseus-grc1:1327b:14
 Ἡρακλεώτης	A	I	1	a	a man of Heraclea	
               
+              
 Ἡρακλεώτης	A	I	1	a	a man of Heraclea	
               
 Ἡρακλεώτης	A	I	1	a	a man of Heraclea	urn:cts:greekLit:tlg0086.tlg014:525b:5
-Ἡρακλεώτης	A	I	1	a	a man of Heraclea	
-                
+Ἡρακλεώτης	A	I	1	a	a man of Heraclea	Heracl.
 Ἡρακλεώτης	A	I	1	a	a man of Heraclea	urn:cts:greekLit:tlg0722.tlg001:48:8:1
 Ἡρακλεώτης	A	I	1	a	a man of Heraclea	urn:cts:greekLit:tlg0093.tlg001:1:10:6
 Ἡρακλεώτης	A	I	1	a	a man of Heraclea	urn:cts:greekLit:tlg0093.tlg001:3:6:5
@@ -5700,11 +6011,11 @@
 Ἡρακληί̈ς	A	I	1	a	on Heracles	urn:cts:greekLit:tlg0086.tlg034.perseus-grc1:1451a:20
 ἠράνθεμον	A	I	1	a		
               
+              
 ἤρανος	A	I	1	a	keeper	urn:cts:greekLit:tlg0001.tlg001.perseus-grc1:2:513
 ἤρανος	A	I	1	a	keeper	urn:cts:greekLit:tlg0213.tlg001:7:22
 ἤρανος	A	I	1	a	keeper	urn:cts:greekLit:tlg0213.tlg001:16
-ἤρανος	A	I	1	a	keeper	
-                
+ἤρανος	A	I	1	a	keeper	Simm.13
 ἤρανος	A	I	1	a	keeper	urn:cts:greekLit:tlg4099.tlg001:436:28
 ἤρανος	A	I	1	a	keeper	
               
@@ -5748,6 +6059,7 @@
 ἠρεμαῖος	A	I	1	a	quiet, gentle	urn:cts:greekLit:tlg0032.tlg013.perseus-grc1:9:5
 ἠρεμαῖος	A	I	1	a	quiet, gentle	
               
+              
 ἠρεμαῖος	A	I	1	a	quiet, gentle	urn:cts:greekLit:tlg0086.tlg026:368a:12
 ἠρεμαῖος	A	I	1	a	quiet, gentle	urn:cts:greekLit:tlg0032.tlg007.perseus-grc1:3:1:30
 ἠρεμαιότης	A	I	1	a	tranquillity	urn:cts:greekLit:tlg0627.tlg051.perseus-grc1:2
@@ -5764,6 +6076,7 @@
 ἠρεμέω	A	I	1	a	to be still, keep quiet, be at rest	urn:cts:greekLit:tlg0074.tlg-02:2:21:22
 ἠρεμέω	A	I	1	a	to be still, keep quiet, be at rest	
               
+              
 ἠρεμέω	A	I	2	a	to be unmoved, remain fixed	urn:cts:greekLit:tlg0059.tlg023:527b
 ἠρεμέω	A	I	2	a	to be unmoved, remain fixed	urn:cts:greekLit:tlg0059.tlg034.perseus-grc1:891a
 ἠρεμέω	A	I	3	a	refrain from	urn:cts:greekLit:tlg0062.tlg014:4
@@ -5771,6 +6084,7 @@
 ἠρεμητέον	A	I	1	a	one must keep quiet	
               
 ἠρεμητέον	A	I	1	a	one must keep quiet	
+              
               
 ἠρέμησις	A	I	1	a	rest	urn:cts:greekLit:tlg0086.tlg031:251a:26
 ἠρέμησις	A	I	1	a	rest	urn:cts:greekLit:tlg0086.tlg002:407a:32
@@ -5783,6 +6097,7 @@
 ἠρεμία	A	I	2	a	quietude	urn:cts:greekLit:tlg0014.tlg013.perseus-grc1:8
 ἠρεμία	A	I	2	a	quietude	
               
+              
 ἠρεμίζω	A	I	1	a	bring to rest, stop	urn:cts:greekLit:tlg0032.tlg013.perseus-grc1:7:18
 ἠρεμίζω	A	I	1	a	bring to rest, stop	urn:cts:greekLit:tlg0086.tlg009.perseus-grc1:1224b:8
 ἠρεμίζω	A	I	1	a	bring to rest, stop	urn:cts:greekLit:tlg0086.tlg001:87b:9
@@ -5794,18 +6109,18 @@
               
 ἠρέμιος	A	II	1	a		
               
+              
 ἠρέμισις	A	I	1	a	tranquillizing	urn:cts:greekLit:tlg0086.tlg038.perseus-grc1:1380a:8
 ἠρέμισμα	A	I	1	a	point of rest	urn:cts:greekLit:tlg4013.tlg004:1311:32
 ἤρεμος	A	I	1	a	quiet	urn:cts:greekLit:tlg0031.tlg015.perseus-grc1:2:2
 ἤρεμος	A	I	1	a	quiet	
               
+              
 ἤρεμος	A	I	1	a	quiet	urn:cts:greekLit:tlg4036.tlg008:p.536
 ἤρεμος	A	I	1	a	quiet	
               
-ἤρεμος	A	I	1	a	quiet	
-                
-ἤρεμος	A	I	1	a	quiet	
-                
+ἤρεμος	A	I	1	a	quiet	Luc.Trag.207
+ἤρεμος	A	I	1	a	quiet	IPE12.40.24
 ἤρεμος	A	I	1	a	quiet	urn:cts:greekLit:tlg0565.tlg001:1:73
 ἤρεμος	A	I	2	a	smoothness	urn:cts:greekLit:tlg0093.tlg004:62
 ἤρεμος	A	I	3	a	quietly	urn:cts:greekLit:tlg0615.tlg001:120:13
@@ -5816,28 +6131,31 @@
 ἦρι	A	I	1	a	early	urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:9:360
 ἦρι	A	I	1	a	early	urn:cts:greekLit:tlg0012.tlg002.perseus-grc1:20:156
 ἦρι	A	I	1	a	early	urn:cts:greekLit:tlg0012.tlg002.perseus-grc1:19:320
-ἦρι	A	I	1	a	early	
-                
+ἦρι	A	I	1	a	early	Schwyzer789
 ἠριγένεια	A	I	1	a	early-born, child of morn	urn:cts:greekLit:tlg0012.tlg002.perseus-grc1:4:195
 ἠριγένεια	A	I	1	a	early-born, child of morn	urn:cts:greekLit:tlg0012.tlg002.perseus-grc1:22:197
 ἠριγένεια	A	I	1	a	early-born, child of morn	urn:cts:greekLit:tlg0012.tlg002.perseus-grc1:23:347
 ἠριγένεια	A	I	1	a	early-born, child of morn	urn:cts:greekLit:tlg0005.tlg001.perseus-grc1:24:39
 ἠριγένεια	A	I	1	a	early-born, child of morn	
               
+              
 ἠριγένεια	A	I	1	a	early-born, child of morn	
               
 ἠριγένεια	A	I	1	a	early-born, child of morn	
+              
               
 ἠριγένεια	A	I	2	a	a day	urn:cts:greekLit:tlg2045.tlg001.perseus-grc1:38:271
 ἠριγένεια	A	I	2	a	a day	urn:cts:greekLit:tlg2046.tlg001.perseus-grc1:10:478
 ἠριγένεια	A	II	1	a	bearing in spring	urn:cts:greekLit:tlg0085.tlg008:426
 ἠριγένειον	A	I	1	a		
               
+              
 ἠριγένειον	A	I	1	a		
               
 ἠριγενής	A	I	1	a	a day	urn:cts:greekLit:tlg0579.tlg011:275
 ἠριγέρων	A	I	1	a	early-old	urn:cts:greekLit:tlg0093.tlg001:7:7:1
 ἠριγέρων	A	I	1	a	early-old	
+              
               
 Ἠριδανός	A	II	1	a		urn:cts:greekLit:tlg0533.tlg001:100e
 Ἠριδανός	A	II	1	a		urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1:19:5
@@ -5861,19 +6179,22 @@
 ἠρίον	A	I	1	a	mound, barrow, tomb	urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:23:126
 ἠρίον	A	I	1	a	mound, barrow, tomb	
               
+              
 ἠρίον	A	I	1	a	mound, barrow, tomb	
+              
               
 ἠρίον	A	I	1	a	mound, barrow, tomb	urn:cts:greekLit:tlg0001.tlg001.perseus-grc1:1:1165
 ἠρίον	A	I	1	a	mound, barrow, tomb	urn:cts:greekLit:tlg0005.tlg001.perseus-grc1:2:13
 ἠρίον	A	I	1	a	mound, barrow, tomb	
               
-ἠρίον	A	I	1	a	mound, barrow, tomb	
-                
-ἠρίον	A	I	1	a	mound, barrow, tomb	
-                
+              
+              
+ἠρίον	A	I	1	a	mound, barrow, tomb	Epigr.Gr.411
+ἠρίον	A	I	1	a	mound, barrow, tomb	AP7.180
 ἠρίον	A	I	1	a	mound, barrow, tomb	
               
 ἠρίον	A	I	1	a	mound, barrow, tomb	
+              
               
 ἠρίον	A	I	1	a	mound, barrow, tomb	urn:cts:greekLit:tlg0086.tlg003.perseus-grc1:55:3
 ἠρίον	A	I	1	a	mound, barrow, tomb	urn:cts:greekLit:tlg0014.tlg057.perseus-grc1:67
@@ -5886,6 +6207,7 @@
 ἠρίον	A	I	1	a	mound, barrow, tomb	
               
 ἠριπόλη	A	I	1	a	early-walking	
+              
               
 ἠριπόλη	A	I	1	a	early-walking	
               
@@ -5905,11 +6227,14 @@
 ἤρυγγος	A	I	1	a	eryngo, Eryngium creticum	urn:cts:greekLit:tlg0093.tlg001:6:1:3
 ἤρυγγος	A	I	1	a	eryngo, Eryngium creticum	
               
-ἤρυγγος	A	I	1	a	eryngo, Eryngium creticum	
               
 ἤρυγγος	A	I	1	a	eryngo, Eryngium creticum	
               
 ἤρυγγος	A	I	1	a	eryngo, Eryngium creticum	
+              
+              
+ἤρυγγος	A	I	1	a	eryngo, Eryngium creticum	
+              
               
 ἤρυγγος	A	I	1	a	eryngo, Eryngium creticum	urn:cts:latinLit:phi0978.phi001:22:18
 ἤρυγγος	A	I	1	a	eryngo, Eryngium creticum	
@@ -5920,7 +6245,9 @@
               
 ἤρυγγος	A	I	1	a	eryngo, Eryngium creticum	
               
+              
 ἤρυγγος	A	I	1	a	eryngo, Eryngium creticum	
+              
               
 ἤρυγγος	A	I	1	a	eryngo, Eryngium creticum	
               
@@ -5929,18 +6256,21 @@
 ἡρωίζω	A	I	1	a	write heroic verse	urn:cts:greekLit:tlg4083.tlg001:4:1
 ἡρωισμός	A	I	1	a	worship of heroes,	
               
+              
 ἡρωισμός	A	I	1	a	worship of heroes,	
+              
+              
+ἡρωισμός	A	I	1	a	worship of heroes,	
+              
               
 ἡρωισμός	A	I	1	a	worship of heroes,	
               
 ἡρωισμός	A	I	1	a	worship of heroes,	
               
-ἡρωισμός	A	I	1	a	worship of heroes,	
               
 ἡρωισμός	A	I	1	a	worship of heroes,	
               
-ἡρωικός	A	I	1	a	of the heroes	
-                
+ἡρωικός	A	I	1	a	of the heroes	1.1
 ἡρωικός	A	I	1	a	of the heroes	urn:cts:greekLit:tlg0086.tlg035.perseus-grc1:1285b:4
 ἡρωικός	A	I	1	a	of the heroes	urn:cts:greekLit:tlg0708.tlg001:p.140V
 ἡρωικός	A	I	2	a	of	urn:cts:greekLit:tlg0059.tlg005.perseus-grc1:398e
@@ -5961,15 +6291,17 @@
 ἡρωίνη	A	I	1	a	heroine	urn:cts:greekLit:tlg0019.tlg003.perseus-grc1:315
 ἡρωίνη	A	I	1	a	heroine	
               
-ἡρωίνη	A	I	1	a	heroine	
               
 ἡρωίνη	A	I	1	a	heroine	
               
-ἡρωίνη	A	II	1	a	a deceased woman	
-                
+ἡρωίνη	A	I	1	a	heroine	
+              
+ἡρωίνη	A	II	1	a	a deceased woman	11
 ἡρωίνη	A	II	1	a	a deceased woman	
               
+              
 ἡρωίνη	A	II	1	a	a deceased woman	
+              
               
 ἡρωίνη	A	II	1	a	a deceased woman	urn:cts:greekLit:tlg2003.tlg003:334b
 ἡρώιος	A	I	1	a		urn:cts:greekLit:tlg0033.tlg001.perseus-grc1:13:51
@@ -5980,24 +6312,30 @@
 ἡρωίς	A	I	2	a		urn:cts:greekLit:tlg0533.tlg001:11
 ἡρωίς	A	I	2	a		
               
-ἡρωίς	A	I	2	a		
               
 ἡρωίς	A	I	2	a		
+              
+              
+ἡρωίς	A	I	2	a		
+              
               
 ἡρωίς	A	II	1	a		urn:cts:greekLit:tlg0001.tlg001.perseus-grc1:1:1048
-ἡρωίς	A	II	1	a		
-                
+ἡρωίς	A	II	1	a		AP9.504
 ἡρωίς	A	II	2	a	nine-yearly festival	
+              
               
 ἡρώϊσσα	A	I	1	a		urn:cts:greekLit:tlg0001.tlg001.perseus-grc1:4:1309
 ἡρώϊσσα	A	I	1	a		urn:cts:greekLit:tlg0001.tlg001.perseus-grc1:4:1358
 ἡρώϊσσα	A	I	1	a		
               
+              
 ἡρώϊσσα	A	I	1	a		
               
 ἡρώϊσσα	A	I	1	a		
+              
               
 ἠρώνα	A	I	1	a	service, office	
+              
               
 ἡρωολογέω	A	I	1	a	tell of heroes	urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:11:6:3
 ἡρωολογία	A	I	1	a	tale of heroes	urn:cts:greekLit:tlg0008.tlg001.perseus-grc1:11:498b
@@ -6007,25 +6345,30 @@
 ἡρῷον	A	I	1	a	shrine of a hero	urn:cts:greekLit:tlg0019.tlg004.perseus-grc1:819
 ἡρῷον	A	I	2	a	tomb,	
               
-ἡρῷον	A	I	2	a	tomb,	
               
 ἡρῷον	A	I	2	a	tomb,	
+              
+              
+ἡρῷον	A	I	2	a	tomb,	
+              
               
 ἡρῷον	A	I	3	a	hexameter	urn:cts:greekLit:tlg0007.tlg005:4
+ἡρῷον	A	I	4	a	festival of a hero	Id.2.811d
 ἡρῷον	A	I	4	a	festival of a hero	
-                
-ἡρῷον	A	I	4	a	festival of a hero	
+              
               
 ἡρῷος	A	I	1	a	the heroic measure, hexameter	urn:cts:greekLit:tlg0059.tlg030.perseus-grc1:400b
 ἡρῷος	A	I	1	a	the heroic measure, hexameter	urn:cts:greekLit:tlg0086.tlg038.perseus-grc1:1408b:32
 ἡρῷος	A	I	1	a	the heroic measure, hexameter	urn:cts:greekLit:tlg0086.tlg034.perseus-grc1:1460a:3
 ἡρῷος	A	I	1	a	the heroic measure, hexameter	
               
+              
 ἡρῷος	A	I	1	a	the heroic measure, hexameter	
               
 ἡρώπτει	A	I	1	a		urn:cts:greekLit:tlg4099.tlg001:437:27
 ἥρως	A	I	1	a		urn:cts:greekLit:tlg0014.tlg019.perseus-grc1:249
 ἥρως	A	I	1	a		
+              
               
 ἥρως	A	I	1	a		urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:10:4:10
 ἥρως	A	I	1	a		urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:7:453
@@ -6035,10 +6378,9 @@
 ἥρως	A	I	1	a		urn:cts:greekLit:tlg0059.tlg034.perseus-grc1:738d
 ἥρως	A	I	1	a		
               
-ἥρως	A	I	1	a		
-                
-ἥρως	A	I	1	a		
-                
+              
+ἥρως	A	I	1	a		Epigr.Gr.774
+ἥρως	A	I	1	a		IG2.1058.25
 ἥρως	A	I	1	a		urn:cts:greekLit:tlg0059.tlg030.perseus-grc1:391d
 ἥρως	A	I	1	a		urn:cts:greekLit:tlg0001.tlg001.perseus-grc1:2:766
 ἥρως	A	I	1	a		urn:cts:greekLit:tlg0016.tlg001.perseus-grc1:1:167
@@ -6074,6 +6416,7 @@
 ἥρως	A	I	3	a	heroes, as objects of worship	urn:cts:greekLit:tlg0003.tlg001.perseus-grc1:4:87
 ἥρως	A	I	3	a	heroes, as objects of worship	
               
+              
 ἥρως	A	I	3	a	heroes, as objects of worship	urn:cts:greekLit:tlg0086.tlg035.perseus-grc1:1332b:18
 ἥρως	A	I	3	a	heroes, as objects of worship	urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1:5:1
 ἥρως	A	I	3	a	heroes, as objects of worship	urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:2
@@ -6088,28 +6431,30 @@
 ἥρως	A	II	1	a	deceased	urn:cts:greekLit:tlg0658.tlg001:7:13
 ἥρως	A	II	1	a	deceased	
               
-ἥρως	A	II	1	a	deceased	
-                
+              
+ἥρως	A	II	1	a	deceased	IG9(2).806
 ἥρως	A	II	1	a	deceased	
               
 ἥρως	A	II	1	a	deceased	
               
 ἥρως	A	II	1	a	deceased	
               
-ἥρως	A	II	1	a	deceased	
-                
+ἥρως	A	II	1	a	deceased	SIG1243.23
 ἥρως	A	III	1	a		
               
 ἥρως	A	III	1	a		
               
 ἥρως	A	IV	1	a		
               
+              
 ἡρῷσσα	A	I	1	a	Dritter Bericht	
               
 ἡρωφόρος	A	I	1	a	bearing heroes,	
               
+              
 ἥσθημα	A	I	1	a		urn:cts:greekLit:tlg0461.tlg001:131
 ἡσιεπής	A	I	1	a	throwing words	
+              
               
 ἧσις	A	I	1	a		
               
@@ -6124,6 +6469,7 @@
 ἧσσα	A	I	1	a	defeat, discomfiture	urn:cts:greekLit:tlg0059.tlg019:196a
 ἧσσα	A	I	1	a	defeat, discomfiture	urn:cts:greekLit:tlg0026.tlg003.perseus-grc1:111
 ἧσσα	A	I	1	a	defeat, discomfiture	
+              
               
 ἧσσα	A	I	1	a	defeat, discomfiture	urn:cts:greekLit:tlg0086.tlg010.perseus-grc1:1150a:24
 ἧσσα	A	I	1	a	defeat, discomfiture	urn:cts:greekLit:tlg0032.tlg007.perseus-grc1:3:3:45
@@ -6164,8 +6510,7 @@
 ἡσσάομαι	A	I	2	a	to be defeated, discomfited	urn:cts:greekLit:tlg0006.tlg007.perseus-grc1:1252
 ἡσσάομαι	A	I	2	a	to be defeated, discomfited	urn:cts:greekLit:tlg0019.tlg006.perseus-grc1:70
 ἡσσάομαι	A	I	2	a	to be defeated, discomfited	urn:cts:greekLit:tlg0003.tlg001.perseus-grc1:3:57
-ἡσσάομαι	A	I	2	a	to be defeated, discomfited	
-                
+ἡσσάομαι	A	I	2	a	to be defeated, discomfited	Herod.
 ἡσσάομαι	A	I	2	a	to be defeated, discomfited	urn:cts:greekLit:tlg0016.tlg001.perseus-grc1:5:46
 ἡσσάομαι	A	I	2	a	to be defeated, discomfited	urn:cts:greekLit:tlg0014.tlg009.perseus-grc1:64
 ἡσσάομαι	A	I	2	a	to be defeated, discomfited	urn:cts:greekLit:tlg0010.tlg020.perseus-grc1:47
@@ -6195,6 +6540,7 @@
 ἡσσάομαι	A	I	4	a	give way, yield	urn:cts:greekLit:tlg0010.tlg009.perseus-grc1:60
 ἡσσάομαι	A	I	4	a	give way, yield	urn:cts:greekLit:tlg0006.tlg005.perseus-grc1:727
 ἡσσάομαι	A	I	4	a	give way, yield	
+              
               
 ἡσσάομαι	A	I	4	a	give way, yield	urn:cts:greekLit:tlg0032.tlg001.perseus-grc1:5:2:5
 ἡσσάομαι	A	I	4	a	give way, yield	urn:cts:greekLit:tlg0032.tlg001.perseus-grc1:5:4:31
@@ -6235,8 +6581,7 @@
 ἥσσων	A	I	2	a	the weaker party	urn:cts:greekLit:tlg0019.tlg003.perseus-grc1:1042
 ἥσσων	A	I	2	a	the weaker party	urn:cts:greekLit:tlg0010.tlg019.perseus-grc1:15
 ἥσσων	A	I	2	a	the weaker party	urn:cts:greekLit:tlg0006.tlg008.perseus-grc1:379
-ἥσσων	A	I	2	b	less, fewer	
-                
+ἥσσων	A	I	2	b	less, fewer	Zeno Stoic.1.68
 ἥσσων	A	II	1	a	giving way	urn:cts:greekLit:tlg0011.tlg001.perseus-grc1:489
 ἥσσων	A	II	1	a	giving way	urn:cts:greekLit:tlg0011.tlg002.perseus-grc1:747
 ἥσσων	A	II	1	a	giving way	urn:cts:greekLit:tlg0011.tlg008.perseus-grc1:929
@@ -6244,8 +6589,7 @@
 ἥσσων	A	II	1	a	giving way	urn:cts:greekLit:tlg0019.tlg011.perseus-grc1:363
 ἥσσων	A	II	1	a	giving way	urn:cts:greekLit:tlg0059.tlg022:353c
 ἥσσων	A	II	1	a	giving way	urn:cts:greekLit:tlg0032.tlg002.perseus-grc1:1:5:1
-ἥσσων	A	II	1	a	giving way	
-                
+ἥσσων	A	II	1	a	giving way	Democr.
 ἥσσων	A	II	1	a	giving way	urn:cts:greekLit:tlg0566.tlg001:121
 ἥσσων	A	II	1	a	giving way	urn:cts:greekLit:tlg0006.tlg014.perseus-grc1:1660
 ἥσσων	A	II	1	a	giving way	urn:cts:greekLit:tlg0540.tlg002.perseus-grc1:78
@@ -6274,6 +6618,7 @@
 ἡσυχάζω	A	I	1	a		urn:cts:greekLit:tlg0003.tlg001.perseus-grc1:2:84
 ἡσυχάζω	A	I	1	a		
               
+              
 ἡσυχάζω	A	I	1	a		
               
 ἡσυχάζω	A	I	1	a		urn:cts:greekLit:tlg0062.tlg019:1
@@ -6287,6 +6632,7 @@
 ἡσυχάζω	A	I	1	a	keep quiet, be at rest	urn:cts:greekLit:tlg0062.tlg052.perseus-grc1:19
 ἡσυχάζω	A	I	1	a	keep quiet, be at rest	
               
+              
 ἡσυχάζω	A	I	1	a	keep quiet, be at rest	
               
 ἡσυχάζω	A	I	1	a	keep quiet, be at rest	urn:cts:greekLit:tlg0544.tlg001:2:239
@@ -6299,14 +6645,17 @@
 ἡσυχάζω	A	I	1	a	keep quiet, be at rest	urn:cts:greekLit:tlg0003.tlg001.perseus-grc1:7:83
 ἡσυχάζω	A	I	1	a	keep quiet, be at rest	
               
+              
 ἡσυχάζω	A	I	1	a	keep quiet, be at rest	
               
 ἡσυχάζω	A	I	1	a	keep quiet, be at rest	
+              
               
 ἡσυχάζω	A	I	1	a	keep quiet, be at rest	urn:cts:greekLit:tlg0006.tlg009.perseus-grc1:98
 ἡσυχάζω	A	I	1	a	keep quiet, be at rest	urn:cts:greekLit:tlg0006.tlg018.perseus-grc1:973
 ἡσυχάζω	A	I	1	b		urn:cts:greekLit:tlg1264.tlg001:2:8
 ἡσυχάζω	A	I	1	b		
+              
               
 ἡσυχάζω	A	II	1	a	bring to rest	urn:cts:greekLit:tlg0059.tlg030.perseus-grc1:572a
 ἡσυχάζω	A	II	1	b	impose silence	urn:cts:greekLit:tlg0385.tlg001:69:6
@@ -6331,6 +6680,7 @@
 ἡσυχαστικός	A	I	1	a	soothing	
               
 ἡσυχαστικός	A	I	1	a	soothing	
+              
               
 ἡσυχαστικός	A	I	1	a	soothing	urn:cts:greekLit:tlg0361.tlg001:13
 ἡσυχάστρια	A	I	1	a	she who soothes	
@@ -6357,8 +6707,7 @@
 ἡσυχῇ	A	I	3	a	to some extent	urn:cts:greekLit:tlg0005.tlg001.perseus-grc1:14:10
 ἡσυχῇ	A	I	3	a	to some extent	Perseus:abo:pap,P.Cair.Zen.:76:11
 ἡσυχῇ	A	I	3	a	to some extent	Perseus:abo:pap,P.Stras.:87:11
-ἡσυχῇ	A	I	3	a	to some extent	
-                
+ἡσυχῇ	A	I	3	a	to some extent	Dsc.3.131
 ἡσυχῇ	A	I	3	a	to some extent	urn:cts:greekLit:tlg0007.tlg047:4
 ἡσυχῇ	A	I	3	a	to some extent	urn:cts:greekLit:tlg0545.tlg001:3:28
 ἡσυχία	A	I	1	a	rest, quiet	urn:cts:greekLit:tlg0012.tlg002.perseus-grc1:18:22
@@ -6405,6 +6754,7 @@
 ἡσυχία	A	I	4	b	silent	urn:cts:greekLit:tlg0014.tlg058.perseus-grc1:60
 ἡσυχία	A	II	1	a	solitude, a sequestered place,	
               
+              
 ἡσυχία	A	II	1	a	solitude, a sequestered place,	urn:cts:greekLit:tlg0032.tlg002.perseus-grc1:2:1:21
 ἡσυχικός	A	I	1	a	peaceable	urn:cts:greekLit:tlg2000.tlg001:3:8:6
 ἡσύχιμος	A	I	1	a		urn:cts:greekLit:tlg0033.tlg001.perseus-grc1:2:32
@@ -6417,10 +6767,14 @@
 ἡσύχιος	A	I	1	a	still, quiet, at rest	urn:cts:greekLit:tlg0003.tlg001.perseus-grc1:1:120
 ἡσύχιος	A	I	1	a	still, quiet, at rest	
               
+              
+              
 ἡσύχιος	A	I	1	a	still, quiet, at rest	urn:cts:greekLit:tlg0013.tlg004.perseus-grc1:438
 ἡσύχιος	A	I	1	a	still, quiet, at rest	urn:cts:greekLit:tlg0059.tlg006.perseus-grc1:179e
 ἡσυχιότης	A	I	1	a	quiet disposition	urn:cts:greekLit:tlg0540.tlg026.perseus-grc1:5
 ἡσυχόομαι	A	I	1	a	keep quiet, be at rest	
+              
+              
               
 ἡσυχοποιός	A	I	1	a	silentiarius,	
               
@@ -6459,6 +6813,7 @@
 ἥσυχος	A	I	5	a	implicit	urn:cts:greekLit:tlg2000.tlg001:6:2:20
 ἥσυχος	A	II	1	a		
               
+              
 ἥσυχος	A	II	1	a		urn:cts:greekLit:tlg0003.tlg001.perseus-grc1:3:82
 ἥσυχος	A	II	1	a		urn:cts:greekLit:tlg0059.tlg010:24c
 ἥσυχος	A	II	1	a		urn:cts:greekLit:tlg0032.tlg007.perseus-grc1:1:4:4
@@ -6466,6 +6821,7 @@
 ἥσυχος	A	II	1	a		urn:cts:greekLit:tlg0011.tlg002.perseus-grc1:1089
 ἥσυχος	A	II	1	a		urn:cts:greekLit:tlg0059.tlg018:160a
 ἥσυχος	A	II	1	a		
+              
               
 ἥσυχος	A	III	1	a		urn:cts:greekLit:tlg0085.tlg001.perseus-grc1:724
 ἥσυχος	A	III	1	a		urn:cts:greekLit:tlg0006.tlg008.perseus-grc1:305
@@ -6482,18 +6838,23 @@
 ἥσυχος	A	III	1	a	gently, cautiously	urn:cts:greekLit:tlg0005.tlg001.perseus-grc1:6:12
 ἥσυχος	A	III	1	a	gently, cautiously	
               
+              
 ἥσυχος	A	III	1	a	gently, cautiously	
               
 ἠτα	A	I	1	a	the letter	urn:cts:greekLit:tlg0627.tlg007.perseus-grc1:1
 ἠτα	A	I	1	a	the letter	urn:cts:greekLit:tlg0059.tlg005.perseus-grc1:418c
 ἠτα	A	I	1	a	the letter	
               
+              
 ἠτα	A	I	1	a	the letter	
+              
               
 ἠτα	A	I	1	a	the letter	
               
 ἤτε	A	I	1	a	or also	urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:19:148
 ἤτε	A	I	1	a	or also	
+              
+              
               
 ἤτε	A	I	2	a	both . . and	urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:9:276
 ἤτε	A	I	2	a	both . . and	urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:11:410
@@ -6529,8 +6890,7 @@
 ἦτορ	A	I	1	a	heart.	urn:cts:greekLit:tlg0033.tlg001.perseus-grc1:2:79
 ἦτορ	A	I	1	a	heart.	
               
-ἠτριαῖος	A	I	1	a	of the stomach	
-                
+ἠτριαῖος	A	I	1	a	of the stomach	Com.Adesp.863
 ἠτριαῖος	A	I	1	a	of the stomach	urn:cts:greekLit:tlg0019.tlg012:318:6
 ἠτριαῖος	A	I	1	a	of the stomach	urn:cts:greekLit:tlg0019.tlg012:506:5
 ἠτριαῖος	A	I	1	a	of the stomach	urn:cts:greekLit:tlg0062.tlg046:6
@@ -6539,17 +6899,18 @@
 ἤτριον	A	I	1	a	warp	urn:cts:greekLit:tlg0005.tlg001.perseus-grc1:18:33
 ἤτριον	A	I	1	a	warp	
               
+              
 ἤτριον	A	I	1	a	warp	
               
 ἤτριον	A	I	1	a	warp	urn:cts:greekLit:tlg0006.tlg010.perseus-grc1:1421
 ἤτριον	A	I	1	a	warp	
               
-ἤτριον	A	I	1	a	warp	
               
 ἤτριον	A	I	1	a	warp	
               
 ἤτριον	A	I	1	a	warp	
-                
+              
+ἤτριον	A	I	1	a	warp	Gal.19.98
 ἦτρον	A	I	1	a	abdomen	urn:cts:greekLit:tlg0627.tlg012.perseus-grc1:2:35
 ἦτρον	A	I	1	a	abdomen	urn:cts:greekLit:tlg0059.tlg004.perseus-grc1:118a
 ἦτρον	A	I	1	a	abdomen	urn:cts:greekLit:tlg0032.tlg006.perseus-grc1:4:7:15
@@ -6563,6 +6924,7 @@
 ἥττημα	A	I	1	a	discomfiture	
               
 ἤτω	A	I	1	a	sum	
+              
               
 ἤτω	A	I	1	a	sum	Perseus:abo:pap,BGU:419:13
 ηὐξημένως	A	I	1	a		urn:cts:greekLit:tlg4083.tlg001:769:23
@@ -6589,22 +6951,25 @@
 Ἡφαιστεῖον	A	I	1	a	temple of Hephaestus	Perseus:abo:pap,UPZ:109:13
 Ἡφαίστια	A	I	1	a	festival of Hephaestus,	
               
+              
 Ἡφαίστια	A	I	1	a	festival of Hephaestus,	urn:cts:greekLit:tlg0027.tlg001.perseus-grc1:132
 Ἡφαίστια	A	I	1	a	festival of Hephaestus,	urn:cts:greekLit:tlg0032.tlg015.perseus-grc1:3:4
 Ἡφαίστια	A	I	1	a	festival of Hephaestus,	urn:cts:greekLit:tlg0385.tlg001:78:25
 Ἡφαιστιάς	A	I	1	a	plaster	
               
+              
 Ἡφαιστόπονος	A	I	1	a	wrought by Hephaestus	urn:cts:greekLit:tlg0006.tlg018.perseus-grc1:1072
 Ἥφαιστος	A	I	1	a		urn:cts:greekLit:tlg0020.tlg003.perseus-grc1:123
 Ἥφαιστος	A	I	1	a		urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:17:88
 Ἥφαιστος	A	I	1	a		urn:cts:greekLit:tlg0239.tlg002:44
-Ἥφαιστος	A	I	1	a		
-                
+Ἥφαιστος	A	I	1	a		Com.Adesp.17.35D.
 Ἥφαιστος	A	I	2	a		urn:cts:greekLit:tlg0081.tlg001:2:54
 Ἥφαιστος	A	I	2	a		
               
+              
 Ἥφαιστος	A	I	2	a		urn:cts:greekLit:tlg0551.tlg017.perseus-grc1:5:49
 Ἥφαιστος	A	I	3	a		
+              
               
 Ἥφαιστος	A	I	4	a		
               
@@ -6612,8 +6977,11 @@
               
 Ἥφαιστος	A	I	4	a	nine,	
               
+              
 Ἥφαιστος	A	II	1	a	fire	urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:2:426
 Ἥφαιστος	A	II	1	a	fire	
+              
+              
               
 Ἥφαιστος	A	II	1	a	fire	urn:cts:greekLit:tlg0011.tlg002.perseus-grc1:123
 Ἥφαιστος	A	II	1	a	fire	urn:cts:greekLit:tlg0011.tlg002.perseus-grc1:1007
@@ -6634,8 +7002,10 @@
 ἠχεῖον	A	I	1	a	drum, gong	urn:cts:greekLit:tlg2598.tlg010:p.153B
 ἠχεῖον	A	I	1	a	drum, gong	
               
+              
 ἠχεῖον	A	I	1	a	drum, gong	urn:cts:greekLit:tlg0019.tlg003.perseus-grc1:292
 ἠχεῖον	A	I	1	a	drum, gong	
+              
               
 ἠχεῖον	A	II	1	a	a metallic sounding-plate	
               
@@ -6647,6 +7017,7 @@
 ἠχέτης	A	I	1	a	clear-sounding, musical, shrill	urn:cts:greekLit:tlg0006.tlg012.perseus-grc1:151
 ἠχέτης	A	I	1	a	clear-sounding, musical, shrill	urn:cts:greekLit:tlg0020.tlg002.perseus-grc1:582
 ἠχέτης	A	I	1	a	clear-sounding, musical, shrill	
+              
               
 ἠχέτης	A	I	1	a	clear-sounding, musical, shrill	
               
@@ -6669,6 +7040,8 @@
 ἠχέω	A	I	1	a	sound, ring, peal	urn:cts:greekLit:tlg0005.tlg001.perseus-grc1:16:96
 ἠχέω	A	I	1	a	sound, ring, peal	urn:cts:greekLit:tlg0527.tlg011:3:11
 ἠχέω	A	I	1	a	sound, ring, peal	
+              
+              
               
 ἠχέω	A	I	2	a	suffer from noises in the ears	
               
@@ -6704,8 +7077,8 @@
 ἠχήεις	A	I	1	a	sounding, ringing, roaring	urn:cts:greekLit:tlg0085.tlg004.perseus-grc1:915
 ἠχήεις	A	I	1	a	sounding, ringing, roaring	
               
-ἠχήεις	A	I	1	a	sounding, ringing, roaring	
-                
+              
+ἠχήεις	A	I	1	a	sounding, ringing, roaring	AP7.196
 ἠχήεις	A	I	1	a	sounding, ringing, roaring	
               
 ἠχήεις	A	I	1	a	sounding, ringing, roaring	urn:cts:greekLit:tlg1562.tlg001:1:35
@@ -6721,8 +7094,7 @@
 ἠχητικός	A	I	1	a	sounding, ringing	urn:cts:greekLit:tlg4013.tlg001:142:17
 ἠχητικός	A	I	1	a	sounding, ringing	urn:cts:greekLit:tlg4083.tlg001:918:19
 ἠχητικός	A	I	1	a	sounding, ringing	urn:cts:greekLit:tlg4099.tlg001:216:50
-ἠχητικός	A	I	1	a	sounding, ringing	
-                
+ἠχητικός	A	I	1	a	sounding, ringing	Hsch.
 ἧχι	A	I	1	a	where	urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:1:607
 ἧχι	A	I	1	a	where	urn:cts:greekLit:tlg0533.tlg002:91
 ἧχι	A	I	1	a	where	urn:cts:greekLit:tlg0084.tlg001:176
@@ -6736,6 +7108,8 @@
 ἦχος	A	I	1	a	sound	urn:cts:greekLit:tlg0082.tlg004:290:24
 ἦχος	A	I	1	a	sound	
               
+              
+              
 ἦχος	A	I	1	a	sound	
               
 ἦχος	A	I	1	a	sound	urn:cts:greekLit:tlg0062.tlg007:7
@@ -6747,14 +7121,14 @@
 ἦχος	A	I	1	a	sound	urn:cts:greekLit:tlg0719.tlg001.perseus-grc1:1:5
 ἦχος	A	I	2	a	echo	urn:cts:greekLit:tlg0086.tlg036:899b:30
 ἦχος	A	I	3	a	breathing	urn:cts:greekLit:tlg0613.tlg001:73
-ἦχος	A	I	4	a	voice	
-                
+ἦχος	A	I	4	a	voice	Dsc.5.17
 ἦχος	A	I	4	a	voice	urn:cts:greekLit:tlg0527.tlg049:28(51).16
 ἦχος	A	I	4	a	voice	urn:cts:greekLit:tlg0031.tlg003.perseus-grc1:21:25
 ἠχώ	A	I	1	a		urn:cts:greekLit:tlg0035.tlg005:2:1
 ἠχώ	A	I	1	a		urn:cts:greekLit:tlg0035.tlg005:3
 ἠχώ	A	I	1	a	echo,	urn:cts:greekLit:tlg0035.tlg005:3
 ἠχώ	A	I	1	a	echo,	
+              
               
 ἠχώ	A	I	1	a	echo,	urn:cts:greekLit:tlg0020.tlg003.perseus-grc1:279
 ἠχώ	A	I	1	a	echo,	urn:cts:greekLit:tlg0020.tlg003.perseus-grc1:348
@@ -6772,8 +7146,7 @@
 ἠχώ	A	I	2	a	ringing sound	urn:cts:greekLit:tlg0033.tlg001.perseus-grc1:14:21
 ἠχώδης	A	I	1	a	sonorous	urn:cts:greekLit:tlg0613.tlg001:42
 ἠχώδης	A	I	2	a	ringing in the ears	urn:cts:greekLit:tlg0627.tlg017:163
-ἠχώδης	A	I	3	a	full of sounds	
-                
+ἠχώδης	A	I	3	a	full of sounds	Plu.2.720c
 ἠχώδης	A	I	3	a	full of sounds	urn:cts:greekLit:tlg0007.tlg063:22
 ἠῶθεν	A	I	1	a	from morn	urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:11:555
 ἠῶθεν	A	I	1	a	from morn	urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:18:136
@@ -6790,8 +7163,7 @@
 ἠῷος	A	I	1	a	at break of day	urn:cts:greekLit:tlg0020.tlg003.perseus-grc1:396
 ἠῷος	A	I	1	a	at break of day	urn:cts:greekLit:tlg0020.tlg002.perseus-grc1:548
 ἠῷος	A	I	1	a	at break of day	urn:cts:greekLit:tlg0533.tlg001:3:1:10
-ἠῷος	A	I	1	a	at break of day	
-                
+ἠῷος	A	I	1	a	at break of day	AP5.2
 ἠῷος	A	I	1	a	at break of day	
               
 ἠῷος	A	I	1	a	at break of day	
@@ -6800,20 +7172,21 @@
 ἠῷος	A	I	2	a	eastern	urn:cts:greekLit:tlg0016.tlg001.perseus-grc1:7:157
 ἠῷος	A	I	2	a	eastern	urn:cts:greekLit:tlg0001.tlg001.perseus-grc1:2:745
 ἠώς	A	I	1	a		urn:cts:greekLit:tlg0082.tlg001:88:5
-ἠώς	A	I	1	a		
-                
+ἠώς	A	I	1	a		Hedyl.
 ἠώς	A	I	1	a		urn:cts:greekLit:tlg0008.tlg001.perseus-grc1:11:473a
 ἠώς	A	I	1	a		
+              
               
 ἠώς	A	I	1	a		
               
 ἠώς	A	I	1	a		urn:cts:greekLit:tlg0033.tlg003.perseus-grc1:6:52
 ἠώς	A	I	1	a		
               
-ἠώς	A	I	1	a		
-                
+              
+ἠώς	A	I	1	a		Epigr.Gr.992
 ἠώς	A	I	1	a		urn:cts:greekLit:tlg0009.tlg001:1787
 ἠώς	A	I	1	a		
+              
               
 ἠώς	A	I	1	a		
               
@@ -6847,8 +7220,7 @@
 ἠώς	A	I	2	a	day	urn:cts:greekLit:tlg0576.tlg001:110
 ἠώς	A	I	2	a	day	urn:cts:greekLit:tlg0579.tlg002:649
 ἠώς	A	I	3	a	life	urn:cts:greekLit:tlg2046.tlg001.perseus-grc1:10:431
-ἠώς	A	I	3	a	life	
-                
+ἠώς	A	I	3	a	life	IG14.1853
 ἠώς	A	I	4	a	the East	urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:12:239
 ἠώς	A	I	4	a	the East	urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:10:2:12
 ἠώς	A	I	4	a	the East	urn:cts:greekLit:tlg0016.tlg001.perseus-grc1:2:8
@@ -6856,8 +7228,7 @@
 ἠώς	A	I	4	a	the East	urn:cts:greekLit:tlg0059.tlg034.perseus-grc1:760d
 ἠώς	A	I	4	a	the East	urn:cts:greekLit:tlg0032.tlg001.perseus-grc1:5:4:49
 ἠώς	A	I	4	a	the East	urn:cts:greekLit:tlg0007.tlg036:27
-ἠώς	A	I	4	a	the East	
-                
+ἠώς	A	I	4	a	the East	IG7.235.45
 ἠώς	A	II	1	a	the goddess of dawn	urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:11:1
 ἠώς	A	II	1	a	the goddess of dawn	urn:cts:greekLit:tlg0020.tlg001.perseus-grc1:372
 ἠώς	A	II	1	a	the goddess of dawn	urn:cts:greekLit:tlg0020.tlg001.perseus-grc1:378

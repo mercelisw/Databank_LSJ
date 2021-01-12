@@ -62,7 +62,8 @@ for i, letter in enumerate(os.listdir('LSJ_data')):
                                 if 'n' in element.attrib:
                                     bib_key += element.attrib['n']
                                 else:
-                                    bib_key += element.text
+                                    for child in element[:]:
+                                        bib_key += child.text
 
                             file.write(
                                 key + '\t' + "\t".join(sense_levels) + "\t" + translation + "\t" + bib_key + "\n")
@@ -76,7 +77,8 @@ for i, letter in enumerate(os.listdir('LSJ_data')):
                                 if 'n' in book.attrib:
                                     bib_key += book.attrib['n']
                                 else:
-                                    bib_key += book.text
+                                    for child in book[:]:
+                                        bib_key += child.text
 
                                 file.write(
                                     key + '\t' + "\t".join(sense_levels) + "\t" + translation + "\t" + bib_key + "\n")
