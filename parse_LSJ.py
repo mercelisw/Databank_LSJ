@@ -7,7 +7,7 @@ for i, letter in enumerate(os.listdir('LSJ_data')):
 
     title = 'LSJ_{}.csv'.format(i+1)
 
-    with open(title, "w+", encoding='UTF-8') as file:
+    with open('LSJ_output/' + title, "w+", encoding='UTF-8') as file:
 
 
         my_tree = ET.parse("LSJ_data/" + letter)
@@ -43,36 +43,42 @@ for i, letter in enumerate(os.listdir('LSJ_data')):
 
                     previous_sense_levels = sense_levels
                     translation = ""
-                    reference = ""
+                    bib_key = ""
                     translation_counter = 0
-                    for element in sense[:]:
+                    for element in sense[:]:  # skips the 'etymological' info
 
                         if element.tag == 'tr' and translation_counter == 0:
 
                             translation = element.text
-                            if reference != "":
+                            if bib_key != "":
                                 file.write(
-                                    key + '\t' + "\t".join(sense_levels) + "\t" + translation + "\t" + reference + "\n")
+                                    key + '\t' + "\t".join(sense_levels) + "\t" + translation + "\t" + bib_key + "\n")
                             translation_counter += 1
 
                         if element.tag == 'bibl':           # bibliography without citations
 
-                            reference = ""
+                            bib_key = ""
 
-                            for bibl in element:
-                                if bibl.text is not None:
-                                    reference += bibl.text
 
-                            file.write(key + '\t' + "\t".join(sense_levels) + "\t" + translation + "\t" + reference + "\n")
+                            if element.text is not None:
+                                if 'n' in element.attrib:
+                                    bib_key += element.attrib['n']
+                                else:
+                                    bib_key += element.text
+
+                            file.write(key + '\t' + "\t".join(sense_levels) + "\t" + translation + "\t" + bib_key + "\n")
 
                         if element.tag == 'cit':            # bibliography for citations
                             book = element.find('bibl')
-                            reference = ""
+                            bib_key = ""
 
                             if book is not None:
 
-                                for bibl in book:
-                                    reference += bibl.text
+
+                                if 'n' in book.attrib:
+                                    bib_key += book.attrib['n']
+                                else:
+                                    bib_key += book.text
 
                                 file.write(
-                                    key + '\t' + "\t".join(sense_levels) + "\t" + translation + "\t" + reference + "\n")
+                                    key + '\t' + "\t".join(sense_levels) + "\t" + translation + "\t" + bib_key + "\n")
