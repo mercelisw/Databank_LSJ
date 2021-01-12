@@ -10,7 +10,6 @@ for i, letter in enumerate(os.listdir('LSJ_data')):
     with open(title, "w+", encoding='UTF-8') as file:
 
 
-
         my_tree = ET.parse("LSJ_data/" + letter)
 
         my_root = my_tree.getroot()
@@ -32,10 +31,8 @@ for i, letter in enumerate(os.listdir('LSJ_data')):
 
                 previous_sense_levels = ['A', 'I', '1', 'a']
 
-
                 orthography = word.find("orth").text.strip(':,;')
 
-                # print(orthography)
                 senses = word.findall("sense")
                 for sense in senses:
                     default = ['A', 'I', '1', 'a']
@@ -59,7 +56,7 @@ for i, letter in enumerate(os.listdir('LSJ_data')):
                                     orthography + '\t' + "\t".join(sense_levels) + "\t" + translation + "\t" + reference + "\n")
                             translation_counter += 1
 
-                        if element.tag == 'bibl':
+                        if element.tag == 'bibl':           # bibliography without citations
 
                             reference = ""
 
@@ -69,7 +66,7 @@ for i, letter in enumerate(os.listdir('LSJ_data')):
 
                             file.write(orthography + '\t' + "\t".join(sense_levels) + "\t" + translation + "\t" + reference + "\n")
 
-                        if element.tag == 'cit':
+                        if element.tag == 'cit':            # bibliography for citations
                             book = element.find('bibl')
                             reference = ""
 
@@ -80,11 +77,3 @@ for i, letter in enumerate(os.listdir('LSJ_data')):
 
                                 file.write(
                                     orthography + '\t' + "\t".join(sense_levels) + "\t" + translation + "\t" + reference + "\n")
-
-
-                    # for element in sense.findall('tr') + sense.findall('bibl'):
-                    #     if len(element[:]) == 0:
-                    #         translation = element.text
-                    #     else:
-                    #         for child in element.findall('author') + element.findall('title') + element.findall('biblScope'):
-                    #             print(child.text)
