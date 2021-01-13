@@ -1,5 +1,6 @@
 import os
 import xml.etree.ElementTree as ET
+import pandas as pd
 
 # TEI.2 -> (teiHeader) text -> (front) body -> div0 -> (head) entryFree
 
@@ -12,6 +13,42 @@ def create_abbrev_dict(file):
             line = line.split('\t')
             authors[line[1]] = line[0]
         return authors
+
+def create_bibliographic_link(author: str, work: str, loc:int):
+    authors = create_abbrev_dict("abbrev_authors.csv")
+    works = create_abbrev_dict("abbrev_works.csv")
+    works = {v: k for k, v in works.items()}
+
+
+    tlg = pd.read_csv('tlg_numbers.csv', sep='\t')
+    full_author = authors[author].upper()
+
+
+    author_index = tlg[(tlg['AUTHOR'] == full_author)].index[0]
+    author_id = str(tlg.loc[author_index, 'TLG_AUTHOR'])
+    author_id = author_id.rjust(4,"0")
+
+    if work:
+        full_work = works[work]
+        if tlg[(tlg['AUTHOR'] == full_author) & (tlg['TITLE'] == full_work)].size > 0:
+            work_index = tlg[(tlg['AUTHOR'] == full_author) & (tlg['TITLE'] == full_work)].index[0]
+        # work_index = tlg[tlg['AUTHOR'] == full_author and ['WORK'] == full_work].index.values
+            work_id = str(tlg.loc[work_index, 'TLG_WORK'])
+    else:
+        work_id = "001"
+
+    if loc:
+        loc_id = str(loc)
+    else:
+        loc_id = ""
+
+    return "urn:cts:greekLit:tlg{}.tlg{}.perseus-grc1:{}".format(author_id, work_id, loc_id)
+
+
+
+
+print(create_bibliographic_link("A.", "Ag.", '65'))
+
 
 def main():
     authors = create_abbrev_dict("abbrev_authors.csv")
@@ -105,8 +142,3 @@ def main():
 
 
 
-
-authors = create_abbrev_dict("abbrev_authors.csv")
-works = create_abbrev_dict("abbrev_works.csv")
-
-print(1)
