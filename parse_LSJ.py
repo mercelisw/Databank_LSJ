@@ -1,12 +1,11 @@
 import os
 import xml.etree.ElementTree as ET
 import pandas as pd
+import tqdm
+
 
 # TEI.2 -> (teiHeader) text -> (front) body -> div0 -> (head) entryFree
 # Left out Cyr. Cyrilli Glossarium
-
-
-
 
 def create_abbrev_dict(file):
     with open(file, "r+") as input:
@@ -18,40 +17,71 @@ def create_abbrev_dict(file):
             authors[line[1]] = line[0]
         return authors
 
+
 authors = create_abbrev_dict("abbrev_authors.csv")
 works = create_abbrev_dict("abbrev_works.csv")
 works = {v: k for k, v in works.items()}
 
-def create_bibliographic_link(author: str, work: str, loc:int):
 
-    work_id = ""
-
+def create_conversion_dicts():
+    author_rows = {}
+    only_works = {}
+    work_rows = {}
 
     tlg = pd.read_csv('tlg_numbers.csv', sep='\t')
 
-    if author is not None:
-        try:
-            full_author = authors[author]
-            if len(tlg[tlg["AUTHOR"] ==  full_author]) > 0:
-                full_author = full_author.upper()
-                author_index = tlg[(tlg['AUTHOR'] == full_author)].index[0]
-                author_id = str(tlg.loc[author_index, 'TLG_AUTHOR'])
-                author_id = author_id.rjust(4, "0")
-            elif len(tlg[tlg['TITLE'] == full_author]) > 0:                                  # For errors like Odyssea which is in authors
+    for i in tlg.iterrows():
+        author_rows[i[1][2]] = i[1][0]
 
-                author_index = tlg[(tlg['TITLE'] == full_author)].index[0]
-                author_id = str(tlg.loc[author_index, 'TLG_AUTHOR'])
+    for i in tlg.iterrows():
+        only_works[i[1][3]] = str(i[1][0]) + ',' + i[1][1]
+
+    for i in tlg.iterrows():
+        key = i[1][2] + ',' + i[1][3]
+        value = str(i[1][0]) + ',' + i[1][1]
+
+        value = value.split(',')
+
+        work_rows[key] = value
+
+    return author_rows, only_works, work_rows
+
+
+author_rows, only_works, work_rows = create_conversion_dicts()
+
+
+def create_bibliographic_link(author: str, work: str, loc: int):
+    full_author = ""
+    work_id = ""
+
+    if author is not None:
+
+        if author in authors:
+            full_author = authors[author]
+            full_author_upper = full_author.upper()
+
+            if full_author_upper in author_rows:
+
+                author_id = str(author_rows[full_author_upper])
                 author_id = author_id.rjust(4, "0")
-                work_id = str(tlg.loc[author_index, 'TLG_WORK'])
+
+            elif full_author in only_works:  # For errors like Odyssea which is in authors
+
+                both_ids = only_works[full_author]
+                both_ids = both_ids.split(',')
+                author_id = both_ids[0]
+                author_id = author_id.rjust(4, "0")
+                work_id = both_ids[1]
+
             else:
 
                 file = open('unknown_authors.txt', 'a')
                 file.write(full_author + '\n')
                 file.close()
-                author_id = "0000"
+                return full_author
 
-        except KeyError:
-            author_id = "0000"
+        else:
+            return author
 
     else:
         author_id = "0000"
@@ -59,33 +89,31 @@ def create_bibliographic_link(author: str, work: str, loc:int):
     if work is not None:
         try:
             full_work = works[work]
-            if len(tlg[tlg["AUTHOR"] == full_author]) > 0 and len(tlg[tlg['TITLE'] == full_work]) > 0:
-                # if tlg[(tlg['AUTHOR'] == full_author) & (tlg['TITLE'] == full_work)].size > 0:
-                work_index = tlg[(tlg['AUTHOR'] == full_author) & (tlg['TITLE'] == full_work)].index[0]
+            combined = full_author + ',' + full_work
 
-                work_id = str(tlg.loc[work_index, 'TLG_WORK'])
+            if combined in work_rows:
+                work_id = work_rows[combined][1]
+
             else:
                 work_id = "001"
+
         except KeyError:
             work_id = "001"
+
     if work_id == "":
         work_id = "001"
 
-    if loc is not None:        loc_id = str(loc)
+    if loc is not None:
+        loc_id = str(loc)
     else:
         loc_id = ""
 
     return "urn:cts:greekLit:tlg{}.tlg{}.perseus-grc1:{}".format(author_id, work_id, loc_id)
 
 
-
-
-
-
-
 def main():
-    authors = create_abbrev_dict("abbrev_authors.csv")
-    works = create_abbrev_dict("abbrev_works.csv")
+    # authors = create_abbrev_dict("abbrev_authors.csv")
+    # works = create_abbrev_dict("abbrev_works.csv")
 
     for i, letter in enumerate(os.listdir('LSJ_data')):
 
@@ -106,6 +134,7 @@ def main():
                 words = my_root[1][0][0][1:]  # TEI.2 -> (teiHeader) text -> body -> div0 -> (head) entryFree
 
             for j, word in enumerate(words):
+
                 if word.tag != 'entryFree':
                     continue
                 else:
@@ -136,7 +165,8 @@ def main():
                                 translation = element.text
                                 if bib_key != "":
                                     file.write(
-                                        id[1:] + '\t' + key + '\t' + "\t".join(sense_levels) + "\t" + translation + "\t" + bib_key + "\n")
+                                        id[1:] + '\t' + key + '\t' + "\t".join(
+                                            sense_levels) + "\t" + translation + "\t" + bib_key + "\n")
                                 translation_counter += 1
 
                             if element.tag == 'bibl':  # bibliography without citations
@@ -157,15 +187,12 @@ def main():
                                                 elif child.text.isnumeric():
                                                     link[2] = child.text
 
-
-
                                         bib_key = create_bibliographic_link(link[0], link[1], link[2])
-
-
 
                                 if translation_counter > 0:
                                     file.write(
-                                        id[1:] + '\t' + key + '\t' + "\t".join(sense_levels) + "\t" + translation + "\t" + bib_key + "\n")
+                                        id[1:] + '\t' + key + '\t' + "\t".join(
+                                            sense_levels) + "\t" + translation + "\t" + bib_key + "\n")
 
                             if element.tag == 'cit':  # bibliography for citations
                                 book = element.find('bibl')
@@ -189,12 +216,10 @@ def main():
 
                                         bib_key = create_bibliographic_link(link[0], link[1], link[2])
 
-
                                     if translation_counter > 0:
                                         file.write(
-                                            id[1:] + '\t' + key + '\t' + "\t".join(sense_levels) + "\t" + translation + "\t" + bib_key + "\n")
-
-
+                                            id[1:] + '\t' + key + '\t' + "\t".join(
+                                                sense_levels) + "\t" + translation + "\t" + bib_key + "\n")
 
 
 main()
