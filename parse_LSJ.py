@@ -3,6 +3,10 @@ import xml.etree.ElementTree as ET
 import pandas as pd
 
 # TEI.2 -> (teiHeader) text -> (front) body -> div0 -> (head) entryFree
+# Left out Cyr. Cyrilli Glossarium
+
+
+
 
 def create_abbrev_dict(file):
     with open(file, "r+") as input:
@@ -14,31 +18,60 @@ def create_abbrev_dict(file):
             authors[line[1]] = line[0]
         return authors
 
+authors = create_abbrev_dict("abbrev_authors.csv")
+works = create_abbrev_dict("abbrev_works.csv")
+works = {v: k for k, v in works.items()}
+
 def create_bibliographic_link(author: str, work: str, loc:int):
-    authors = create_abbrev_dict("abbrev_authors.csv")
-    works = create_abbrev_dict("abbrev_works.csv")
-    works = {v: k for k, v in works.items()}
+
+    work_id = ""
 
 
     tlg = pd.read_csv('tlg_numbers.csv', sep='\t')
-    full_author = authors[author].upper()
 
+    if author is not None:
+        try:
+            full_author = authors[author]
+            if len(tlg[tlg["AUTHOR"] ==  full_author]) > 0:
+                full_author = full_author.upper()
+                author_index = tlg[(tlg['AUTHOR'] == full_author)].index[0]
+                author_id = str(tlg.loc[author_index, 'TLG_AUTHOR'])
+                author_id = author_id.rjust(4, "0")
+            elif len(tlg[tlg['TITLE'] == full_author]) > 0:                                  # For errors like Odyssea which is in authors
 
-    author_index = tlg[(tlg['AUTHOR'] == full_author)].index[0]
-    author_id = str(tlg.loc[author_index, 'TLG_AUTHOR'])
-    author_id = author_id.rjust(4,"0")
+                author_index = tlg[(tlg['TITLE'] == full_author)].index[0]
+                author_id = str(tlg.loc[author_index, 'TLG_AUTHOR'])
+                author_id = author_id.rjust(4, "0")
+                work_id = str(tlg.loc[author_index, 'TLG_WORK'])
+            else:
 
-    if work:
-        full_work = works[work]
-        if tlg[(tlg['AUTHOR'] == full_author) & (tlg['TITLE'] == full_work)].size > 0:
-            work_index = tlg[(tlg['AUTHOR'] == full_author) & (tlg['TITLE'] == full_work)].index[0]
-        # work_index = tlg[tlg['AUTHOR'] == full_author and ['WORK'] == full_work].index.values
-            work_id = str(tlg.loc[work_index, 'TLG_WORK'])
+                file = open('unknown_authors.txt', 'a')
+                file.write(full_author + '\n')
+                file.close()
+                author_id = "0000"
+
+        except KeyError:
+            author_id = "0000"
+
     else:
+        author_id = "0000"
+
+    if work is not None:
+        try:
+            full_work = works[work]
+            if len(tlg[tlg["AUTHOR"] == full_author]) > 0 and len(tlg[tlg['TITLE'] == full_work]) > 0:
+                # if tlg[(tlg['AUTHOR'] == full_author) & (tlg['TITLE'] == full_work)].size > 0:
+                work_index = tlg[(tlg['AUTHOR'] == full_author) & (tlg['TITLE'] == full_work)].index[0]
+
+                work_id = str(tlg.loc[work_index, 'TLG_WORK'])
+            else:
+                work_id = "001"
+        except KeyError:
+            work_id = "001"
+    if work_id == "":
         work_id = "001"
 
-    if loc:
-        loc_id = str(loc)
+    if loc is not None:        loc_id = str(loc)
     else:
         loc_id = ""
 
@@ -47,7 +80,7 @@ def create_bibliographic_link(author: str, work: str, loc:int):
 
 
 
-print(create_bibliographic_link("A.", "Ag.", '65'))
+
 
 
 def main():
@@ -114,9 +147,21 @@ def main():
                                     if 'n' in element.attrib:
                                         bib_key += element.attrib['n']
                                     else:
+                                        link = [None] * 3
                                         for child in element[:]:
                                             if child.text is not None:
-                                                bib_key += child.text
+                                                if child.text in authors:
+                                                    link[0] = child.text
+                                                elif child.text in works:
+                                                    link[1] = child.text
+                                                elif child.text.isnumeric():
+                                                    link[2] = child.text
+
+
+
+                                        bib_key = create_bibliographic_link(link[0], link[1], link[2])
+
+
 
                                 if translation_counter > 0:
                                     file.write(
@@ -130,10 +175,20 @@ def main():
 
                                     if 'n' in book.attrib:
                                         bib_key += book.attrib['n']
+
                                     else:
+                                        link = [None] * 3
                                         for child in book[:]:
                                             if child.text is not None:
-                                                bib_key += child.text
+                                                if child.text in authors:
+                                                    link[0] = child.text
+                                                elif child.text in works:
+                                                    link[1] = child.text
+                                                elif child.text.isnumeric():
+                                                    link[2] = child.text
+
+                                        bib_key = create_bibliographic_link(link[0], link[1], link[2])
+
 
                                     if translation_counter > 0:
                                         file.write(
@@ -142,3 +197,4 @@ def main():
 
 
 
+main()
