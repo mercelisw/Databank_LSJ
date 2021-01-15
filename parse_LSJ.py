@@ -1,21 +1,20 @@
 import os
 import xml.etree.ElementTree as ET
 import pandas as pd
-import tqdm
 
 
 # TEI.2 -> (teiHeader) text -> (front) body -> div0 -> (head) entryFree
 # Left out Cyr. Cyrilli Glossarium
 
 def create_abbrev_dict(file):
-    with open(file, "r+") as input:
-        lines = input.readlines()
-        authors = {}
+    with open(file, "r+") as abbrev:
+        lines = abbrev.readlines()
+        authors_abbrev = {}
         for line in lines:
             line = line[:-1]
             line = line.split('\t')
-            authors[line[1]] = line[0]
-        return authors
+            authors_abbrev[line[1]] = line[0]
+        return authors_abbrev
 
 
 authors = create_abbrev_dict("abbrev_authors.csv")
@@ -24,17 +23,17 @@ works = {v: k for k, v in works.items()}
 
 
 def create_conversion_dicts():
-    author_rows = {}
-    only_works = {}
-    work_rows = {}
+    author_conversion = {}
+    only_works_conversion = {}
+    work_conversion = {}
 
     tlg = pd.read_csv('tlg_numbers.csv', sep='\t')
 
     for i in tlg.iterrows():
-        author_rows[i[1][2]] = i[1][0]
+        author_conversion[i[1][2]] = i[1][0]
 
     for i in tlg.iterrows():
-        only_works[i[1][3]] = str(i[1][0]) + ',' + i[1][1]
+        only_works_conversion[i[1][3]] = str(i[1][0]) + ',' + i[1][1]
 
     for i in tlg.iterrows():
         key = i[1][2] + ',' + i[1][3]
@@ -42,15 +41,15 @@ def create_conversion_dicts():
 
         value = value.split(',')
 
-        work_rows[key] = value
+        work_conversion[key] = value
 
-    return author_rows, only_works, work_rows
+    return author_conversion, only_works_conversion, work_conversion
 
 
 author_rows, only_works, work_rows = create_conversion_dicts()
 
 
-def create_bibliographic_link(author: str, work: str, loc: int):
+def create_bibliographic_link(author, work, loc):
     full_author = ""
     work_id = ""
 
@@ -143,7 +142,7 @@ def main():
 
                     previous_sense_levels = ['A', 'I', '1', 'a']
 
-                    id = word.attrib['id']
+                    word_id = word.attrib['id']
                     key = word.attrib['key']
                     senses = word.findall("sense")
                     for sense in senses:
@@ -165,7 +164,7 @@ def main():
                                 translation = element.text
                                 if bib_key != "":
                                     file.write(
-                                        id[1:] + '\t' + key + '\t' + "\t".join(
+                                        word_id[1:] + '\t' + key + '\t' + "\t".join(
                                             sense_levels) + "\t" + translation + "\t" + bib_key + "\n")
                                 translation_counter += 1
 
@@ -191,7 +190,7 @@ def main():
 
                                 if translation_counter > 0:
                                     file.write(
-                                        id[1:] + '\t' + key + '\t' + "\t".join(
+                                        word_id[1:] + '\t' + key + '\t' + "\t".join(
                                             sense_levels) + "\t" + translation + "\t" + bib_key + "\n")
 
                             if element.tag == 'cit':  # bibliography for citations
@@ -218,7 +217,7 @@ def main():
 
                                     if translation_counter > 0:
                                         file.write(
-                                            id[1:] + '\t' + key + '\t' + "\t".join(
+                                            word_id[1:] + '\t' + key + '\t' + "\t".join(
                                                 sense_levels) + "\t" + translation + "\t" + bib_key + "\n")
 
 

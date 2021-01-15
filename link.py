@@ -28,10 +28,9 @@ class Bibliographic():
                 self.subdoc = int(self.subdoc) - 1
             for sentence in xml_root.findall(".//sentence[@document_id='{}'][@subdoc='{}']".format(doc_id, self.subdoc)):
                 for word in sentence[:]:
-
-                    if word.attrib["lemma"] == self.word:
-                        result.append(word.attrib["wid"])
-                        return result
+                    if "lemma" in word.attrib:
+                        if word.attrib["lemma"] == self.word:
+                            return word.attrib["wid"]
 
         if len(result) == 0:
             for sentence in xml_root.findall(".//sentence[@document_id='{}']".format(doc_id, self)):
@@ -40,7 +39,7 @@ class Bibliographic():
                         if word.attrib["lemma"] == self.word:
                             result.append(word.attrib["wid"])
 
-        return result
+        return ', '.join(result)
 
 for file in os.listdir('tst'):
     with open('tst/' + file, 'r', encoding='UTF-8') as csv:
@@ -68,10 +67,11 @@ for file in os.listdir('tst'):
                     biblio = Bibliographic(line[0], line[1], reference_fields
                                            [0], reference_fields[1], str(reference_fields[2]))
 
-                    line.append(','.join(biblio.find_occurences(xml_poetry)))
-                    line.append(','.join(biblio.find_occurences(xml_prose)))
+                    line.append(biblio.find_occurences(xml_poetry))
+                    line.append(biblio.find_occurences(xml_prose))
 
                     final_csv.write('\t'.join(line) + '\n')
+                    print(line[0])
 
                 else:
                     output.write(line[7])
