@@ -29,8 +29,10 @@ def create_conversion_dicts():
 
     tlg = pd.read_csv('tlg_numbers.csv', sep='\t')
 
+    # structure tlg: 0: TLG_AUTHOR	1:TLG_WORK	2:AUTHOR	3:TITLE
+
     for i in tlg.iterrows():
-        author_conversion[i[1][2]] = i[1][0]
+        author_conversion[i[1][2]] = i[1][0]        # i[0] is the index
 
     for i in tlg.iterrows():
         only_works_conversion[i[1][3]] = str(i[1][0]) + ',' + i[1][1]
@@ -57,12 +59,12 @@ def create_bibliographic_link(author, work, loc):
 
         if author in authors:
             full_author = authors[author]
-            full_author_upper = full_author.upper()
+            full_author_upper = full_author.upper()         # UPPER CASE in tlg_numbers
 
             if full_author_upper in author_rows:
 
                 author_id = str(author_rows[full_author_upper])
-                author_id = author_id.rjust(4, "0")
+                author_id = author_id.rjust(4, "0")         # always 4 characters long
 
             elif full_author in only_works:  # For errors like Odyssea which is in authors
 
