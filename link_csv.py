@@ -29,13 +29,13 @@ lemma = []
 lsj['word_id'] = ""
 
 
-for index, link in lsj.iterrows():
-    reference = link['ref']
-    key = link['key']
+for row in lsj.itertuples():
+    reference = row.ref
+    key = row.key
     result = []
 
-    if index%10 == 0:
-        print(index)
+    if row.Index % 10 == 0:
+        print(row.Index)
 
     if reference.startswith('urn'):
         bibliography = urn_to_ids(reference)
@@ -44,15 +44,15 @@ for index, link in lsj.iterrows():
             mask = ((xml['doc'].values == bibliography['doc']) & (xml['subdoc'].values == bibliography['subdoc']) \
                    & (xml['lemma'].values == key))
             doc_subdoc = xml[mask]
-            for i, hit in doc_subdoc.iterrows():
+            for doc_row in doc_subdoc.itertuples():
 
-                word_id = hit['word']
+                word_id = doc_row.word
                 result.append(word_id)
 
     else:
         pass             #TODO handling of non-urn links!!
 
-    lsj.at[index, 'word_id'] = result
+    lsj.at[row.Index, 'word_id'] = result
 
 lsj.to_csv('tst/LSJ_2_wid.csv', sep='\t', encoding = 'UTF-8')
 
