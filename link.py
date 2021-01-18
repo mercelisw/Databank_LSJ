@@ -52,7 +52,7 @@ for file in os.listdir('tst'):
                 line = line.split('\t')
                 urn = line[7]
                 if urn.startswith('urn'):
-                    pattern = r".perseus-\w+\d"  # remove all text, until you get AUTHOR:WORK:su.bc.oc
+                    pattern = r".perseus-\w+\d"  # remove all text, until you get AUTHOR:WORK:su.bd.oc
                     urn = re.sub(pattern, '', urn)
                     reference = ''.join(digit for digit in urn if not digit.isalpha())
                     reference = reference[3:-1]
