@@ -59,7 +59,7 @@ for row in lsj.itertuples():
                 result.append(str(word_id))
                 nb_of_results += 1
 
-        if bibliography['subdoc'].isalnum():  # try line number
+        if bibliography['subdoc'].isalnum() and len(result) == 0:  # try line number
             zero_five_line_number = int(bibliography['subdoc']) // 5 * 5
             if zero_five_line_number == 0:
                 zero_five_line_number = 1
@@ -95,7 +95,7 @@ for row in lsj.itertuples():
                 result.append(str(word_id))
                 nb_of_results += 1
 
-        else:
+        if len(result) == 0:
             mask = (xml['doc'].values == bibliography['doc'])
             doc_subdoc = xml[mask]
             if doc_subdoc.size == 0:
