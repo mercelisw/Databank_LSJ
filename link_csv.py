@@ -59,7 +59,7 @@ for row in lsj.itertuples():
                 result.append(str(word_id))
                 nb_of_results += 1
 
-        if bibliography['subdoc'].isalpha():  # try line number
+        if bibliography['subdoc'].isalnum():  # try line number
             zero_five_line_number = int(bibliography['subdoc']) // 5 * 5
             if zero_five_line_number == 0:
                 zero_five_line_number = 1
