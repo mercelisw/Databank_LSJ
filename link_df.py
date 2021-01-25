@@ -18,7 +18,7 @@ def urn_to_ids(ref: str):  # Returns a string: doc \t subdoc
 
 xml = pd.read_csv('lemma_lookup.csv', sep='\t', encoding='UTF-8', names=['doc', 'subdoc', 'sentence', 'line', 'word', 'lemma'],
                  dtype={'doc': str, 'subdoc': str, 'sentence': int, 'line': str, 'word': int, 'lemma': str})
-lsj = pd.read_csv('tst/LSJ_2.csv', sep='\t', encoding='UTF-8', names=['id', 'key', 'sense_1', 'sense_2', 'sense_3',
+lsj = pd.read_csv('first1000.csv', sep='\t', encoding='UTF-8', names=['id', 'key', 'sense_1', 'sense_2', 'sense_3',
                                                                       'sense_4', 'translation', 'ref'],
                   dtype={'id': int, 'key': str, 'sense_1': str, 'sense_2': str, 'sense_3' : int, 'sense_4': str,
                          'translation': str, 'ref': str})
@@ -40,17 +40,37 @@ xml.sort_values(by=['subdoc'], inplace=True)
 
 # Try to merge on subdoc
 
-subdoc_merge = pd.merge_asof(lsj.dropna(), xml.dropna(), on=['subdoc'], by=['lemma', 'doc'], tolerance = 4)  # merge on subdoc, with tolerance 4 for line per 5
+subdoc_merge = pd.merge_asof(lsj[lsj['subdoc'].notna()], xml[xml['subdoc'].notna()], on=['subdoc'], by=['lemma', 'doc'], tolerance = 4)  # merge on subdoc, with tolerance 4 for line per 5
+
+
+
+lsj.rename(columns={'subdoc': 'line'}, inplace=True)   # rename columsn to match with xml
+xml['line'] = pd.to_numeric(xml['line'], errors='coerce')
+xml.sort_values(by=['line'], inplace=True)
+
+subdoc_merge_lines = pd.merge_asof(lsj[lsj['line'].notna()], xml[xml['line'].notna()], on=['line'], by=['lemma', 'doc'], tolerance = 4)  # merge on subdoc, with tolerance 4 for line per 5
+
+subdoc_merge_docs = pd.merge(lsj[lsj['doc'].notna()], xml[xml['doc'].notna()], on=['doc', 'lemma'])
 
 #TODO Try to merge on line
 
+
+test = subdoc_merge[subdoc_merge['word'].notnull()]
+test_line = subdoc_merge_lines[subdoc_merge_lines['word'].notnull()]
+subdoc_merge.fillna(subdoc_merge_lines, inplace=True) # fills remaining NaN results from lines
+# subdoc_merge.fillna(subdoc_merge_docs, inplace=True)
+
 failed_merge = subdoc_merge[subdoc_merge['word'].isnull()]
 
+merge_docs = pd.merge(failed_merge, subdoc_merge_docs[subdoc_merge_docs['word'].notna()], on=['id', 'lemma', 'sense_1', 'sense_2', 'sense_3', 'sense_4', 'doc'])
+
+print(failed_merge)
+test = subdoc_merge[subdoc_merge['word'].notnull()]
 #concatenate
 
 subdoc_merge.sort_index(inplace=True)
 
-print(subdoc_merge.head())
-
-print(subdoc_merge)
-print(subdoc_merge['word'].isna().sum())
+# print(subdoc_merge.head())
+#
+# print(subdoc_merge)
+# print(subdoc_merge['word'].isna().sum())

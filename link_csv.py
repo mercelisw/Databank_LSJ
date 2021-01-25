@@ -23,11 +23,16 @@ xml = pd.read_csv('lemma_lookup.csv', sep='\t', encoding='UTF-8',
                   names=['doc', 'subdoc', 'sentence', 'line', 'word', 'lemma'],
                   dtype={'doc': str, 'subdoc': str, 'sentence': int, 'line': str, 'word': int, 'lemma': str})
 
-lsj = pd.read_csv('tst/LSJ_2.csv', sep='\t', encoding='UTF-8', names=['id', 'key', 'sense_1', 'sense_2', 'sense_3',
+lsj = pd.read_csv('first1000.csv', sep='\t', encoding='UTF-8', names=['id', 'key', 'sense_1', 'sense_2', 'sense_3',
                                                                       'sense_4', 'translation', 'ref'],
                   dtype={'id': int, 'key': str, 'sense_1': str, 'sense_2': str, 'sense_3': int, 'sense_4': str,
                          'translation': str, 'ref': str})
-nb_of_results = 0
+nb_of_direct_results = 0
+nb_of_other_line_results = 0
+nb_of_strange_subdoc_results = 0
+nb_of_whole_doc_results = 0
+
+
 lsj['word_id'] = ""
 doc_not_found = 0
 
@@ -57,7 +62,7 @@ for row in lsj.itertuples():
             for doc_row in doc_subdoc.itertuples():
                 word_id = doc_row.word
                 result.append(str(word_id))
-                nb_of_results += 1
+                nb_of_direct_results += 1
 
         if bibliography['subdoc'].isalnum() and len(result) == 0:  # try line number
             zero_five_line_number = int(bibliography['subdoc']) // 5 * 5
@@ -73,7 +78,7 @@ for row in lsj.itertuples():
             for doc_row in doc_subdoc.itertuples():
                 word_id = doc_row.word
                 result.append(str(word_id))
-                nb_of_results += 1
+                nb_of_other_line_results += 1
 
         if len(result) == 0 and len(bibliography['subdoc']) > 0:  # for subdocs like 1.2.3 or others
             mask = ((xml['doc'].values == bibliography['doc']) &
@@ -84,7 +89,7 @@ for row in lsj.itertuples():
             for doc_row in doc_subdoc.itertuples():
                 word_id = doc_row.word
                 result.append(str(word_id))
-                nb_of_results += 1
+                nb_of_strange_subdoc_results += 1
 
         elif len(result) == 0:  # if nothing found try whole document
             mask = ((xml['doc'].values == bibliography['doc']) &
@@ -93,7 +98,7 @@ for row in lsj.itertuples():
             for doc_row in doc_subdoc.itertuples():
                 word_id = doc_row.word
                 result.append(str(word_id))
-                nb_of_results += 1
+                nb_of_whole_doc_results += 1
 
         if len(result) == 0:
             mask = (xml['doc'].values == bibliography['doc'])
@@ -108,7 +113,10 @@ for row in lsj.itertuples():
     print(str(row.Index) + ': ' + ','.join(result))
     lsj.at[row.Index, 'word_id'] = result
 
-print("Hits: " + str(nb_of_results))
+print("Direct results: " + str(nb_of_direct_results))
+print('Line results:' + str(nb_of_other_line_results))
+print('Strange subdoc results:' + str(nb_of_strange_subdoc_results))
+print('Whole document results: ' + str(nb_of_whole_doc_results))
 print("Documents not found: " + str(doc_not_found))
 
 lsj.to_csv('tst/LSJ_2_wid.csv', sep='\t', encoding='UTF-8')
