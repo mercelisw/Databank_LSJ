@@ -17,7 +17,7 @@ def urn_to_ids(ref: str):  # Returns a string: doc \t subdoc
 
 
 xml = pd.read_csv('lemma_lookup.csv', sep='\t', encoding='UTF-8', names=['doc', 'subdoc', 'sentence', 'line', 'word', 'lemma'],
-                 dtype={'doc': str, 'subdoc': str, 'sentence': int, 'line': str, 'word': int, 'lemma': str})
+                 dtype={'doc': str, 'subdoc': str, 'sentence': int, 'line': str, 'word': str, 'lemma': str})
 lsj = pd.read_csv('first1000.csv', sep='\t', encoding='UTF-8', names=['id', 'key', 'sense_1', 'sense_2', 'sense_3',
                                                                       'sense_4', 'translation', 'ref'],
                   dtype={'id': int, 'key': str, 'sense_1': str, 'sense_2': str, 'sense_3' : int, 'sense_4': str,
@@ -60,16 +60,28 @@ test_line = subdoc_merge_lines[subdoc_merge_lines['word'].notnull()]
 subdoc_merge.fillna(subdoc_merge_lines, inplace=True) # fills remaining NaN results from lines
 # subdoc_merge.fillna(subdoc_merge_docs, inplace=True)
 
+
+
 failed_merge = subdoc_merge[subdoc_merge['word'].isnull()]
 
-merge_docs = pd.merge(failed_merge, subdoc_merge_docs[subdoc_merge_docs['word'].notna()], on=['id', 'lemma', 'sense_1', 'sense_2', 'sense_3', 'sense_4', 'doc'])
+test_docs = subdoc_merge_docs.groupby(['id', 'lemma', 'sense_1','sense_2','sense_3','sense_4','doc'], as_index=False).agg({'word': lambda x: str(list(x))})
 
-print(failed_merge)
+mergetest = failed_merge.drop(columns=['word']).merge(test_docs, 'left', on = ['id', 'lemma', 'sense_1','sense_2','sense_3','sense_4','doc'])
+test_mergetest = mergetest[mergetest['word'].notnull()]
+
+
+
 test = subdoc_merge[subdoc_merge['word'].notnull()]
 #concatenate
 
 subdoc_merge.sort_index(inplace=True)
 
+result = pd.concat([test, mergetest])
+
+test_result = result[result['word'].notnull()]
+result.sort_values(by=['id', 'sense_1', 'sense_2', 'sense_3', 'sense_4'], inplace=True)
+
+1==1
 # print(subdoc_merge.head())
 #
 # print(subdoc_merge)
