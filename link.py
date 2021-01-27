@@ -2,9 +2,9 @@ import os
 import re
 import xml.etree.ElementTree as ET
 
-xml_poetry = ET.parse('parsed_xmls/AllPoetry_parsed.xml')
+xml_poetry = ET.parse('parsed_xmls/01 - AllPoetry_parsed.xml')
 #
-xml_prose = ET.parse('parsed_xmls/AllProse_parsed.xml')
+xml_prose = ET.parse('parsed_xmls/02 - AllProse_parsed.xml')
 
 final_csv = open('testcsv.csv', 'w+', encoding='UTF-8')
 

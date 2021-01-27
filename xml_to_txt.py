@@ -4,6 +4,8 @@ import os
 missing_subdocs = []
 missing_lemmata = []
 
+## IMPORTANT: afterwards, remove "
+
 with open('lemma_lookup.csv', 'w+', encoding='UTF-8') as output:
     for xml in os.listdir('parsed_xmls'):
         read_xml = ET.parse('parsed_xmls/' + xml)
