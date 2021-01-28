@@ -47,7 +47,7 @@ for index in range(len(os.listdir('LSJ_output'))):
     lsj = pd.concat([lsj, split], axis=1)  # new reference in dataframe
 
     lsj.rename(columns={'key': 'lemma', 0: 'doc', 1: 'subdoc'}, inplace=True)  # rename columns to match with xml
-
+    lsj['lemma'] = lsj['lemma'].str.replace('\d+', '')              # removing unwanted digits in lemmata
     lsj['subdoc'] = pd.to_numeric(lsj['subdoc'], errors='coerce',
                                   downcast='float')  # merge_asof needs numbers, bonus: subdocs like 1.3 become floats
     lsj.sort_values(by=['subdoc'], inplace=True)  # sorting for the merge_asof
@@ -56,6 +56,7 @@ for index in range(len(os.listdir('LSJ_output'))):
     xml.sort_values(by=['subdoc'], inplace=True)
     subdoc_merge = pd.merge_asof(lsj[lsj['subdoc'].notna()], xml[xml['subdoc'].notna()],
                                  on=['subdoc'], by=['lemma', 'doc'], tolerance=4)
+
     # merge on subdoc, with tolerance 4 for lines numbered per 5
 
     # TRY TO MERGE ON LINE NUMBER
