@@ -18,8 +18,9 @@ def urn_to_ids(ref: str):  # Returns a string: doc \t subdoc
 
 
 xml = pd.read_csv('lemma_lookup.csv', sep='\t', encoding='UTF-8',
-                  names=['doc', 'subdoc', 'sentence', 'line', 'word', 'lemma'],
-                  dtype={'doc': str, 'subdoc': str, 'sentence': int, 'line': str, 'word': str, 'lemma': str})
+                  names=['doc', 'subdoc', 'sentence', 'line', 'word', 'lemma', 'form'],
+                  dtype={'doc': str, 'subdoc': str, 'sentence': int, 'line': str,
+                         'word': str, 'lemma': str, 'form':str})
 
 xml['subdocstring'] = xml['subdoc']  # extra column to store non-numeric subdocs
 
@@ -109,6 +110,9 @@ for index in range(len(os.listdir('LSJ_output'))):
                                                           on=['id', 'lemma', 'sense_1', 'sense_2', 'sense_3', 'sense_4',
                                                               'translation', 'ref', 'doc', 'subdoc'])
     result.drop(columns=['ref', 'subdocstring'], inplace=True)  # remove redundant columns
+
+    result['word'] = result['word'].dropna().apply(lambda x: list(map(int, x.strip('[]\'\'').split('\', \''))))
+    # converting strings to lists of ints, by stripping brackets and quotes, and splitting on "', '"
 
     result.to_csv('LSJ_words/LSJ_{}_words.csv'.format(index + 1), sep='\t', encoding='UTF-8')  # write to csv
 

@@ -21,50 +21,50 @@ with open('lemma_lookup.csv', 'w+', encoding='UTF-8') as output:
                     if 'lemma' in word.attrib and 'subdoc' in sentence.attrib:
                         if 'line' in word.attrib:
                             output.write(
-                                sentence.attrib['document_id'] + '\t' + sentence.attrib['subdoc'] + '\t' + sentence.attrib[
-                                    'id'] + '\t' +
-                                word.attrib['line'] + '\t' + word.attrib['wid'] + '\t' + word.attrib['lemma'] + '\n')
+                                sentence.attrib['document_id'] + '\t' + sentence.attrib['subdoc'] + '\t' +
+                                sentence.attrib['id'] + '\t' + word.attrib['line'] + '\t' + word.attrib['wid'] + '\t' +
+                                word.attrib['lemma']+ '\t' + word.attrib['form'] + '\n')
                         else:
                             output.write(
-                                sentence.attrib['document_id'] + '\t' + sentence.attrib['subdoc'] + '\t' + sentence.attrib[
-                                    'id'] + '\t' +
-                                '' + '\t' + word.attrib['wid'] + '\t' + word.attrib['lemma'] + '\n')
+                                sentence.attrib['document_id'] + '\t' + sentence.attrib['subdoc'] + '\t' +
+                                sentence.attrib['id'] + '\t' + '' + '\t' + word.attrib['wid'] + '\t' +
+                                word.attrib['lemma'] + word.attrib['form'] + '\n')
 
                     elif 'lemma' in word.attrib:
                         if 'line' in word.attrib:
-                            output.write(sentence.attrib['document_id'] + '\t' + '' + '\t' + sentence.attrib['id'] + '\t' +
-                                         word.attrib['line'] + '\t' + word.attrib['wid'] + '\t' + word.attrib[
-                                             'lemma'] + '\n')
+                            output.write(sentence.attrib['document_id'] + '\t' + '' + '\t' + sentence.attrib['id'] +
+                                         '\t' + word.attrib['line'] + '\t' + word.attrib['wid'] + '\t' +
+                                         word.attrib['lemma']  + word.attrib['form'] + '\n')
                             missing_subdocs.append(sentence.attrib['document_id'])
                         else:
-                            output.write(sentence.attrib['document_id'] + '\t' + '' + '\t' + sentence.attrib['id'] + '\t'
-                                         + '' + '\t' + word.attrib['wid'] + '\t' + word.attrib['lemma'] + '\n')
+                            output.write(sentence.attrib['document_id'] + '\t' + '' + '\t' + sentence.attrib['id'] +
+                                         '\t' + '' + '\t' + word.attrib['wid'] + '\t' + word.attrib['lemma'] +
+                                         word.attrib['form'] + '\n')
                             missing_subdocs.append(sentence.attrib['document_id'])
 
                     elif 'subdoc' in sentence.attrib:
                         if 'line' in word.attrib:
                             output.write(
-                                sentence.attrib['document_id'] + '\t' + sentence.attrib['subdoc'] + '\t' + sentence.attrib[
-                                    'id'] + '\t' + word.attrib['line'] + '\t' +
-                                word.attrib['wid'] + '\t' + '' + '\n')
+                                sentence.attrib['document_id'] + '\t' + sentence.attrib['subdoc'] + '\t' +
+                                sentence.attrib['id'] + '\t' + word.attrib['line'] + '\t' + word.attrib['wid'] +
+                                '\t' + ''  + word.attrib['form'] + '\n')
                             missing_lemmata.append(word.attrib['wid'])
 
                         else:
                             output.write(
-                                sentence.attrib['document_id'] + '\t' + sentence.attrib['subdoc'] + '\t' + sentence.attrib[
-                                    'id'] + '\t' + '' + '\t' +
-                                word.attrib['wid'] + '\t' + '' + '\n')
+                                sentence.attrib['document_id'] + '\t' + sentence.attrib['subdoc'] + '\t' +
+                                sentence.attrib['id'] + '\t' + '' + '\t' + word.attrib['wid'] + '\t' + '' +
+                                word.attrib['form'] + '\n')
                             missing_lemmata.append(word.attrib['wid'])
 
                     else:
                         if 'line' in word.attrib:
-                            output.write(sentence.attrib['document_id'] + '\t' + '' + '\t' + sentence.attrib['id'] + '\t' +
-                                         word.attrib['line'] + '\t' +
-                                         word.attrib['wid'] + '\t' + '' + '\n')
+                            output.write(sentence.attrib['document_id'] + '\t' + '' + '\t' + sentence.attrib['id'] +
+                                         '\t' + word.attrib['line'] + '\t' + word.attrib['wid'] + '\t' + '' +
+                                         word.attrib['form'] + '\n')
                         else:
-                            output.write(sentence.attrib['document_id'] + '\t' + '' + '\t' + sentence.attrib[
-                                'id'] + '\t' + '' + '\t' +
-                                         word.attrib['wid'] + '\t' + '' + '\n')
+                            output.write(sentence.attrib['document_id'] + '\t' + '' + '\t' + sentence.attrib['id'] +
+                                         '\t' + '' + '\t' + word.attrib['wid'] + '\t' + '' + word.attrib['form'] + '\n')
 
 with open('missing_subdocs.txt', 'w+', encoding='UTF-8') as output:
     for missing in set(missing_subdocs):

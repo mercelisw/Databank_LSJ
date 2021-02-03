@@ -6,7 +6,7 @@ import pandas as pd
 # TEI.2 -> (teiHeader) text -> (front) body -> div0 -> (head) entryFree
 # Left out Cyr. Cyrilli Glossarium
 
-def create_abbrev_dict(file):
+def create_abbrev_dict(file):                           # S. OT. => Sophocles, Oedipus Tyrannus
     with open(file, "r+") as abbrev:
         lines = abbrev.readlines()
         authors_abbrev = {}
@@ -23,7 +23,7 @@ works = {v: k for k, v in works.items()}
 
 
 def create_conversion_dicts():
-    author_conversion = {}
+    author_conversion = {}                              # Sophocles, Oedipus Tyrannus => 0011.004
     only_works_conversion = {}
     work_conversion = {}
 
