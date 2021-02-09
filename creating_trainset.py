@@ -21,14 +21,15 @@ def include_context(word_id: int):
     context = xml[(xml['sentence'] == xml['sentence'][index]) & (xml['doc'] == xml['doc'][index]) & (
                 xml['subdoc'] == xml['subdoc'][index])]
 
-    return ' '.join(context['form'].values) # return a string with the corresponding form values
+    return ' '.join(map(str, context['form'].values)) # return a string with the corresponding form values
 
 
 xml = pd.read_csv('lemma_lookup.csv', sep='\t', encoding='UTF-8',
                   names=['doc', 'subdoc', 'sentence', 'line', 'word', 'lemma', 'form'],
                   dtype={'doc': str, 'subdoc': str, 'sentence': int, 'line': str,
                          'word': int, 'lemma': str, 'form': str})
-test_data = []
+
+training_data = []
 
 for chosen_word in chosen_words:
     print(chosen_word)
@@ -52,26 +53,22 @@ for chosen_word in chosen_words:
 
     chosen_xml = xml[xml['lemma'] == chosen_word]
 
-    # Exclude all in chosen_word_lsj
+    # Include all in chosen_word_lsj
 
     all_xml_data = chosen_xml['word'].values
-    possible_test_data = [word for word in all_xml_data if word not in training_data_ids]
-    training_data = [word for word in all_xml_data if word in training_data_ids]
 
-    # Random subset for test
+    # training_data = [word for word in all_xml_data if word in training_data_ids]
+    for id in training_data_ids:
+        training_data.append(id)
 
-    random.seed(42)  # set seed to ensure that the test set is random, but every time the same
-    test_data.append(random.sample(possible_test_data, 20))
-
-flat_test_data = [word for per_word_data in test_data for word in per_word_data] # flatten the list of test data
 
 
 all_context = []                                        #Adding context
-for index, word in enumerate(sorted(flat_test_data)):
-    print(index)
+for index, word in enumerate(sorted(training_data)):
+    print(str(index) + '/' + str(len(training_data)))
     all_context.append(include_context(word))
 
-test_data_xml = xml[xml['word'].isin(flat_test_data)]
-test_data_xml['context'] = all_context
+training_data_xml = xml[xml['word'].isin(training_data)]
+training_data_xml['context'] = all_context
 
-test_data_xml.to_csv('test_data.csv', sep='\t', encoding='UTF-8')
+training_data_xml.to_csv('training_data.csv', sep='\t', encoding='UTF-8')
