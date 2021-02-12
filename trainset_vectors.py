@@ -1,7 +1,8 @@
 import pandas as pd
 import unicodedata as ucd
 
-chosen_words = ['εἰς', 'λέγω', 'ἄλλος', 'πόλις', 'οὐδείς', 'ὦ', 'λαμβάνω', 'ἔτι', 'παῖς', 'ἀγαθός']
+# chosen_words = ['εἰς', 'λέγω', 'ἄλλος', 'πόλις', 'οὐδείς', 'ὦ', 'λαμβάνω', 'ἔτι', 'παῖς', 'ἀγαθός']
+chosen_words = ['ἀρχή']
 position_in_alphabet = {'α': '1', 'β': '2', 'γ': '3', 'δ': '4', 'ε': '5', 'ζ': '7', 'η': '8', 'θ': '9',
                         'ι': '10', 'κ': '11', 'λ': '12', 'μ': '13', 'ν': '14', 'ξ': '15', 'ο': '16',
                         'π': '17', 'ρ': '20', 'σ': '21', 'τ': '22', 'υ': '23', 'φ': '24', 'χ': '25',
@@ -12,7 +13,7 @@ def first_letter_without_accents(word: str):
     norm_word = ucd.normalize('NFKD', word)
     return norm_word[0]
 
-training_vector = pd.read_csv('vectors_training.csv', sep='\t', encoding='UTF-8', header=None)
+training_vector = pd.read_csv('vectors_training_arxh.csv', sep='\t', encoding='UTF-8', header=None)
 
 ## Concatenate the 100 vectors into one df.column
 
@@ -25,6 +26,7 @@ for i in range(98): #100 vectors expected
 training_vector_df = training_vector.loc[:, 0].to_frame()
 training_vector_df['vectors'] = concat_training_vector
 training_vector_df.columns = ['word', 'vectors']
+training_vector_df['word'] = training_vector_df['word'].apply(lambda x: x - 1)
 
 all_chosen_word_lsj = []
 
@@ -61,4 +63,4 @@ combined_senses = pd.merge(chosen_xml, senses_df, on=['word', 'lemma', 'form'])
 
 final_training_data = pd.merge(combined_senses, training_vector_df, on='word')
 
-final_training_data.to_csv('training_data_vectors.csv', sep='\t', encoding='UTF-8')
+final_training_data.to_csv('training_data_vectors_arxh.csv', sep='\t', encoding='UTF-8')
