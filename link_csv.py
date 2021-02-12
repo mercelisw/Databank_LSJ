@@ -20,8 +20,9 @@ def urn_to_ids(ref: str):  # Returns a dictionary containing the doc-id and the 
 
 
 xml = pd.read_csv('lemma_lookup.csv', sep='\t', encoding='UTF-8',
-                  names=['doc', 'subdoc', 'sentence', 'line', 'word', 'lemma'],
-                  dtype={'doc': str, 'subdoc': str, 'sentence': int, 'line': str, 'word': int, 'lemma': str})
+                  names=['doc', 'subdoc', 'sentence', 'line', 'word', 'lemma', 'form'],
+                  dtype={'doc': str, 'subdoc': str, 'sentence': int, 'line': str,
+                         'word': int, 'lemma': str, 'form':str})
 
 lsj = pd.read_csv('first1000.csv', sep='\t', encoding='UTF-8', names=['id', 'key', 'sense_1', 'sense_2', 'sense_3',
                                                                       'sense_4', 'translation', 'ref'],
